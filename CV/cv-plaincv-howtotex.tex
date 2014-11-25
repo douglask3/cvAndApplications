@@ -33,11 +33,22 @@
 	\sectionrule{0pt}{0pt}{-5pt}{3pt}
 	}
 
+
+\addtolength{\oddsidemargin}{-.575in}
+\addtolength{\evensidemargin}{-.575in}
+\addtolength{\textwidth}{1.25in}
+
+\addtolength{\topmargin}{-.575in}
+\addtolength{\textheight}{0.55in}
 %%% Macros
 %%% ------------------------------------------------------------
 \newlength{\spacebox}
 \settowidth{\spacebox}{8888888888}				% Box to align text
-\newcommand{\sepspace}{\vspace*{1em}}			% Vertical space macro
+\newcommand{\sepspace}{\vspace*{0em}}			% Vertical space macro
+\definecolor{gray}{HTML}{EEEEEE}
+
+
+\newcommand{\NewPart}[1]{\vspace*{-0.5em} \section*{\uppercase{#1}} \vspace*{-0.75em} }
 
 \newcommand{\MyName}[1]{
 		\Huge \usefont{OT1}{phv}{b}{n} \hfill #1 		% Name
@@ -46,8 +57,6 @@
 \newcommand{\MySlogan}[1]{
 		\large \usefont{OT1}{phv}{m}{n}\hfill \textit{#1} % Slogan (optional)
 		\par \normalsize \normalfont}
-
-\newcommand{\NewPart}[1]{\section*{\uppercase{#1}}}
 
 \newcommand{\PersonalEntry}[2]{
 		\noindent\hangindent=2em\hangafter=0 		% Indentation
@@ -61,11 +70,12 @@
 		\textit{#1}}								% Entry name (birth, address, etc.)
 		\hspace{1.5em} #2 \par}					% Entry value	
 		
-\newcommand{\EducationEntry}[4]{
-		\noindent \textbf{#1} \hfill 					% Study
-		\colorbox{Black}{%
-			\parbox{6.5em}{%
-			\hfill\color{White}#2}} \par				% Duration
+\newcommand{\EducationEntry}[4]{ \vspace*{0.7em}
+		\noindent \colorbox{gray}{%
+			\parbox{46em}{%
+			\color{Black}\textbf{#2} \hspace{0.5cm} \textbf{#1}}} 				% Duration
+		\vspace*{-1em}
+		\hfill 	\par				% Study
 		\noindent \textit{#3} \par					% School
 		\noindent\hangindent=2em\hangafter=0 \small #4 	% Description
 		\normalsize \par}
@@ -78,9 +88,9 @@
 		\normalsize \par}
 		
 \newcommand{\BibEntry}[2]{
-		\noindent \textbf{#1} \hfill \par					% Study
-		\noindent\hangindent=2em\hangafter=0 \small #2 	% Description
-		\normalsize \par}
+		\vspace*{-1em} \noindent \textbf{#1} \hfill \par					% Study
+		\hangindent=0em\hangafter=0 \small #2} 	% Description
+		%\normalsize \par}
 		
 		
 
@@ -127,18 +137,18 @@
   
   
 \NewPart{Awards}
-\EducationEntry{\href{http://www.hdr.mq.edu.au/information_about/scholarships}{International Macquarie University Research \\ Excellence Scholarship (iMQRES)}}{2010-2014} {Macquarie University postgraduate award}{For completion of Ph.D.}
+\EducationEntry{\href{http://www.hdr.mq.edu.au/information_about/scholarships}{International Macquarie University Research \\ Excellence Scholarship (iMQRES)}}{2010-2014} {\newline Macquarie University postgraduate award}{For completion of Ph.D.}
 \sepspace
 
 \EducationEntry{\href{http://www.hdr.mq.edu.au/information_for/current_candidates/financial_support}{Post Graduate Research Fund (PGRF)}}{2013} {Macquarie University - Competitive award to enhance postgraduate research experience}{Funding attendance at the 2013 AGU fall conference in order to present DGVM development and future projection of fire regimes and terrestrial carbon stocks under climate change}
 \sepspace
 
-\EducationEntry{Biology postgrad conference best presentation}{2011} {Biological Sciences,Macquarie University}{Best presentation out of the departments 78 postgraduate students at the annual post-graduate conference. Awarded for presentation on a vegetation model benchmarking system}
+\EducationEntry{Biology postgrad conference best presentation}{2011} {Biological Sciences, Macquarie University}{Best presentation out of the departments 78 postgraduate students at the annual post-graduate conference. Awarded for presentation on a vegetation model benchmarking system}
   
-\pagebreak  
+
 \NewPart{Publications}
 
-\BibEntry{In Refereed Journals}{\href{http://www.geosci-model-dev-discuss.net/7/931/2014/gmdd-7-931-2014.html}{\textbf{Kelley, D. I.}, Harrison, S. P. and Prentice, I. C.: Improved simulation of fire-vegetation interactions in the Land surface Processes and eXchanges Dynamic Global Vegetation Model (LPX-Mv1), Geoscientific Model Development Discussions, 7(1), 931--1000, 2014.}}
+\BibEntry{\newline In Refereed Journals}{\href{http://www.geosci-model-dev-discuss.net/7/931/2014/gmdd-7-931-2014.html}{\textbf{Kelley, D. I.}, Harrison, S. P. and Prentice, I. C.: Improved simulation of fire-vegetation interactions in the Land surface Processes and eXchanges Dynamic Global Vegetation Model (LPX-Mv1), Geoscientific Model Development Discussions, 7(1), 931--1000, 2014.}}
 
 
 \BibEntry{} {\href{http://onlinelibrary.wiley.com/doi/10.1002/jgrg.20118/abstract}{Kaminski, T., Knorr, W., Sch, G., Scholze, M., Rayner, P. J., Zaehle, S., Blessing, S., Dorigo, W., Gayler, V., Giering, R., Gobron, N., Grant, J. P., Houweling, S., Kato, T., Kattge, J., \textbf{Kelley, D. I.}, Kemp, S., Koffi, E. N., Mathieu, P. P., Pinty, B., Reick, C. H., Vossbeck, M., Widmann, H. and Ziehn, T.: The BETHY / JSBACH Carbon Cycle Data Assimilation System : experiences and challenges, Journal of Geophysical Research, available on-line, 2013.}}
@@ -154,7 +164,7 @@
 \sepspace
 %\pagebreak
 
-\BibEntry{Submitted} {Harrison, S. P., \textbf{Kelley, D. I.}, Wang, H., Herbert, A., Li, G., Bradstock, R., Fontaine, J., Enright, N., Murphy, B. P., Penman, T. and Russell-Smith, J.: Patterns in fire-response trait abundances in Australia using a new database of plot-level measurements for fire model evaluation., Global Ecology and Biogeography.}
+\BibEntry{\newline \newline Submitted} {Harrison, S. P., \textbf{Kelley, D. I.}, Wang, H., Herbert, A., Li, G., Bradstock, R., Fontaine, J., Enright, N., Murphy, B. P., Penman, T. and Russell-Smith, J.: Patterns in fire-response trait abundances in Australia using a new database of plot-level measurements for fire model evaluation., Global Ecology and Biogeography.}
 
 \BibEntry{} {\textbf{Kelley, D. I.}, Harrison, S. P.: Impact of re-sprouting on future forest survival and carbon stocks in fire-prone ecosystems, Ecological Research Letters}
 
@@ -162,10 +172,10 @@
 
 
 \NewPart{Presentations}
-\BibEntry{International conferences} {\textbf{Kelley, D I.}, Harrison, S. P. and Prentice, I. C.: Implications of introducing realistic fire response traits in a Dynamic Global Vegetation Model, AGU Fall Meeting Abstracts, 1,  p.6. Dec 2013.}
+\BibEntry{\newline International conferences} {\textbf{Kelley, D I.}, Harrison, S. P. and Prentice, I. C.: Implications of introducing realistic fire response traits in a Dynamic Global Vegetation Model, AGU Fall Meeting Abstracts, 1,  p.6. Dec 2013.}
 \sepspace
 
-\BibEntry{Visits and Internal Presentations} {\textbf{Kelley, D I.}, Harrison, S. P. and Prentice, I. C.: The LPX fire-enabled Vegetation Model, visit to Centre for Environmental Risk Management of Bushfires, University of Wollongong, NSW, Australia. May 2013.}
+\BibEntry{\newline \newline  Visits and Internal Presentations} {\textbf{Kelley, D I.}, Harrison, S. P. and Prentice, I. C.: The LPX fire-enabled Vegetation Model, visit to Centre for Environmental Risk Management of Bushfires, University of Wollongong, NSW, Australia. May 2013.}
 
 \BibEntry{} {\textbf{Kelley, D I.}, Harrison, S. P., Prentice, I. C. and Medlyn B. : The effects of climate change on Australian fire regimes, Postgraduate supplementary conference, Macquarie University, Sydney, Australia. Nov 2012.}
 
@@ -179,6 +189,7 @@
 
 
 \BibEntry{} {\textbf{Kelley, D I.}: Benchmark data-sets for assessing DGVM performance, Biosphere and Climate Dynamics brown bag seminars, Macquarie University, Sydney, Australia. Sep 2011.}
+
 \BibEntry{} {\textbf{Kelley, D I.}, Harrison, S. P. and Prentice, I. C.: The effects of climate change on Australian fire regimes, Postgraduate supplementary conference, Macquarie University, Sydney, Australia. 17th Nov 2010.}
 
 \BibEntry{} {\textbf{Kelley, D I.}: Transient Biomization Scheme, course seminar for Msc Earth Systems Science, Department of Earth Sciences, University of Bristol, UK. 2 July 2008.}
@@ -186,12 +197,12 @@
 \BibEntry{} {\textbf{Kelley, D I.}, Elena Counce: Forest Fire simulator, course seminar for Msc Earth Systems Science, Department of Earth Sciences, University of Bristol, UK. 19 Nov 2007.}
 \sepspace
 
-\BibEntry{Posters} {\textbf{Kelley, D I.}, Harrison, S. P.: Comparison of simulated fire regimes at the Last Glacial Maximum and for the Mid-Holocene with charcoal data, QUEST: Quantifying and Understanding the Earth System Open Science Conference and Annual Science Meeting, Mar 2008}
-
+\BibEntry{\newline \newline  Posters} {\textbf{Kelley, D I.}, Harrison, S. P.: Comparison of simulated fire regimes at the Last Glacial Maximum and for the Mid-Holocene with charcoal data, QUEST: Quantifying and Understanding the Earth System Open Science Conference and Annual Science Meeting, Mar 2008}
+\pagebreak 
 \NewPart{Workshops and Consultancy Visits}
-\EducationEntry{Using plant functional traits to predict ecosystem vulnerability to changing fire regimes}{May 2013} {Data Synthesis workshop for fire resilience and response traits}{Australian Centre for Ecological Analysis and Synthesis (ACEAS), University of Queensland.}
+\EducationEntry{Using plant functional traits to predict ecosystem vulnerability to changing fire regimes}{May 2013} {\newline \newline Data Synthesis workshop for fire resilience and response traits}{Australian Centre for Ecological Analysis and Synthesis (ACEAS), University of Queensland.}
 \sepspace
-\pagebreak
+
 \EducationEntry{Fire response traits database}{May 2013} {Workshop on construction of database on distribution of different resprouting traits in climate space, as part of the Australian Centre for Ecological Analysis and Synthesis (ACEAS) Working group 'Using plant functional traits to predict ecosystem vulnerability to changing fire regimes'.}{Macquarie University, Sydney, Australia.}
 \sepspace
 
@@ -230,24 +241,24 @@
 %%% ------------------------------------------------------------
 \NewPart{Relevant Work experience}{}
 
-\EducationEntry{Reasearch Assistant}{2008-2010}{\href{http://www.bristol.ac.uk/geography/} {Geographical Sciences, University of Bristol}, Full-time}
+\EducationEntry{Research  Assistant}{2008-2010}{\href{http://www.bristol.ac.uk/geography/} {Geographical Sciences, University of Bristol}, Full-time}
   {DGVM fire model development. Applying developed model to: test to effectiveness of different fire management techniques in current and future climates; simulate paleo vegetation and carbon stocks.}
 \sepspace
 \pagebreak
-\EducationEntry{\href{http://www.greencycles.org/greencycles1/ES4\%20flyer\_2008.pdf}{Earth System Science Summer School co-ordinator}}{2008}{Department of Earth Science, Bristol University, Part-time}{Publicity; lecture and seminar timetabling; finding and organising guest lectures; general admin.}
+\EducationEntry{\href{http://www.greencycles.org/greencycles1/ES4\%20flyer\_2008.pdf}{Earth System Science Summer School coordinator}}{2008}{Department of Earth Science, Bristol University, Part-time}{Publicity; lecture and seminar timetabling; finding and organising guest lectures; general admin.}
 \sepspace 
 %
 
 \EducationEntry{Widening Participation}{2008}{\href{http://www.bristol.ac.uk/sraa/wpur-office/}{Widening Participation Office, Bristol University}, Part-time}{Working with students in primary and secondary education to encourage university attendance from low socio-economic backgrounds: helping organize \& run University open days and campus tours; in-school presentations and career evenings.}
 
 \NewPart{Relevant Extra-Circular activity}{}
-\EducationEntry{Committee member responsible for Web-design,\\ Communications, and social runners}{2011-present}{\href{http://www.eppingdac.com.au/}{Epping and District Athletics Clubs}}
+\EducationEntry{Committee member responsible for Web-design,\\ Communications, and social runners}{2011-present}{\href{http://www.eppingdac.com.au/}{\newline Epping and District Athletics Clubs}}
   {Website development (\href{http://www.eppingdac.com.au/}{www.eppingdac.com.au}); designing, producing and distributing newsletter  (\href{http://www.eppingdac.com.au/newsletter}{www.eppingdac.com.au/newsletter}) and e-publicity for local community running and athletics club}
 \sepspace  
 
-\EducationEntry{Student Union involvment}{2002-2008}{\href{http://www.warwicksu.com/}{University and Warwick}/\href{http://www.ubu.org.uk/}{Bristol University}}
-  {Sabbatical year sitting on board of directors of Warwick Students Union responsible for the Student Advice and Welfare department; 3 years as charity trustee and 6 years on student council responsible for Science Faculty representation; committee posts on various student run sports clubs and societies including People and Planet, \href{http://tv.warwick.ac.uk/}{Student TV station}, Student Support Groups, and running clubs}
-\sepspace  
+\EducationEntry{Student Union involvement}{2002-2008}{\href{http://www.warwicksu.com/}{University and Warwick}/\href{http://www.ubu.org.uk/}{Bristol University}}
+  {Sabbatical year sitting on board of directors of Warwick Students Union responsible for the Student Advice and Welfare department; 3 years as charity trustee and 6 years on student council responsible for Science Faculty representation; committee posts on various student run sports clubs and societies including People and Planet, \href{http://tv.warwick.ac.uk/}{Student TV station}, Student Support Groups, and running clubs \newline \newline}
+ 
 
 \BibEntry{Digital Photography and Art}{\href{http://www3.open.ac.uk/study/undergraduate/course/t189.htm}{Open University undergrad course in digital photography and image manipulation}. \\ See \href{http://www.flickr.com/photos/doug\_from\_the\_uk/}{www.flickr.com/photos/doug\_from\_the\_uk}}
 
