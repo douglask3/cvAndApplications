@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+git add TaskList.ods
+git commit -m "updated: $1"
+git push
