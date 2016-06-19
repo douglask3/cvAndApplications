@@ -95,7 +95,7 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.175"
      inkscape:cx="2382.4075"
-     inkscape:cy="1315.2441"
+     inkscape:cy="1952.9584"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="false"
@@ -367,5 +367,14 @@
            x="97.14286"
            y="888.49261" /></flowRegion><flowPara
          id="flowPara5870-1"
-         style="font-style:italic;font-size:131.25px;text-align:end;text-anchor:end">Application</flowPara></flowRoot>  </g>
+         style="font-style:italic;font-size:131.25px;text-align:end;text-anchor:end">Application</flowPara></flowRoot>    <image
+       sodipodi:absref="C:\Users\dougl\Documents\work\cvAndApplications\posters\static_qr_code_without_logo.jpg"
+       xlink:href="static_qr_code_without_logo.jpg"
+       width="410"
+       height="410"
+       preserveAspectRatio="none"
+       id="image5951"
+       x="3789.2859"
+       y="-7.9358172" />
+  </g>
 </svg>
