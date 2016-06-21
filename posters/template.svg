@@ -94,10 +94,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.175"
-     inkscape:cx="2382.4075"
-     inkscape:cy="1952.9584"
+     inkscape:cx="1846.7701"
+     inkscape:cy="1953.2491"
      inkscape:document-units="px"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer4"
      showgrid="false"
      units="cm"
      inkscape:window-width="1366"
@@ -182,15 +182,17 @@
        xml:space="preserve"
        id="flowRoot3372"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(74,64)"><flowRegion
+       transform="translate(74,4)"><flowRegion
          id="flowRegion3374"><rect
            id="rect3376"
-           width="2640"
-           height="254.28572"
+           width="2988.5715"
+           height="317.14285"
            x="1145.7142"
            y="25.635492" /></flowRegion><flowPara
-         id="flowPara3378"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:125px;font-family:Arial;-inkscape-font-specification:Arial">Title of your poster here</flowPara></flowRoot>    <rect
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:125px;font-family:Arial;-inkscape-font-specification:Arial"
+         id="flowPara3424">Benchmarking as the basis for data driven</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:125px;font-family:Arial;-inkscape-font-specification:Arial"
+         id="flowPara3428">Model Development</flowPara></flowRoot>    <rect
        style="fill:#a2d88c;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.63567525px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="rect3354-8"
        width="3458.0686"
@@ -256,12 +258,12 @@
          id="flowPara3443-1">REDUCE/ENLOARGE FONT SIZE TO FIT</flowPara></flowRoot>    <image
        sodipodi:absref="C:\Users\dougl\Documents\work\cvAndApplications\posters\..\..\CEH-templates\images\nerc-logo.jpg"
        xlink:href="..\..\CEH-templates\images\nerc-logo.jpg"
-       width="593.13708"
-       height="120.85168"
-       preserveAspectRatio="none"
-       id="image3488"
+       y="2799.7014"
        x="3570.2957"
-       y="2799.7014" />
+       id="image3488"
+       preserveAspectRatio="none"
+       height="120.85168"
+       width="593.13708" />
   </g>
   <g
      inkscape:label="Header Text Images"
@@ -271,17 +273,24 @@
     <image
        sodipodi:absref="C:\Users\dougl\Documents\work\cvAndApplications\posters\..\..\CEH-templates\images\CEH-long-white.png"
        xlink:href="..\..\CEH-templates\images\CEH-long-white.png"
-       width="867.31671"
-       height="207.64488"
-       preserveAspectRatio="none"
-       id="image3351"
+       y="-1901.6362"
        x="61.737"
-       y="-1901.6362" />
+       id="image3351"
+       preserveAspectRatio="none"
+       height="207.64488"
+       width="867.31671" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="Background Shapes">
+     inkscape:label="Background Shapes"
+     style="display:inline">
+    <path
+       inkscape:connector-curvature="0"
+       style="display:inline;opacity:0.86600001;fill:#eaeaea;fill-opacity:1;stroke:#ffffff;stroke-width:0.9511441;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 1990.59,2818.679 c 408.2963,0 751.6002,-212.3165 953.8712,-531.7216 l -299.9716,-99.3028 -316.6752,-206.9786 c -82.8373,92.6626 -203.7391,151.0736 -338.4038,151.0736 -65.5116,0 -127.7685,-13.8282 -183.9717,-38.6915 l -213.1701,267.3039 -137.0285,326.5632 c 159.7127,84.1088 341.9259,131.7538 535.3497,131.7538 z m -603.0777,-170.4452 137.3955,-327.4734 211.7809,-265.5357 c -120.3426,-80.6061 -199.462,-217.1776 -199.462,-372.0673 0,-51.8921 8.8769,-101.7212 25.2145,-148.0833 l -303.3604,-131.1035 -362.88443,-49.2745 c -31.8825,104.3142 -49.0138,214.9864 -49.0138,329.6314 0,406.8872 215.93743,763.729 540.32973,963.9063 z m 1597.6328,-432.737 c 47.6865,-101.6673 109.6534,-243.4988 126.3014,-419.2917 17.2166,-181.7982 -11.0422,-371.7029 -72.7679,-529.1545 C 2953.9671,1050.966 2790.8519,847.28817 2593.198,723.62747 2395.1749,599.73584 2154.4578,550.0022 1990.59,550.0022 c -488.1246,0 -904.8001,303.4306 -1068.83843,730.5353 l 358.71703,48.7023 313.7922,135.6542 c 77.2825,-137.4057 225.2799,-230.3287 395.1498,-230.3287 46.547,0 135.9806,12.1467 208.4363,50.0161 87.2283,45.5905 159.0778,118.2181 204.6321,218.38 32.9374,72.4207 46.7827,174.0879 30.9085,257.2561 -13.6817,71.6808 -39.8009,118.3576 -59.7324,154.341 l 312.8487,206.6526 z"
+       id="path22786-4"
+       sodipodi:nodetypes="scccscccscccscccsccsssscccssssccc" />
     <ellipse
        style="opacity:0.86600001;fill:#de8787;stroke:none"
        id="path5772"
@@ -294,31 +303,6 @@
        style="display:inline;opacity:0.86600001;fill:#eaeaea;fill-opacity:1;stroke:#ffffff;stroke-width:1.13855112;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        d="m 7444.6001,4.1475754 c -486.7995,0 -913.9945,255.1653046 -1155.1562,639.0313046 l 375.5312,119.34366 377.5625,248.75006 c 98.7644,-111.36326 242.912,-181.56256 403.4687,-181.56256 78.1075,0 152.3345,16.6189 219.3438,46.5 l 254.1562,-321.24996 163.375,-392.4688 C 7892.4607,61.408055 7675.2135,4.1475754 7444.6001,4.1475754 Z m 719.0312,204.8437046 -163.8125,393.5626 -252.5,319.12506 c 143.4809,96.87356 237.8125,261.00736 237.8125,447.15626 0,62.3648 -10.5836,122.2502 -30.0625,177.9688 l 361.6875,157.5624 432.6562,59.2188 c 38.0125,-125.3665 58.4376,-258.374 58.4376,-396.1562 0,-489.00346 -257.4556,-917.86152 -644.2188,-1158.43772 z m -1921.7187,516.0626 c -59.6669,111.48836 -104.2977,232.23136 -131.1562,359.53122 l 874.9375,0 -361.1563,-237.93756 -382.625,-121.59366 z M 6102.9751,1610.679 c 114.7049,636.8458 671.7417,1120 1341.625,1120 581.9761,0 1078.7657,-364.6677 1274.3437,-877.9688 l -427.6875,-58.5312 -374.125,-163.0313 c -92.1416,165.1363 -268.5944,276.8125 -471.125,276.8125 -210.786,0 -393.325,-120.979 -481.9687,-297.2812 l -861.0625,0 z"
        id="path22786" />
-    <circle
-       style="fill:#0000ff"
-       id="path3382-8"
-       cx="1981.5171"
-       cy="1684.3446"
-       r="1211.8101" />
-    <circle
-       style="fill:#800000"
-       id="path3382"
-       cx="1981.521"
-       cy="1684.3407"
-       r="1134.814" />
-    <ellipse
-       style="fill:#008000"
-       id="path3388"
-       cx="1989.1997"
-       cy="1682.682"
-       rx="447.49756"
-       ry="445.47726" />
-    <path
-       inkscape:connector-curvature="0"
-       style="display:inline;opacity:0.86600001;fill:#eaeaea;fill-opacity:1;stroke:#ffffff;stroke-width:0.9511441;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 1990.59,2818.679 c 408.2963,0 751.6002,-212.3165 953.8712,-531.7216 l -299.9716,-99.3028 -316.6752,-206.9786 c -82.8373,92.6626 -203.7391,151.0736 -338.4038,151.0736 -65.5116,0 -127.7685,-13.8282 -183.9717,-38.6915 l -213.1701,267.3039 -137.0285,326.5632 c 159.7127,84.1088 341.9259,131.7538 535.3497,131.7538 z m -603.0777,-170.4452 137.3955,-327.4734 211.7809,-265.5357 c -120.3426,-80.6061 -199.462,-217.1776 -199.462,-372.0673 0,-51.8921 8.8769,-101.7212 25.2145,-148.0833 l -303.3604,-131.1035 -362.88443,-49.2745 c -31.8825,104.3142 -49.0138,214.9864 -49.0138,329.6314 0,406.8872 215.93743,763.729 540.32973,963.9063 z m 1597.6328,-432.737 c 47.6865,-101.6673 109.6534,-243.4988 126.3014,-419.2917 17.2166,-181.7982 -11.0422,-371.7029 -72.7679,-529.1545 C 2953.9671,1050.966 2790.8519,847.28817 2593.198,723.62747 2395.1749,599.73584 2154.4578,550.0022 1990.59,550.0022 c -488.1246,0 -904.8001,303.4306 -1068.83843,730.5353 l 358.71703,48.7023 313.7922,135.6542 c 77.2825,-137.4057 225.2799,-230.3287 395.1498,-230.3287 46.547,0 135.9806,12.1467 208.4363,50.0161 87.2283,45.5905 159.0778,118.2181 204.6321,218.38 32.9374,72.4207 46.7827,174.0879 30.9085,257.2561 -13.6817,71.6808 -39.8009,118.3576 -59.7324,154.341 l 312.8487,206.6526 z"
-       id="path22786-4"
-       sodipodi:nodetypes="scccscccscccscccsccsssscccssssccc" />
     <path
        style="opacity:0.86600001;fill:#eaeaeb;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m -2405.0073,1020.5832 1709.99994,0 c 0,0 -88.7397,4.1807 -206.4429,29.6783 -69.1869,14.9876 -148.38124,39.6782 -225.44254,68.9583 -120.0727,45.6226 -226.4255,133.4573 -303.6467,191.1622 -69.1832,51.6984 -153.4895,152.0851 -215.5407,241.0295 -60.821,87.181 -97.2266,163.4573 -97.2266,163.4573 l -660.5247,0.013 z"
@@ -370,11 +354,36 @@
          style="font-style:italic;font-size:131.25px;text-align:end;text-anchor:end">Application</flowPara></flowRoot>    <image
        sodipodi:absref="C:\Users\dougl\Documents\work\cvAndApplications\posters\static_qr_code_without_logo.jpg"
        xlink:href="static_qr_code_without_logo.jpg"
-       width="410"
-       height="410"
-       preserveAspectRatio="none"
+       y="-447.93582"
+       x="4155"
        id="image5951"
-       x="3789.2859"
-       y="-7.9358172" />
+       preserveAspectRatio="none"
+       height="410"
+       width="410" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Guide Shapes"
+     style="display:none">
+    <circle
+       style="display:inline;fill:#0000ff"
+       id="path3382-8"
+       cx="1981.5171"
+       cy="1684.3446"
+       r="1211.8101" />
+    <circle
+       style="display:inline;fill:#800000"
+       id="path3382"
+       cx="1981.521"
+       cy="1684.3407"
+       r="1134.814" />
+    <ellipse
+       style="display:inline;fill:#008000"
+       id="path3388"
+       cx="1989.1997"
+       cy="1682.682"
+       rx="447.49756"
+       ry="445.47726" />
   </g>
 </svg>
