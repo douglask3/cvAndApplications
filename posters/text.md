@@ -16,6 +16,8 @@
 
 # Introduction
 
+- Show example re-paramterixation of already incorporated process and inclusing of new proreces.
+
 ## Old-school model development
 
 - Focussed on incorporating sub-model rather than parameterization
@@ -38,40 +40,85 @@
 
 - Data-driven model parameterization
 
-# Methods
+# Circle
 
-## Starting Model (LPX)
+## Initial Model
 
-## Benchmarking System
+- LPX (prentice et al. 2011) is a coupled fire-dynamic global vegetetaion model
+- Developed at a global level
+- As the last around of model development was to incorporate a fire model assessed against burnt area and fire carbon flux observations globally.
 
-### Datasets
+## Benchmarking
 
-- Lots of datasets to evaluate multiple key processes:
-    - Vegetation Cover
-    - Fire
-    - Photosynthesis
+- The benchmarking system (right) was used to identifty specific weaknesses of the model, in specific locations.
+- Despite an overall good performance in fire, weakness in other aspects of the model suggestes fire performance could be for "the wrong reasons"
+- Fire is poorly simulated in Tropical Savanna and dry woodland areas, particularly for Australia.
+- Extra data (e.g. satalite post-fire vegetation recovery time) and simple model comparisons (e.g. GLM results for fire controls) were used to evaluate <<>> leading to weaknesses in individual processes).
+
+## Model evaluation
+- statistics used to quantify and compare across processes
+- identified two areas of key weakness for simulting fire regimes in Australia:
+    
+    1. Fire performs "worse than mean" (although still "better than random"
+    1. Balance of "controls" on fire - e.g. fire ignitions (from Lightning Source) dominant, resultingin an MM score "worse than random"
+    1. Rapid forest-grassland boundries corrispons to fire boundries means vegetation cover is "as good as random", suggesting too much tree mortality to fire
+    1. Model expreiments show extremely slow post-fire recovery of woody vegetation compared to observations.
+
+## Data Analysis
+- Analysis of observational data used to re-parameterize different processes contributing to error in controls on fire:
+
+    - Lightning scheme - ignitions (shown)
+    - root profiles - fuel loads
+    - fuel decompositing - fuel loads
+    - fuel drying time - moisture
+
+- Also used to develope vegetqation fire traits for woody vegetation surival
+
+   - Evolving Bark thickness for proection
+   - Post-disturbance resprouting for recovery 
+
+## Model development
+- Extra Benchmarking imformation used again to assess new processes (e.g. Model improvment in model revovery time) (in bit above title?)
+- Recovery time split between RS and NR ecosystems and compared to model experiments for simulated RS and NR vegetation cover
+- Re-analysing controls on fire shows better balance between fuel and moisture vs ignitions
+- Scalability of metric scores means we can demonstrate and %% impovment in simulated fire
+- Woody fire adpations imporve simulated vegetation by ...
+
+
+## Application 
+- For the application of impact of changing climate on carbon stocks, used ... (check submitted paper)
+
+# Benchmarking System
+
+## Datasets
+
+- "Standard" package come with datasets to evaluate multiple key processes:
+    - Vegetation Cover - Tree/grass cover, phenology and lead type
+    - Fire - Burnt area
+    - Photosynthesis - fAPAR
     - Height
-    - Production
-    - CO<sub>2</sub> fluxes
-    - Hydrology
+    - Production - GPP and NPP
+    - CO<sub>2</sub> fluxes - Seasonal variations and inter-annual growth
+    - Hydrology - river catchment runoff
+
+- More datasets are still being added (e.g. carbon pools, fire intensity, number of fires; Hanston et al. in prep)
+- Allows for incorporation of other data types, or statistical model results if required (see examples)
+
+## Metrics
 
 - Uses specifically designed metrics to quantify differences between model and observation
 
-### Metrics
 
-### Null models
-- Title: Square interpretation
+## Null models
+- Title: Score interpretation
 
-- To help interpret model
+- Lower scores are better, 0 being perfect
+- infinity, 2 and 1 are worse scores for NME, MM and MPD respectivly. 
+- Two NULL models developed to further aid inpretpetation of metric score
+- Mean Model compares the mean to the spread of the obsvertations using the metric. Scores lower than this are "better than mean"
+- The resampled model compares 1000 bootstraps of randomly resampled observations to produce a probablity distribution of "random model" scores. Scores lower than this distrbution are "better than randomly resampled", within the distribution are "as good as random", and great than the distributuon are "worse than random".
+ 
 
-## Model Evaluation
-
--Examples
-
-## Data driven development
-
-
-## Re-evalutation
 
 ## Application
 
