@@ -962,7 +962,7 @@
        x2="874.85895"
        y2="2925.2112"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(-2.9645274,5.3945733,-5.3945733,-2.9645274,19136.313,6776.2471)" />
+       gradientTransform="matrix(-2.9645274,5.3945733,-5.3945733,-2.9645274,19136.313,6800.2471)" />
     <filter
        style="color-interpolation-filters:sRGB"
        id="filter48831-0-1"
@@ -1006,17 +1006,17 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.40608682"
-     inkscape:cx="1030.089"
-     inkscape:cy="2263.9753"
+     inkscape:cx="1060.7788"
+     inkscape:cy="2108.2256"
      inkscape:document-units="px"
      inkscape:current-layer="g4296"
      showgrid="false"
      units="cm"
-     inkscape:window-width="1366"
-     inkscape:window-height="705"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
+     inkscape:window-width="1362"
+     inkscape:window-height="696"
+     inkscape:window-x="295"
+     inkscape:window-y="3"
+     inkscape:window-maximized="0"
      inkscape:snap-to-guides="false"
      inkscape:snap-grids="false"
      showguides="false" />
@@ -1312,7 +1312,7 @@
     <path
        inkscape:connector-curvature="0"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient25217);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.18392944;marker:none;filter:url(#filter55493);enable-background:accumulate"
-       d="m 203.31248,6.65557 5.75616,1265.19803 36.61444,-9.9915 0.50775,-103.611 21.14463,-66.191 L 986.25,766.46875 C 1084.3266,611.3559 1211.4553,476.43469 1360,369.375 L 1357.6975,7.8068017 Z"
+       d="m 203.31248,6.65557 5.75616,1265.19803 36.61444,-9.9915 0.50775,-103.611 21.14463,-66.191 L 986.25,766.46875 C 1084.3266,611.3559 1455.2145,476.43469 1603.7592,369.375 l 7.6469,-361.5681983 z"
        id="rect24623-9-9-3-7-6-9-7"
        transform="matrix(0.990025,0,0,0.990025,-160.18161,30.917619)"
        sodipodi:nodetypes="ccccccccc" />
@@ -2907,66 +2907,106 @@
          style="font-size:65px">Introduction</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:47.52119827px;line-height:100%;font-family:Candara;-inkscape-font-specification:'Candara Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:37.5px;line-height:100%;font-family:Candara;-inkscape-font-specification:'Candara Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        x="53.002342"
-       y="158.69879"
+       y="132.69879"
        id="text24695-0-2-1-6-6-4-8-2-8-5-7-1"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          x="53.002342"
-         y="158.69879"
-         style="font-size:35px"
-         id="tspan5186">The benchmark system, described on the</tspan><tspan
+         y="132.69879"
+         style="font-size:37.5px"
+         id="tspan5569">Here we demonstrate an iterative approuch to vegetation model development where </tspan><tspan
          sodipodi:role="line"
          x="53.002342"
-         y="193.69879"
-         style="font-size:35px"
-         id="tspan5190">right, incorporates benchmark data for a number of key processes,</tspan><tspan
+         y="170.19879"
+         style="font-size:37.5px"
+         id="tspan5571">benchmarking against observations is used to identify areas for new </tspan><tspan
          sodipodi:role="line"
          x="53.002342"
-         y="228.69879"
-         style="font-size:35px"
-         id="tspan5194">metrics to compare simulatations and observations, and met</tspan><tspan
+         y="207.69879"
+         style="font-size:37.5px"
+         id="tspan5573">data-driven parameterizations, and subequantly to evaluate </tspan><tspan
          sodipodi:role="line"
          x="53.002342"
-         y="263.69879"
-         style="font-size:35px"
-         id="tspan5196">ods for interpreting metrtic scores. The circle proviudes</tspan><tspan
+         y="245.19879"
+         style="font-size:37.5px"
+         id="tspan5593">whether development produces an overall </tspan><tspan
          sodipodi:role="line"
          x="53.002342"
-         y="298.69879"
-         style="font-size:35px"
-         id="tspan5200">an example of how to incorporate this into</tspan><tspan
+         y="282.69879"
+         style="font-size:37.5px"
+         id="tspan5599">mprovement in model performance and to justify </tspan><tspan
          sodipodi:role="line"
          x="53.002342"
-         y="333.69879"
-         style="font-size:35px"
-         id="tspan5204">a process of iterative model development, wewre </tspan><tspan
+         y="320.19879"
+         style="font-size:37.5px"
+         id="tspan5643">model application. To achieve this, we </tspan><tspan
          sodipodi:role="line"
          x="53.002342"
-         y="368.69879"
-         style="font-size:35px"
-         id="tspan5208">and initial model is evealuated using the</tspan><tspan
+         y="357.69879"
+         style="font-size:37.5px"
+         id="tspan5669">designed a comprehensive benchmarking </tspan><tspan
          sodipodi:role="line"
          x="53.002342"
-         y="403.69879"
-         style="font-size:35px"
-         id="tspan5210">benchmarking system, weaknesses</tspan><tspan
+         y="395.19879"
+         style="font-size:37.5px"
+         id="tspan5637">system (right boxes). Model </tspan><tspan
          sodipodi:role="line"
          x="53.002342"
-         y="438.69879"
-         style="font-size:35px"
-         id="tspan5212">diagnosed with more targetted obsverations,</tspan><tspan
+         y="432.69879"
+         style="font-size:37.5px"
+         id="tspan5850">development (circle) takes </tspan><tspan
          sodipodi:role="line"
          x="53.002342"
-         y="473.69879"
-         style="font-size:35px"
-         id="tspan5214">new parameterizations constrainted</tspan><tspan
+         y="470.19879"
+         style="font-size:37.5px"
+         id="tspan5673">advantage of a range of Earth </tspan><tspan
          sodipodi:role="line"
          x="53.002342"
-         y="508.69879"
-         style="font-size:35px"
-         id="tspan5216"> </tspan></text>
+         y="507.69879"
+         style="font-size:37.5px"
+         id="tspan5675">observations to contrain </tspan><tspan
+         sodipodi:role="line"
+         x="53.002342"
+         y="545.19879"
+         style="font-size:37.5px"
+         id="tspan5679">parameterization, as </tspan><tspan
+         sodipodi:role="line"
+         x="53.002342"
+         y="582.69879"
+         style="font-size:37.5px"
+         id="tspan5866">demostrated in </tspan><tspan
+         sodipodi:role="line"
+         x="53.002342"
+         y="620.19879"
+         style="font-size:37.5px"
+         id="tspan5683">examples of a </tspan><tspan
+         sodipodi:role="line"
+         x="53.002342"
+         y="657.69879"
+         style="font-size:37.5px"
+         id="tspan5872">lightning ignition</tspan><tspan
+         sodipodi:role="line"
+         x="53.002342"
+         y="695.19879"
+         style="font-size:37.5px"
+         id="tspan5685">and a post-fire</tspan><tspan
+         sodipodi:role="line"
+         x="53.002342"
+         y="732.69879"
+         style="font-size:37.5px"
+         id="tspan5687">vegetation </tspan><tspan
+         sodipodi:role="line"
+         x="53.002342"
+         y="770.19879"
+         style="font-size:37.5px"
+         id="tspan5874">recovery</tspan><tspan
+         sodipodi:role="line"
+         x="53.002342"
+         y="807.69879"
+         style="font-size:37.5px"
+         id="tspan5216">scheme.</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot6794"
@@ -3473,6 +3513,32 @@
          x="794.41461"
          y="1754.8502"
          id="tspan5453">Sandy Harrison</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="162.52682"
+       y="197.265"
+       id="text5489"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5491"
+         x="162.52682"
+         y="197.265"></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="194.53967"
+       y="212.04016"
+       id="text5557"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5559"
+         x="194.53967"
+         y="212.04016"></tspan><tspan
+         sodipodi:role="line"
+         x="194.53967"
+         y="262.04016"
+         id="tspan5561" /></text>
   </g>
   <g
      style="display:inline"
@@ -3483,7 +3549,7 @@
        inkscape:connector-curvature="0"
        id="rect28498-6-3-3-8-5-8-7-7-4-5-4"
        style="display:inline;fill:url(#linearGradient8789);fill-opacity:1;stroke:#000000;stroke-width:8.56241989;stroke-opacity:1"
-       d="m 2712.0702,2232.0814 c 90.8291,-178.59 143.7296,-366.0285 161.3356,-552.9243 l -14.4006,-1.0546 c -143.5031,65.9244 -290.4572,110.0104 -436.1168,130.1369 -118.913,-84.9101 -247.9731,-147.9866 -382.0591,-190.0783 l -7.4255,-0.5417 c -5.432,77.2651 -26.1245,149.0412 -64.71,205.948 -30.918,71.3033 -90.1456,133.5019 -164.1753,182.5232 49.4024,132.7663 79.0229,276.7334 88.0748,426.6101 l 3.9316,8.4981 c 109.3432,103.8895 236.0607,194.1853 378.0018,265.81 172.2389,-120.9991 322.5417,-280.6525 437.5435,-474.9274 z m 169.5169,-704.1845 C 2878.3735,1057.854 2654.3517,607.56083 2252.0112,328.36323 l -1.7324,2.62877 c -28.7551,-19.94977 -58.4158,-39.01778 -88.9805,-57.15676 -234.1398,-118.74916 -485.0133,-168.89795 -730.3096,-157.15059 -136.3903,6.5318 -271.0574,32.19896 -400.1679,75.84831 C 721.50036,297.10733 444.07429,504.89548 251.25923,800.0401 l -71.95624,135.39083 -77.90121,182.14087 c 53.57317,-26.0387 78.93008,-38.8156 126.69426,-55.0048 54.40177,-18.439 110.41591,-34.3917 164.47352,-44.1807 67.83678,-9.1523 101.45322,-22.05677 180.52163,-20.80468 40.62299,23.89198 105.57878,70.54988 134.88439,89.45008 85.31637,55.0235 163.26623,85.3868 250.57432,153.1625 l 6.99279,4.3508 c 82.13861,-155.3281 298.40351,-262.91772 498.66831,-277.63809 106.0647,-7.7959 207.6472,10.45466 282.4355,61.47299 11.2583,4.8443 22.273,10.4213 33.029,16.6834 l -1.7382,2.6389 c 149.2209,86.7022 248.3905,305.9194 255.0167,506.3065 l 3.0975,-0.095 c 0.022,0.7162 0.046,1.4332 0.068,2.1501 137.0458,28.8169 271.3192,78.1276 397.7997,148.7535 l 18.8483,2.497 c 144.2441,-36.3148 287.771,-95.8035 425.7397,-176.3083 0,-1.0021 -0.017,-2.0004 -0.024,-3.0031 l 3.1034,-0.1056 z m -751.3597,1268.7255 -6.6479,-12.9406 c -128.996,-86.4614 -242.2455,-188.4525 -337.702,-301.2246 6.8143,-149.4489 -6.7546,-295.6279 -39.9831,-433.3936 l -3.437,-6.6765 c -152.5851,78.6206 -344.9848,106.6157 -486.853,56.8075 -71.7873,122.7541 -165.0524,235.6133 -280.55773,333.2703 l -4.58545,8.3443 c -20.72127,152.45 -14.35153,310.5339 16.95086,469.1896 386.26492,121.7987 797.16842,74.9939 1142.81532,-113.3764 z M 1179.466,2060.4813 c -65.2113,-27.9826 -122.2346,-80.8762 -167.9925,-147.7217 -16.62911,-24.2925 -31.77038,-50.4276 -45.27609,-77.8793 -7.43698,-15.1164 -3.41783,2.2486 -9.83832,-13.5784 -151.25732,1.2026 -633.59686,8.1491 -886.624283,5.6871 1.599061,8.5549 3.272683,17.0927 5.020584,25.6125 10.607323,51.7036 23.95023,102.7453 39.966349,152.9031 10.97514,34.3709 23.20555,68.3268 36.67117,101.796 116.15126,288.6984 324.20647,541.195 611.28474,711.614 l 6.96545,-12.6756 c -1.14166,-164.0379 23.8046,-318.0704 70.06697,-459.9583 128.87585,-73.958 242.67453,-167.3753 336.24713,-279.4145 z M 939.02024,1301.0712 C 874.5392,1266.5255 802.77493,1211.5291 737.07407,1176.2943 639.3471,1121.9744 611.30236,1116.03 569.42541,1090.0342 c -10.61246,-1.071 -19.5894,-13.0048 -30.08776,-12.159 -223.45904,18.0042 -423.29172,87.8506 -452.846586,99.2644 -11.564552,33.9261 -20.668399,67.0772 -27.35964,115.7496 311.196676,-3.204 610.804446,6.933 879.888816,8.182 z"
+       d="m 2712.0702,2256.0814 c 90.8291,-178.59 143.7296,-366.0285 161.3356,-552.9243 l -14.4006,-1.0546 c -143.5031,65.9244 -290.4572,110.0104 -436.1168,130.1369 -118.913,-84.9101 -247.9731,-147.9866 -382.0591,-190.0783 l -7.4255,-0.5417 c -5.432,77.2651 -26.1245,149.0412 -64.71,205.948 -30.918,71.3033 -90.1456,133.5019 -164.1753,182.5232 49.4024,132.7663 79.0229,276.7334 88.0748,426.6101 l 3.9316,8.4981 c 109.3432,103.8895 236.0607,194.1853 378.0018,265.81 172.2389,-120.9991 322.5417,-280.6525 437.5435,-474.9274 z m 169.5169,-704.1845 C 2878.3735,1081.854 2654.3517,631.56083 2252.0112,352.36323 l -1.7324,2.62877 c -28.7551,-19.94977 -58.4158,-39.01778 -88.9805,-57.15676 -234.1398,-118.74916 -485.0133,-168.89795 -730.3096,-157.15059 -136.3903,6.5318 -271.0574,32.19896 -400.1679,75.84831 C 721.50036,321.10733 444.07429,528.89548 251.25923,824.0401 l -71.95624,135.39083 -77.90121,182.14087 c 53.57317,-26.0387 78.93008,-38.8156 126.69426,-55.0048 54.40177,-18.439 110.41591,-34.3917 164.47352,-44.1807 67.83678,-9.1523 101.45322,-22.0568 180.52163,-20.8047 40.62299,23.892 105.57878,70.5499 134.88439,89.4501 85.31637,55.0235 163.26623,85.3868 250.57432,153.1625 l 6.99279,4.3508 c 82.13861,-155.3281 298.40351,-262.9177 498.66831,-277.63809 106.0647,-7.7959 207.6472,10.45469 282.4355,61.47299 11.2583,4.8443 22.273,10.4213 33.029,16.6834 l -1.7382,2.6389 c 149.2209,86.7022 248.3905,305.9194 255.0167,506.3065 l 3.0975,-0.095 c 0.022,0.7162 0.046,1.4332 0.068,2.1501 137.0458,28.8169 271.3192,78.1276 397.7997,148.7535 l 18.8483,2.497 c 144.2441,-36.3148 287.771,-95.8035 425.7397,-176.3083 0,-1.0021 -0.017,-2.0004 -0.024,-3.0031 l 3.1034,-0.1056 z m -751.3597,1268.7255 -6.6479,-12.9406 c -128.996,-86.4614 -242.2455,-188.4525 -337.702,-301.2246 6.8143,-149.4489 -6.7546,-295.6279 -39.9831,-433.3936 l -3.437,-6.6765 c -152.5851,78.6206 -344.9848,106.6157 -486.853,56.8075 -71.7873,122.7541 -165.0524,235.6133 -280.55773,333.2703 l -4.58545,8.3443 c -20.72127,152.45 -14.35153,310.5339 16.95086,469.1896 386.26492,121.7987 797.16842,74.9939 1142.81532,-113.3764 z M 1179.466,2084.4813 c -65.2113,-27.9826 -122.2346,-80.8762 -167.9925,-147.7217 -16.62911,-24.2925 -31.77038,-50.4276 -45.27609,-77.8793 -7.43698,-15.1164 -3.41783,2.2486 -9.83832,-13.5784 -151.25732,1.2026 -633.59686,8.1491 -886.624283,5.6871 1.599061,8.5549 3.272683,17.0927 5.020584,25.6125 10.607323,51.7036 23.95023,102.7453 39.966349,152.9031 10.97514,34.3709 23.20555,68.3268 36.67117,101.796 116.15126,288.6984 324.20647,541.195 611.28474,711.614 l 6.96545,-12.6756 c -1.14166,-164.0379 23.8046,-318.0704 70.06697,-459.9583 128.87585,-73.958 242.67453,-167.3753 336.24713,-279.4145 z M 939.02024,1325.0712 C 874.5392,1290.5255 802.77493,1235.5291 737.07407,1200.2943 639.3471,1145.9744 611.30236,1140.03 569.42541,1114.0342 c -10.61246,-1.071 -19.5894,-13.0048 -30.08776,-12.159 -223.45904,18.0042 -423.29172,87.8506 -452.846586,99.2644 -11.564552,33.9261 -20.668399,67.0772 -27.35964,115.7496 311.196676,-3.204 610.804446,6.933 879.888816,8.182 z"
        sodipodi:nodetypes="ccccccccccccccccsscccsccsccscccccccccccccccccccccccssccsssccccccccsccc" />
     <image
        sodipodi:absref="C:\Users\dougl\Documents\work\cvAndApplications\posters\static_qr_code_without_logo.jpg"
@@ -3498,12 +3564,12 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:47.52119827px;line-height:100%;font-family:Candara;-inkscape-font-specification:'Candara Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        x="963.336"
-       y="484.36322"
+       y="492.36322"
        id="text24695-0-2-1-6-6-4-8-2-8-5-72-6"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          x="963.336"
-         y="484.36322"
+         y="492.36322"
          style="font-size:75px;fill:#000000;fill-opacity:1"
          id="tspan6838-6">Benchmarking and Evaluation</tspan></text>
     <text
@@ -3622,16 +3688,16 @@
     <image
        sodipodi:absref="C:\Users\dougl\Documents\work\cvAndApplications\posters\Circle\Start\LPX-Mv1-limitation.png"
        xlink:href="Circle\Start\LPX-Mv1-limitation.png"
-       width="316.11746"
-       height="254.69179"
+       width="257.01678"
+       height="207.07513"
        preserveAspectRatio="none"
        id="image7228"
-       x="834.51196"
-       y="1000.0296" />
+       x="161.99252"
+       y="842.88458" />
     <image
        sodipodi:absref="C:\Users\dougl\Documents\work\cvAndApplications\posters\Circle\Re-evalu\FuturesBenchmarking.png"
        xlink:href="Circle\Re-evalu\FuturesBenchmarking.png"
-       transform="matrix(1.9432625,0,0,1.9432625,-1525.575,-501.93784)"
+       transform="matrix(1.9432625,0,0,1.9432625,-1065.0823,-617.67664)"
        clip-path="url(#clipPath11176)"
        width="405"
        height="405"
@@ -3659,7 +3725,7 @@
        y="2542.2817" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5.69999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:17.09999943, 17.09999943;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 1858.5322,1096.6287 c 0,0 14.5877,-34.5661 -28.8997,-227.96434 C 1691.2441,618.43655 1454.1337,472.9985 1194.0307,424.29696 955.03848,379.54821 692.10182,408.37528 538.76112,431.27224"
+       d="m 1858.5322,1126.6287 c 0,0 14.5877,-34.5661 -28.8997,-227.96434 C 1691.2441,648.43655 1454.1337,502.9985 1194.0307,454.29696 955.03848,409.54821 692.10182,438.37528 538.76112,461.27224"
        id="path4986"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccsc" />
@@ -4177,8 +4243,8 @@
     <image
        sodipodi:absref="C:\Users\dougl\Documents\work\cvAndApplications\posters\Circle\Re-evalu\LPXMv1Rec.png"
        xlink:href="Circle\Re-evalu\LPXMv1Rec.png"
-       y="871.20667"
-       x="1150.6294"
+       y="1054.2052"
+       x="1313.1562"
        id="image8773"
        preserveAspectRatio="none"
        height="383.51471"
@@ -4260,8 +4326,8 @@
        height="318.75"
        preserveAspectRatio="none"
        id="image5101"
-       x="273.72025"
-       y="903.58667" />
+       x="446.09714"
+       y="686.88422" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:47.52119827px;line-height:100%;font-family:Candara;-inkscape-font-specification:'Candara Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
@@ -4282,7 +4348,7 @@
        preserveAspectRatio="none"
        id="image5243"
        x="1491.8995"
-       y="173.11932" />
+       y="199.11932" />
     <image
        sodipodi:absref="C:\Users\dougl\Documents\work\cvAndApplications\posters\Circle\Start\LPXGlob.png"
        xlink:href="Circle\Start\LPXGlob.png"
@@ -4291,7 +4357,7 @@
        preserveAspectRatio="none"
        id="image5254"
        x="1808.8494"
-       y="221.40625" />
+       y="247.40625" />
     <image
        sodipodi:absref="C:\Users\dougl\Documents\work\cvAndApplications\posters\Circle\Start\FireKey.png"
        xlink:href="Circle\Start\FireKey.png"
@@ -4300,29 +4366,29 @@
        preserveAspectRatio="none"
        id="image5265"
        x="1464.7621"
-       y="349.73767" />
+       y="375.73767" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:47.52119827px;line-height:100%;font-family:Candara;-inkscape-font-specification:'Candara Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        x="1650.4142"
-       y="350.27942"
+       y="376.27942"
        id="text24695-0-2-1-6-6-4-8-2-8-5-72-1-6-5-7-9-7-0"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          x="1650.4142"
-         y="350.27942"
+         y="376.27942"
          style="font-size:37.5px;fill:#000000;fill-opacity:1"
          id="tspan8063-7">Observed</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:47.52119827px;line-height:100%;font-family:Candara;-inkscape-font-specification:'Candara Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        x="1947.1219"
-       y="395.55554"
+       y="421.55554"
        id="text24695-0-2-1-6-6-4-8-2-8-5-72-1-6-5-7-9-7-0-7"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          x="1947.1219"
-         y="395.55554"
+         y="421.55554"
          style="font-size:37.5px;fill:#000000;fill-opacity:1"
          id="tspan8063-7-0">Simulated</tspan></text>
     <text
@@ -4376,13 +4442,14 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:47.52119827px;line-height:100%;font-family:Candara;-inkscape-font-specification:'Candara Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
-       x="456.58313"
-       y="604.95007"
+       x="-445.2417"
+       y="772.36298"
        id="text24695-0-2-1-6-6-4-8-2-8-5-72-1-6-2"
-       sodipodi:linespacing="100%"><tspan
+       sodipodi:linespacing="100%"
+       transform="matrix(0.63791636,-0.77010566,0.77010566,0.63791636,0,0)"><tspan
          sodipodi:role="line"
-         x="456.58313"
-         y="604.95007"
+         x="-445.2417"
+         y="772.36298"
          style="font-size:56.25px;fill:#000000;fill-opacity:1"
          id="tspan6838-4-4-3">Re-evaluation</tspan></text>
   </g>
@@ -4393,36 +4460,36 @@
     <text
        sodipodi:linespacing="100%"
        id="text56514-8-7-8-1-2-5-5-0-5"
-       y="204.5352"
+       y="230.5352"
        x="663.70508"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.66075897px;line-height:100%;font-family:Candara;-inkscape-font-specification:Candara;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="204.5352"
+         y="230.5352"
          x="663.70508"
          sodipodi:role="line"
          style="fill:#241c1c"
          id="tspan8604">                                                        The last round of model</tspan><tspan
-         y="242.19595"
+         y="268.19595"
          x="663.70508"
          sodipodi:role="line"
          style="fill:#241c1c"
          id="tspan5218">                                        development for the LPX  </tspan><tspan
-         y="279.85672"
+         y="305.85672"
          x="663.70508"
          sodipodi:role="line"
          style="fill:#241c1c"
          id="tspan8608">                            dynamic global vegetetaion model </tspan><tspan
-         y="317.51749"
+         y="343.51749"
          x="663.70508"
          sodipodi:role="line"
          style="fill:#241c1c"
          id="tspan8610">                   (Prentice et al. 2011) incorporated a coupled </tspan><tspan
-         y="355.17822"
+         y="381.17822"
          x="663.70508"
          sodipodi:role="line"
          style="fill:#241c1c"
          id="tspan8797">           fire model, and assessed against burnt area </tspan><tspan
-         y="392.83899"
+         y="418.83899"
          x="663.70508"
          sodipodi:role="line"
          style="fill:#241c1c"
@@ -4574,50 +4641,20 @@
     <text
        sodipodi:linespacing="100%"
        id="text56514-8-7-8-1-2-5-5-0-5-1-0-3"
-       y="635.92297"
-       x="400.98718"
+       y="653.16064"
+       x="494.56323"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.66075897px;line-height:100%;font-family:Candara;-inkscape-font-specification:Candara;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        xml:space="preserve"><tspan
-         y="635.92297"
-         x="400.98718"
+         y="653.16064"
+         x="494.56323"
          sodipodi:role="line"
          style="fill:#241c1c"
-         id="tspan8908-1-5">After development, the benchmark system was used again to quantify </tspan><tspan
-         y="673.58374"
-         x="400.98718"
+         id="tspan8908-1-5">  Benchmark was used again to quantify </tspan><tspan
+         y="690.82141"
+         x="494.56323"
          sodipodi:role="line"
          style="fill:#241c1c"
-         id="tspan9032">model imprfovment or possible degredation over all model process. This </tspan><tspan
-         y="711.24451"
-         x="400.98718"
-         sodipodi:role="line"
-         style="fill:#241c1c"
-         id="tspan9034">gives confidence to model improvements and, with the addition of </tspan><tspan
-         y="748.90527"
-         x="400.98718"
-         sodipodi:role="line"
-         style="fill:#241c1c"
-         id="tspan9036">other targetted datasets, justifies applciation of the model. For example, for </tspan><tspan
-         y="786.56604"
-         x="400.98718"
-         sodipodi:role="line"
-         style="fill:#241c1c"
-         id="tspan9038">using the model to simulate future carbon cycles in Australia, LPX-Mv1 was </tspan><tspan
-         y="824.22675"
-         x="400.98718"
-         sodipodi:role="line"
-         style="fill:#241c1c"
-         id="tspan9209">compared against </tspan><tspan
-         y="861.88751"
-         x="400.98718"
-         sodipodi:role="line"
-         style="fill:#241c1c"
-         id="tspan9040">mapped carbon stocks (show) and inter-annual changes in</tspan><tspan
-         y="899.54828"
-         x="400.98718"
-         sodipodi:role="line"
-         style="fill:#241c1c"
-         id="tspan9042">carbon uptake and soil carbon content (Kelley and Harrison, 2014)</tspan></text>
+         id="tspan9042">model improvment/degredation over all model process. </tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot9079"
@@ -4745,6 +4782,18 @@
          sodipodi:role="line"
          style="font-size:31.25px;text-align:end;text-anchor:end;fill:#241c1c"
          id="tspan8908-1-2" /></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text56514-8-7-8-1-2-5-5-0-5-1-0-3-1"
+       y="968.07935"
+       x="915.17151"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.66075897px;line-height:100%;font-family:Candara;-inkscape-font-specification:Candara;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="968.07935"
+         x="915.17151"
+         sodipodi:role="line"
+         style="font-size:31.25px;fill:#241c1c"
+         id="tspan5892">To just applying the model to explore future changes in carbon stocks, LPX-Mv1 was benchmarked against carbon pool data and inter-annual changes in carbon fluxes. (Kelley and Harrison, 2014)</tspan></text>
   </g>
   <g
      inkscape:label="Header Text Images"
@@ -4788,12 +4837,12 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:47.52119827px;line-height:100%;font-family:Candara;-inkscape-font-specification:'Candara Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        x="1345.3052"
-       y="-1760.4973"
+       y="-1732.4973"
        id="text24695-0-2-1-6-6-4-8-2-8-5-72"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          x="1345.3052"
-         y="-1760.4973"
+         y="-1732.4973"
          style="font-size:56.25px;fill:#000000;fill-opacity:1"
          id="tspan6838">Initial Model</tspan></text>
   </g>
@@ -4805,7 +4854,7 @@
        inkscape:connector-curvature="0"
        id="rect28498-6-3-3-8-5-8-7-7-4-5-4-9"
        style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:8.56241989;stroke-opacity:1"
-       d="m 2715.5292,2235.0494 c 90.8291,-178.59 143.7296,-366.0285 161.3356,-552.9243 l -14.4006,-1.0546 c -143.5031,65.9244 -290.4572,110.0104 -436.1168,130.1369 -118.913,-84.9101 -247.9731,-147.9866 -382.0591,-190.0783 l -7.4255,-0.5417 c -5.432,77.2651 -26.1245,149.0412 -64.71,205.948 -30.918,71.3033 -90.1456,133.5019 -164.1753,182.5232 49.4024,132.7663 79.0229,276.7334 88.0748,426.6101 l 3.9316,8.4981 c 109.3432,103.8895 236.0607,194.1853 378.0018,265.81 172.2389,-120.9991 322.5417,-280.6525 437.5435,-474.9274 z m 169.5169,-704.1845 C 2881.8325,1060.8221 2657.8107,610.52888 2255.4702,331.33128 l -1.7324,2.62877 C 2224.9827,314.01028 2195.322,294.94227 2164.7573,276.80329 1930.6175,158.05413 1679.744,107.90534 1434.4477,119.6527 1298.0574,126.1845 1163.3903,151.85166 1034.2798,195.50101 724.95944,300.07538 447.53336,507.86353 254.7183,803.00815 l -71.95624,135.39083 -77.9012,182.14092 c 53.57316,-26.0387 78.93007,-38.8156 126.69425,-55.0048 54.40177,-18.439 110.41591,-34.3917 164.47352,-44.1807 67.83678,-9.1523 101.45322,-22.05682 180.52163,-20.8047 40.62298,23.892 105.57878,70.5499 134.88438,89.4501 85.3164,55.0235 163.2662,85.3867 250.5743,153.1624 l 6.9928,4.3508 C 1051.1403,1092.185 1267.4052,984.59533 1467.67,969.87496 c 106.0647,-7.7959 207.6472,10.45466 282.4355,61.47304 11.2583,4.8443 22.273,10.4213 33.029,16.6834 l -1.7382,2.6389 c 149.2209,86.7022 248.3905,305.9193 255.0167,506.3064 l 3.0975,-0.095 c 0.022,0.7162 0.046,1.4332 0.068,2.1501 137.0458,28.8169 271.3192,78.1276 397.7997,148.7535 l 18.8483,2.497 c 144.2441,-36.3148 287.771,-95.8035 425.7397,-176.3083 0,-1.0021 -0.017,-2.0004 -0.024,-3.0031 l 3.1034,-0.1056 z m -751.3597,1268.7255 -6.6479,-12.9406 c -128.996,-86.4614 -242.2455,-188.4525 -337.702,-301.2246 6.8143,-149.4489 -6.7546,-295.6279 -39.9831,-433.3936 l -3.437,-6.6765 c -152.5851,78.6206 -344.9848,106.6157 -486.853,56.8075 -71.7873,122.7541 -165.0524,235.6133 -280.55766,333.2703 l -4.5854,8.3443 c -20.7213,152.45 -14.3516,310.5339 16.9508,469.1896 386.26486,121.7987 797.16836,74.9939 1142.81526,-113.3764 z M 1182.925,2063.4493 c -65.2113,-27.9826 -122.2346,-80.8762 -167.9925,-147.7217 -16.62906,-24.2925 -31.77026,-50.4276 -45.27606,-77.8793 -7.4369,-15.1164 -3.4178,2.2486 -9.8383,-13.5784 -151.2573,1.2026 -633.59684,8.1491 -886.624256,5.6871 1.59906,8.5549 3.27269,17.0927 5.02059,25.6125 10.60732,51.7036 23.950226,102.7453 39.966346,152.9031 10.97514,34.3709 23.20555,68.3268 36.67117,101.796 116.15125,288.6984 324.20646,541.195 611.28475,711.614 l 6.9654,-12.6756 c -1.1416,-164.0379 23.8046,-318.0704 70.067,-459.9583 128.8759,-73.958 242.67446,-167.3753 336.24706,-279.4145 z M 942.47934,1304.0392 c -64.4811,-34.5457 -136.2453,-89.5421 -201.9462,-124.7769 -97.727,-54.3198 -125.7717,-60.2642 -167.64866,-86.26 -10.61246,-1.071 -19.5894,-13.0048 -30.08776,-12.159 -223.45904,18.0042 -423.29171,87.8505 -452.846576,99.2643 -11.56455,33.9261 -20.6684,67.0772 -27.35964,115.7496 311.196666,-3.204 610.804436,6.933 879.888836,8.182 z"
+       d="m 2715.5292,2259.0494 c 90.8291,-178.59 143.7296,-366.0285 161.3356,-552.9243 l -14.4006,-1.0546 c -143.5031,65.9244 -290.4572,110.0104 -436.1168,130.1369 -118.913,-84.9101 -247.9731,-147.9866 -382.0591,-190.0783 l -7.4255,-0.5417 c -5.432,77.2651 -26.1245,149.0412 -64.71,205.948 -30.918,71.3033 -90.1456,133.5019 -164.1753,182.5232 49.4024,132.7663 79.0229,276.7334 88.0748,426.6101 l 3.9316,8.4981 c 109.3432,103.8895 236.0607,194.1853 378.0018,265.81 172.2389,-120.9991 322.5417,-280.6525 437.5435,-474.9274 z m 169.5169,-704.1845 C 2881.8325,1084.8221 2657.8107,634.52888 2255.4702,355.33128 l -1.7324,2.62877 C 2224.9827,338.01028 2195.322,318.94227 2164.7573,300.80329 1930.6175,182.05413 1679.744,131.90534 1434.4477,143.6527 1298.0574,150.1845 1163.3903,175.85166 1034.2798,219.50101 724.95944,324.07538 447.53336,531.86353 254.7183,827.00815 l -71.95624,135.39083 -77.9012,182.14092 c 53.57316,-26.0387 78.93007,-38.8156 126.69425,-55.0048 54.40177,-18.439 110.41591,-34.3917 164.47352,-44.1807 67.83678,-9.1523 101.45322,-22.0568 180.52163,-20.8047 40.62298,23.892 105.57878,70.5499 134.88438,89.4501 85.3164,55.0235 163.2662,85.3867 250.5743,153.1624 l 6.9928,4.3508 c 82.13856,-155.328 298.40346,-262.9177 498.66826,-277.63804 106.0647,-7.7959 207.6472,10.45464 282.4355,61.47304 11.2583,4.8443 22.273,10.4213 33.029,16.6834 l -1.7382,2.6389 c 149.2209,86.7022 248.3905,305.9193 255.0167,506.3064 l 3.0975,-0.095 c 0.022,0.7162 0.046,1.4332 0.068,2.1501 137.0458,28.8169 271.3192,78.1276 397.7997,148.7535 l 18.8483,2.497 c 144.2441,-36.3148 287.771,-95.8035 425.7397,-176.3083 0,-1.0021 -0.017,-2.0004 -0.024,-3.0031 l 3.1034,-0.1056 z m -751.3597,1268.7255 -6.6479,-12.9406 c -128.996,-86.4614 -242.2455,-188.4525 -337.702,-301.2246 6.8143,-149.4489 -6.7546,-295.6279 -39.9831,-433.3936 l -3.437,-6.6765 c -152.5851,78.6206 -344.9848,106.6157 -486.853,56.8075 -71.7873,122.7541 -165.0524,235.6133 -280.55766,333.2703 l -4.5854,8.3443 c -20.7213,152.45 -14.3516,310.5339 16.9508,469.1896 386.26486,121.7987 797.16836,74.9939 1142.81526,-113.3764 z M 1182.925,2087.4493 c -65.2113,-27.9826 -122.2346,-80.8762 -167.9925,-147.7217 -16.62906,-24.2925 -31.77026,-50.4276 -45.27606,-77.8793 -7.4369,-15.1164 -3.4178,2.2486 -9.8383,-13.5784 -151.2573,1.2026 -633.59684,8.1491 -886.624256,5.6871 1.59906,8.5549 3.27269,17.0927 5.02059,25.6125 10.60732,51.7036 23.950226,102.7453 39.966346,152.9031 10.97514,34.3709 23.20555,68.3268 36.67117,101.796 116.15125,288.6984 324.20646,541.195 611.28475,711.614 l 6.9654,-12.6756 c -1.1416,-164.0379 23.8046,-318.0704 70.067,-459.9583 128.8759,-73.958 242.67446,-167.3753 336.24706,-279.4145 z M 942.47934,1328.0392 c -64.4811,-34.5457 -136.2453,-89.5421 -201.9462,-124.7769 -97.727,-54.3198 -125.7717,-60.2642 -167.64866,-86.26 -10.61246,-1.071 -19.5894,-13.0048 -30.08776,-12.159 -223.45904,18.0042 -423.29171,87.8505 -452.846576,99.2643 -11.56455,33.9261 -20.6684,67.0772 -27.35964,115.7496 311.196666,-3.204 610.804436,6.933 879.888836,8.182 z"
        sodipodi:nodetypes="ccccccccccccccccsscccsccsccscccccccccccccccccccccccssccsssccccccccsccc" />
   </g>
   <g
