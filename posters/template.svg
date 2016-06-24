@@ -1002,8 +1002,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.43869344"
-     inkscape:cx="3270.2229"
-     inkscape:cy="570.48879"
+     inkscape:cx="764.60873"
+     inkscape:cy="1031.9775"
      inkscape:document-units="px"
      inkscape:current-layer="g4296"
      showgrid="false"
@@ -1386,7 +1386,7 @@
     <path
        inkscape:connector-curvature="0"
        style="display:inline;fill:url(#linearGradient25213);fill-opacity:1;stroke:none;filter:url(#filter55445)"
-       d="m 3413.0938,2271.9062 c -117.927,192.9765 -280.3951,355.789 -473.0938,474.125 l 0,190.125 2010.7119,0 2.274,-664.25 z"
+       d="M 3413.0938,2271.9062 C 3295.1668,2464.8827 3132.6987,2655.3248 2940,2773.6608 l 0,162.4954 2010.7119,0 2.274,-664.25 z"
        id="rect73872-7-7-0-4-8-53-0-9"
        transform="matrix(0.990025,0,0,0.990025,-733.25856,69.122749)"
        sodipodi:nodetypes="cccccc" />
@@ -1409,10 +1409,10 @@
     <path
        inkscape:connector-curvature="0"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient25215);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.41689301;marker:none;filter:url(#filter55433);enable-background:accumulate"
-       d="m 3435.2812,822.59375 c 118.6305,208.18355 186.4063,449.12075 186.4063,705.87505 0,245.6862 -62.053,569.3891 -171.3437,771.2695 l 1502.1539,0 -0.8471,-1477.14455 z"
+       d="m 3435.2812,822.59375 c 118.6305,208.18355 237.1372,456.68275 248.5728,705.87505 12.1541,264.8493 -85.0776,569.3891 -194.3683,771.2695 l 1463.012,0 -0.8471,-1477.14455 z"
        id="rect73872-3-48-2-4-0-0-7-2"
        transform="matrix(0.990025,0,0,0.990025,-733.25856,3.122749)"
-       sodipodi:nodetypes="cscccc" />
+       sodipodi:nodetypes="cacccc" />
     <path
        inkscape:connector-curvature="0"
        style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#linearGradient25217);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.18392944;marker:none;filter:url(#filter55493);enable-background:accumulate"
@@ -3073,15 +3073,15 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:47.52119827px;line-height:100%;font-family:Candara;-inkscape-font-specification:'Candara Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
-       x="3081.0981"
+       x="2749.0981"
        y="2372.0134"
        id="text24695-0-2-1-6-6-4-8-2-8-5-1-4"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan24697-0-4-30-4-1-4-8-9-5-78-0-2"
-         x="3081.0981"
+         x="2749.0981"
          y="2372.0134"
-         style="font-size:65px">Null Models</tspan></text>
+         style="font-size:65px">Score Interpretation</tspan></text>
     <image
        sodipodi:absref="C:\Users\dougl\Documents\work\cvAndApplications\posters\Boxes\conclusion\BenchmarkingR.png"
        xlink:href="Boxes\conclusion\BenchmarkingR.png"
@@ -3542,11 +3542,30 @@
        id="g15085-4-4"
        inkscape:path-effect="#path-effect4557">
       <path
-         id="rect13653-0-1-1-6-6-1-0-9"
          style="display:inline;fill:url(#linearGradient4984);fill-opacity:1;stroke:#000000;stroke-width:0.84974492;stroke-opacity:1"
-         d="m -61.759396,134.22975 0.460041,0.0377 c -0.532021,5.18994 -0.887181,10.43615 -1.059442,15.73257 1.272393,39.12158 12.523542,75.50301 31.320973,106.71183 35.4920879,58.92647 97.887076,99.41228 170.811234,105.08371 l 0.1208,-2.26948 c -10.57465,-21.19227 -17.16965,-42.8096 -20.24435,-64.25415 12.30438,-17.83121 21.41216,-37.15217 26.72549,-57.50351 l 0.0653,-1.22667 C 120.72702,236.96255 91.68105,216.4305 75.67647,191.3193 67.200075,178.01983 62.381797,163.4359 63.654113,150 c -0.172251,-1.819 -0.232869,-3.65905 -0.18789,-5.5141 l 0.460001,0.0377 C 64.529051,118.79934 85.658607,90.099673 110.8949,74.844576 l -0.2312,-0.39899 c 0.0904,-0.0546 0.18078,-0.109021 0.27125,-0.163273 -5.96386,-19.976845 -9.10326,-41.063168 -8.95964,-62.661566 l -1.0084,-2.6418796 C 86.141251,-7.2616658 68.393925,-21.743043 48.342434,-33.990321 c -0.128289,0.07265 -0.256497,0.145423 -0.384621,0.218323 l -0.231212,-0.399025 C -12.338816,0.00131283 -54.30748,61.608237 -61.759396,134.22975 Z m 245.849736,225.0023 -0.0639,-0.35951 c 13.68491,-2.55936 26.90368,-6.36419 39.53641,-11.29459 -20.55355,-36.72002 -38.10765,-74.7913 -52.38935,-113.95742 -3.01388,0.93447 -6.03205,1.64269 -9.02992,2.10006 l -0.0635,-0.35752 c -2.18758,0.33316 -4.36396,0.53171 -6.51943,0.58595 -1.11525,9.12636 -2.95483,18.25264 -5.56068,27.3242 -3.35294,11.93049 -7.99443,23.51704 -13.80805,34.67031 l -0.0791,0.73977 c 0.0531,-0.001 0.10628,-0.003 0.15942,-0.004 3.31688,12.07883 7.86375,24.11571 13.72771,35.99741 4.66127,9.24614 10.08165,18.23657 16.20427,26.92755 -0.0145,0.0782 -0.0291,0.15646 -0.0437,0.23469 6.05653,-0.63202 12.03617,-1.50398 17.9294,-2.60634 0,0 4.4e-4,-6e-5 4.4e-4,-6e-5 z M 362.6824,150 c -0.70529,0 -1.41058,0 -2.11587,0 -20.96045,11.92832 -42.4772,19.72904 -63.93795,23.87258 C 278.05777,162.34338 258.05366,154.18176 237.08671,150 c -0.35557,0 -0.71113,0 -1.0667,0 1.82525,19.08104 -8.73508,40.52097 -24.60951,57.24835 25.79241,33.96299 45.15632,73.84219 56.09018,117.24084 C 323.35593,286.28359 360.30321,222.90048 362.6824,150 Z m -99.25681,-177.095242 -1.19006,1.797286 c -1.99755,23.0642125 -7.09816,45.185797 -14.83471,65.756817 -19.65002,9.841049 -37.44339,22.112349 -52.77219,36.34682 l -0.61425,0.927684 c 20.84006,14.292486 37.99344,37.423565 41.60472,59.537825 20.80568,0.56571 41.85557,4.6485 62.52374,12.72881 0.46464,0 0.92929,0 1.39393,0 21.01513,-8.23938 40.84347,-20.42384 58.98759,-35.90663 C 346.92004,54.874772 311.95194,4.5433863 263.42559,-27.095242 Z m -195.721221,-16.867629 0.879826,1.957634 c 18.571426,14.017366 34.585605,30.053496 47.434615,47.641289 -2.50938,21.635284 -1.50429,43.028477 2.54818,63.571667 l 0.45412,1.010448 c 10.29359,-4.838374 20.95964,-7.289432 30.97885,-6.333864 11.32547,-1.080151 23.47744,2.192509 34.98369,8.345757 13.54749,-15.988871 29.92745,-30.196062 48.51395,-42.141138 l 0.81309,-1.123775 c 5.61827,-21.747669 8.26711,-44.790051 7.44907,-68.480399 -27.66134,-13.817544 -58.73401,-21.993788 -91.7598,-23.070525 -29.30998,0.955591 -57.081611,7.502996 -82.295591,18.622906 z"
-         inkscape:original-d="m 554.19793,585.80701 0,0.46464 -118.5432,0 -197.1365,0 0,2.28323 31.8806,61.2478 -31.8806,61.24778 0,1.2341 197.1365,0 118.5432,0 0,0.4646 197.322,0 0,-0.4646 0.703,0 31.908,-61.07046 0,-2.8603 -32.1892,-62.08215 -0.4218,0 0,-0.46464 -197.322,0 z m -355.7702,-0.11965 0,0.36914 -38.28121,0 15.70073,126.44926 22.58048,0 0,0.3671 16.5586,0 32.875,-62.91987 0,-0.75 -0.2109,0.0215 -32.8242,-63.30664 0.057,-0.23047 -16.4551,0 z m -279.764576,0.26061 0,2.11587 32.1345,61.73993 -32.1345,61.73989 0,1.0667 149.01189,0 45.218096,-126.66239 z m 1043.944276,0.0967 0,2.16833 32.0584,61.59255 -32.0584,61.59 0,1.1192 166.44707,0 32.4079,-62.02722 0,-1.39393 -32.6891,-63.04893 -166.16587,0 z m -189.9752,0 0,2.16833 32.0583,61.59255 -32.0583,61.59 0,1.1192 166.447,0 32.4079,-62.02722 0,-1.39393 -32.6891,-63.04893 -166.1658,0 z"
-         inkscape:connector-curvature="0" />
+         d="m -61.759396,134.22975 0.460041,0.0377 c -0.532021,5.18994 -0.887181,10.43615 -1.059442,15.73257 1.272393,39.12158 12.523542,75.50301 31.320973,106.71183 35.4920879,58.92647 97.887076,99.41228 170.811234,105.08371 l 0.1208,-2.26948 c -10.57465,-21.19227 -17.16965,-42.8096 -20.24435,-64.25415 12.30438,-17.83121 21.41216,-37.15217 26.72549,-57.50351 l 0.0653,-1.22667 C 120.72702,236.96255 91.68105,216.4305 75.67647,191.3193 67.200075,178.01983 62.381797,163.4359 63.654113,150 c -0.172251,-1.819 -0.232869,-3.65905 -0.18789,-5.5141 l 0.460001,0.0377 C 64.529051,118.79934 85.658607,90.099673 110.8949,74.844576 l -0.2312,-0.39899 c 0.0904,-0.0546 0.18078,-0.109021 0.27125,-0.163273 -5.96386,-19.976845 -9.10326,-41.063168 -8.95964,-62.661566 l -1.0084,-2.6418796 C 86.141251,-7.2616658 68.393925,-21.743043 48.342434,-33.990321 c -0.128289,0.07265 -0.256497,0.145423 -0.384621,0.218323 l -0.231212,-0.399025 C -12.338816,0.00131283 -54.30748,61.608237 -61.759396,134.22975 Z"
+         id="path8356"
+         inkscape:original-d="m 554.19793,585.80701 0,0.46464 -118.5432,0 -197.1365,0 0,2.28323 31.8806,61.2478 -31.8806,61.24778 0,1.2341 197.1365,0 118.5432,0 0,0.4646 197.322,0 0,-0.4646 0.703,0 31.908,-61.07046 0,-2.8603 -32.1892,-62.08215 -0.4218,0 0,-0.46464 -197.322,0 z" />
+      <path
+         style="display:inline;fill:url(#linearGradient4984);fill-opacity:1;stroke:#000000;stroke-width:0.84974492;stroke-opacity:1"
+         d="m 184.09034,359.23205 -0.0639,-0.35951 c 13.68491,-2.55936 26.90368,-6.36419 39.53641,-11.29459 -20.55355,-36.72002 -38.10765,-74.7913 -52.38935,-113.95742 -3.01388,0.93447 -6.03205,1.64269 -9.02992,2.10006 l -0.0635,-0.35752 c -2.18758,0.33316 -4.36396,0.53171 -6.51943,0.58595 -1.11525,9.12636 -2.95483,18.25264 -5.56068,27.3242 -3.35294,11.93049 -7.99443,23.51704 -13.80805,34.67031 l -0.0791,0.73977 c 0.0531,-0.001 0.10628,-0.003 0.15942,-0.004 3.31688,12.07883 7.86375,24.11571 13.72771,35.99741 4.66127,9.24614 10.08165,18.23657 16.20427,26.92755 -0.0145,0.0782 -0.0291,0.15646 -0.0437,0.23469 6.05653,-0.63202 12.03617,-1.50398 17.9294,-2.60634 0,0 4.4e-4,-6e-5 4.4e-4,-6e-5 z"
+         id="path8354"
+         inkscape:original-d="m 198.42773,585.68736 0,0.36914 -38.28121,0 15.70073,126.44926 22.58048,0 0,0.3671 16.5586,0 32.875,-62.91987 0,-0.75 -0.2109,0.0215 -32.8242,-63.30664 0.057,-0.23047 -16.4551,0 z" />
+      <path
+         style="display:inline;fill:url(#linearGradient4984);fill-opacity:1;stroke:#000000;stroke-width:0.84974492;stroke-opacity:1"
+         d="m 362.6824,150 c -0.70529,0 -1.41058,0 -2.11587,0 -20.96045,11.92832 -42.4772,19.72904 -63.93795,23.87258 C 278.05777,162.34338 258.05366,154.18176 237.08671,150 c -0.35557,0 -0.71113,0 -1.0667,0 1.82525,19.08104 -8.73508,40.52097 -24.60951,57.24835 25.79241,33.96299 45.15632,73.84219 56.09018,117.24084 C 323.35593,286.28359 360.30321,222.90048 362.6824,150 Z"
+         id="path8352"
+         inkscape:original-d="m -81.336846,585.94797 0,2.11587 32.1345,61.73993 -32.1345,61.73989 0,1.0667 149.01189,0 45.218096,-126.66239 z" />
+      <path
+         style="display:inline;fill:url(#linearGradient4984);fill-opacity:1;stroke:#000000;stroke-width:0.84974492;stroke-opacity:1"
+         d="m 263.42559,-27.095242 -1.19006,1.797286 c -1.99755,23.0642125 -7.09816,45.185797 -14.83471,65.756817 -19.65002,9.841049 -37.44339,22.112349 -52.77219,36.34682 l -0.61425,0.927684 c 20.84006,14.292486 37.99344,37.423565 41.60472,59.537825 20.80568,0.56571 41.85557,4.6485 62.52374,12.72881 0.46464,0 0.92929,0 1.39393,0 21.01513,-8.23938 40.84347,-20.42384 58.98759,-35.90663 C 346.92004,54.874772 311.95194,4.5433863 263.42559,-27.095242 Z"
+         id="path8350"
+         inkscape:original-d="m 962.60743,586.04467 0,2.16833 32.0584,61.59255 -32.0584,61.59 0,1.1192 166.44707,0 32.4079,-62.02722 0,-1.39393 -32.6891,-63.04893 -166.16587,0 z" />
+      <path
+         style="display:inline;fill:url(#linearGradient4984);fill-opacity:1;stroke:#000000;stroke-width:0.84974492;stroke-opacity:1"
+         d="m 67.704369,-43.962871 0.879826,1.957634 c 18.571426,14.017366 34.585605,30.053496 47.434615,47.641289 -2.50938,21.635284 -1.50429,43.028477 2.54818,63.571667 l 0.45412,1.010448 c 10.29359,-4.838374 20.95964,-7.289432 30.97885,-6.333864 11.32547,-1.080151 23.47744,2.192509 34.98369,8.345757 13.54749,-15.988871 29.92745,-30.196062 48.51395,-42.141138 l 0.81309,-1.123775 c 5.61827,-21.747669 8.26711,-44.790051 7.44907,-68.480399 -27.66134,-13.817544 -58.73401,-21.993788 -91.7598,-23.070525 -29.30998,0.955591 -57.081611,7.502996 -82.295591,18.622906 z"
+         id="rect13653-0-1-1-6-6-1-0-9"
+         inkscape:original-d="m 772.63223,586.04467 0,2.16833 32.0583,61.59255 -32.0583,61.59 0,1.1192 166.447,0 32.4079,-62.02722 0,-1.39393 -32.6891,-63.04893 -166.1658,0 z" />
     </g>
     <image
        sodipodi:absref="C:\Users\dougl\Documents\work\cvAndApplications\posters\static_qr_code_without_logo.jpg"
@@ -3565,12 +3584,12 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:47.52119827px;line-height:100%;font-family:Candara;-inkscape-font-specification:'Candara Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
-       x="937.336"
+       x="963.336"
        y="526.36322"
        id="text24695-0-2-1-6-6-4-8-2-8-5-72-6"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
-         x="937.336"
+         x="963.336"
          y="526.36322"
          style="font-size:75px;fill:#000000;fill-opacity:1"
          id="tspan6838-6">Benchmarking and Evaluation</tspan></text>
@@ -3626,11 +3645,11 @@
        sodipodi:absref="C:\Users\dougl\Documents\work\cvAndApplications\posters\Circle\Start\LPX-limitation.png"
        xlink:href="Circle\Start\LPX-limitation.png"
        width="358.56979"
-       height="292.91617"
+       height="300.9754"
        preserveAspectRatio="none"
        id="image7202"
-       x="2415.5454"
-       y="1311.4767"
+       x="2068.5989"
+       y="2386.3103"
        style="display:inline" />
     <image
        sodipodi:absref="C:\Users\dougl\Documents\work\cvAndApplications\posters\Circle\Start\LPX-Mv1-limitation.png"
@@ -3651,441 +3670,7 @@
        height="405"
        width="405"
        clip-path="url(#clipPath11176)"
-       transform="matrix(1.9432625,0,0,1.9432625,-1459.7658,-843.13565)" />
-    <g
-       transform="matrix(1.25,0,0,-1.25,997.72573,2593.05)"
-       inkscape:label="LPXMv1Rec"
-       id="g11478">
-      <g
-         id="g11480" />
-      <g
-         id="g11482">
-        <path
-           inkscape:connector-curvature="0"
-           id="path11484"
-           style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-           d="m 85.4,73.44 263.63,0" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path11486"
-           style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-           d="m 85.4,73.44 0,-7.2" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path11488"
-           style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-           d="m 151.31,73.44 0,-7.2" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path11490"
-           style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-           d="m 217.22,73.44 0,-7.2" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path11492"
-           style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-           d="m 283.13,73.44 0,-7.2" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path11494"
-           style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-           d="m 349.03,73.44 0,-7.2" />
-        <text
-           id="text11496"
-           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-1,72.06,47.52)">
-          <tspan
-             id="tspan11498"
-             sodipodi:role="line"
-             y="0"
-             x="0 6.6719999 13.344 20.016001">1990</tspan>
-        </text>
-        <text
-           id="text11500"
-           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-1,137.97,47.52)">
-          <tspan
-             id="tspan11502"
-             sodipodi:role="line"
-             y="0"
-             x="0 6.6719999 13.344 20.016001">1995</tspan>
-        </text>
-        <text
-           id="text11504"
-           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-1,203.87,47.52)">
-          <tspan
-             id="tspan11506"
-             sodipodi:role="line"
-             y="0"
-             x="0 6.6719999 13.344 20.016001">2000</tspan>
-        </text>
-        <text
-           id="text11508"
-           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-1,269.78,47.52)">
-          <tspan
-             id="tspan11510"
-             sodipodi:role="line"
-             y="0"
-             x="0 6.6719999 13.344 20.016001">2005</tspan>
-        </text>
-        <text
-           id="text11512"
-           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-1,335.69,47.52)">
-          <tspan
-             id="tspan11514"
-             sodipodi:role="line"
-             y="0"
-             x="0 6.6719999 13.344 20.016001">2010</tspan>
-        </text>
-        <path
-           inkscape:connector-curvature="0"
-           id="path11516"
-           style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-           d="m 59.04,73.44 0,197.84" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path11518"
-           style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-           d="m 59.04,73.44 -7.2,0" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path11520"
-           style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-           d="m 59.04,113.01 -7.2,0" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path11522"
-           style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-           d="m 59.04,152.58 -7.2,0" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path11524"
-           style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-           d="m 59.04,192.15 -7.2,0" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path11526"
-           style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-           d="m 59.04,231.71 -7.2,0" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path11528-1"
-           style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-           d="m 59.04,271.28 -7.2,0" />
-        <text
-           id="text11530"
-           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(0,1,1,0,41.76,70.1)">
-          <tspan
-             id="tspan11532"
-             y="0"
-             x="0">0</tspan>
-        </text>
-        <text
-           id="text11534"
-           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(0,1,1,0,41.76,106.34)">
-          <tspan
-             id="tspan11536"
-             sodipodi:role="line"
-             y="0"
-             x="0 6.6719999">20</tspan>
-        </text>
-        <text
-           id="text11538"
-           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(0,1,1,0,41.76,145.91)">
-          <tspan
-             id="tspan11540"
-             sodipodi:role="line"
-             y="0"
-             x="0 6.6719999">40</tspan>
-        </text>
-        <text
-           id="text11542"
-           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(0,1,1,0,41.76,185.47)">
-          <tspan
-             id="tspan11544"
-             sodipodi:role="line"
-             y="0"
-             x="0 6.6719999">60</tspan>
-        </text>
-        <text
-           id="text11546"
-           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(0,1,1,0,41.76,225.04)">
-          <tspan
-             id="tspan11548"
-             sodipodi:role="line"
-             y="0"
-             x="0 6.6719999">80</tspan>
-        </text>
-        <text
-           id="text11550"
-           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(0,1,1,0,41.76,261.28)">
-          <tspan
-             id="tspan11552"
-             sodipodi:role="line"
-             y="0"
-             x="0 6.6719999 13.344">100</tspan>
-        </text>
-        <path
-           inkscape:connector-curvature="0"
-           id="path11554"
-           style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-           d="m 59.04,73.44 342.72,0 0,227.52 -342.72,0 0,-227.52" />
-      </g>
-      <g
-         id="g11556">
-        <text
-           id="text11558"
-           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-1,218.85,18.72)">
-          <tspan
-             id="tspan11560"
-             sodipodi:role="line"
-             y="0"
-             x="0 5.7600002 12.432 19.104">year</tspan>
-        </text>
-        <text
-           id="text11562"
-           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(0,1,1,0,12.96,137.43)">
-          <tspan
-             id="tspan11564"
-             sodipodi:role="line"
-             y="0"
-             x="0 3.9960001 10.668 16.667999 23.16 28.860001 35.532001 39.888 45.888 49.223999 51.888 58.560001 65.232002 71.543999 77.543999 80.879997 84.875999 95.543999">recovery index (%)</tspan>
-        </text>
-      </g>
-      <g
-         id="g11566">
-        <g
-           clip-path="url(#clipPath11570)"
-           id="g11568">
-          <path
-             inkscape:connector-curvature="0"
-             id="path11574"
-             style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-             d="m 59.04,271.28 13.18,0 13.18,0 13.18,0 13.19,0 13.18,0 13.18,0 13.18,0 13.18,0 13.18,0 13.19,0 13.18,0 13.18,0 13.18,0 13.18,0 13.18,0 13.18,0 13.19,0 13.18,0 13.18,0 13.18,0 13.18,0 13.18,0 13.19,0 13.18,0 13.18,0 13.18,0" />
-          <path
-             inkscape:connector-curvature="0"
-             id="path11576"
-             style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:2.25, 3.75;stroke-dashoffset:0;stroke-opacity:1"
-             d="m 59.04,251.5 13.18,0 13.18,0 13.18,0 13.19,0 13.18,0 13.18,0 13.18,0 13.18,0 13.18,0 13.19,0 13.18,0 13.18,0 13.18,0 13.18,0 13.18,0 13.18,0 13.19,0 13.18,0 13.18,0 13.18,0 13.18,0 13.18,0 13.19,0 13.18,0 13.18,0 13.18,0" />
-          <path
-             inkscape:connector-curvature="0"
-             id="path11578"
-             style="fill:none;stroke:#ffa500;stroke-width:2.25;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:0, 9;stroke-dashoffset:0;stroke-opacity:1"
-             d="M 85.4,75.42 85.4,360" />
-        </g>
-      </g>
-      <g
-         id="g11580">
-        <path
-           inkscape:connector-curvature="0"
-           id="path11582"
-           style="fill:none;stroke:#ff0000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-           d="m 310.27,216 21.6,0" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path11584"
-           style="fill:none;stroke:#000000;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-           d="m 310.27,201.6 21.6,0" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path11586"
-           style="fill:none;stroke:#ff0000;stroke-width:22.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:0.50199998"
-           d="m 310.27,187.2 21.6,0" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path11588"
-           style="fill:none;stroke:#0000ff;stroke-width:22.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:0.50199998"
-           d="m 310.27,172.8 21.6,0" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path11590"
-           style="fill:none;stroke:#000000;stroke-width:22.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:0.50199998"
-           d="m 310.27,158.4 21.6,0" />
-        <text
-           id="text11592"
-           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-1,342.67,211.69)">
-          <tspan
-             id="tspan11594"
-             sodipodi:role="line"
-             y="0"
-             x="0 6.6719999 14.676 22.68 26.016001 33.023998 36.360001 45.023998">LPX − RS</tspan>
-        </text>
-        <text
-           id="text11596"
-           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-1,342.67,197.29)">
-          <tspan
-             id="tspan11598"
-             sodipodi:role="line"
-             y="0"
-             x="0 6.6719999 14.676 22.68 26.016001 33.023998 36.360001 45.023998">LPX − NR</tspan>
-        </text>
-        <text
-           id="text11600"
-           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-1,342.67,182.89)">
-          <tspan
-             id="tspan11602"
-             sodipodi:role="line"
-             y="0"
-             x="0 9.3360004 16.007999 22.007999 25.344 32.352001 35.688 44.352001">Obs − RS</tspan>
-        </text>
-        <text
-           id="text11604"
-           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-1,342.67,168.49)">
-          <tspan
-             id="tspan11606"
-             sodipodi:role="line"
-             y="0"
-             x="0 9.3360004 16.007999 22.007999 25.344 32.352001 35.688 45.023998">Obs − OS</tspan>
-        </text>
-        <text
-           id="text11608"
-           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-1,342.67,154.09)">
-          <tspan
-             id="tspan11610"
-             sodipodi:role="line"
-             y="0"
-             x="0 9.3360004 16.007999 22.007999 25.344 32.352001 35.688 44.352001">Obs − NR</tspan>
-        </text>
-        <path
-           inkscape:connector-curvature="0"
-           id="path11612"
-           style="fill:none;stroke:#ff0000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-           d="m 310.27,216 21.6,0" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path11614"
-           style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-           d="m 310.27,201.6 21.6,0" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path11616"
-           style="fill:none;stroke:#ff0000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:4.5, 7.5;stroke-dashoffset:0;stroke-opacity:0.50199998"
-           d="m 310.27,187.2 21.6,0" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path11618"
-           style="fill:none;stroke:#0000ff;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:4.5, 7.5;stroke-dashoffset:0;stroke-opacity:0.50199998"
-           d="m 310.27,172.8 21.6,0" />
-        <path
-           inkscape:connector-curvature="0"
-           id="path11620"
-           style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:4.5, 7.5;stroke-dashoffset:0;stroke-opacity:0.50199998"
-           d="m 310.27,158.4 21.6,0" />
-        <text
-           id="text11622"
-           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-1,342.67,211.69)">
-          <tspan
-             id="tspan11624"
-             sodipodi:role="line"
-             y="0"
-             x="0 6.6719999 14.676 22.68 26.016001 33.023998 36.360001 45.023998">LPX − RS</tspan>
-        </text>
-        <text
-           id="text11626"
-           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-1,342.67,197.29)">
-          <tspan
-             id="tspan11628"
-             sodipodi:role="line"
-             y="0"
-             x="0 6.6719999 14.676 22.68 26.016001 33.023998 36.360001 45.023998">LPX − NR</tspan>
-        </text>
-        <text
-           id="text11630"
-           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-1,342.67,182.89)">
-          <tspan
-             id="tspan11632"
-             sodipodi:role="line"
-             y="0"
-             x="0 9.3360004 16.007999 22.007999 25.344 32.352001 35.688 44.352001">Obs − RS</tspan>
-        </text>
-        <text
-           id="text11634"
-           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-1,342.67,168.49)">
-          <tspan
-             id="tspan11636"
-             sodipodi:role="line"
-             y="0"
-             x="0 9.3360004 16.007999 22.007999 25.344 32.352001 35.688 45.023998">Obs − OS</tspan>
-        </text>
-        <text
-           id="text11638"
-           style="font-variant:normal;font-weight:normal;font-size:12px;font-family:Helvetica;-inkscape-font-specification:Helvetica;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-           transform="matrix(1,0,0,-1,342.67,154.09)">
-          <tspan
-             id="tspan11640"
-             sodipodi:role="line"
-             y="0"
-             x="0 9.3360004 16.007999 22.007999 25.344 32.352001 35.688 44.352001">Obs − NR</tspan>
-        </text>
-      </g>
-      <g
-         id="g11642">
-        <g
-           clip-path="url(#clipPath11646)"
-           id="g11644">
-          <path
-             inkscape:connector-curvature="0"
-             id="path11650"
-             style="fill:#ff0000;fill-opacity:0.50199998;fill-rule:nonzero;stroke:none"
-             d="m 59.04,256.36 1.1,3.82 1.1,3.1 1.1,2.69 1.09,2.21 1.1,1.17 1.1,1.47 1.1,-1.46 1.1,-0.87 1.1,-2.43 1.09,-2.22 1.1,1.24 1.1,0.03 1.1,-18.13 1.1,-25.35 1.1,-25.74 1.1,-26.15 1.09,-26.6 1.1,-26.85 1.1,-18.66 1.1,-5.26 1.1,-1.32 1.1,0.22 1.09,-1.61 1.1,-7.42 1.1,8.12 1.1,-7.3 1.1,-8.29 1.1,7.69 1.1,2.11 1.09,-8.14 1.1,-4.24 1.1,1.59 1.1,0.28 1.1,0.43 1.1,-0.9 1.09,0.11 1.1,17.2 1.1,17.76 1.1,6.32 1.1,4.03 1.1,-11.12 1.1,-7.68 1.09,2.62 1.1,2.46 1.1,2.84 1.1,3.97 1.1,3.9 1.1,3.9 1.09,3.9 1.1,3.98 1.1,3.96 1.1,5.21 1.1,7.14 1.1,1.86 1.1,2.04 1.09,4.07 1.1,1.34 1.1,4.81 1.1,0.96 1.1,-1.48 1.1,1.47 1.09,2.78 1.1,3.41 1.1,6.61 1.1,6.65 1.1,1.32 1.1,1.05 1.1,-0.22 1.09,2.79 1.1,3.05 1.1,3.06 1.1,3.05 1.1,3.04 1.1,2.88 1.09,1.87 1.1,1.86 1.1,2.42 1.1,2.58 1.1,-0.6 1.1,-0.16 1.1,-0.56 1.09,-0.77 1.1,-0.76 1.1,-0.77 1.1,-0.57 1.1,-0.51 1.1,-0.44 1.09,-0.39 1.1,-0.32 1.1,-0.29 1.1,1.02 1.1,1.06 1.1,1.12 1.1,1.15 1.09,1.14 1.1,1.16 1.1,1.2 1.1,0.44 1.1,-0.98 1.1,0.75 1.09,1.27 1.1,1.25 1.1,1.43 1.1,1.47 1.1,1.99 1.1,0.71 1.1,0.97 1.09,0.68 1.1,0.37 1.1,0.32 1.1,0.21 1.1,-0.99 1.1,-0.9 1.09,0.11 1.1,0.78 1.1,2.2 1.1,1.64 1.1,0.95 1.1,0.86 1.1,0.99 1.09,1.02 1.1,1.07 1.1,1.94 1.1,1.58 1.1,0.81 1.1,1.25 1.09,0.56 1.1,0.36 1.1,0.35 1.1,0.51 1.1,1.12 1.1,0.73 1.1,0.22 1.09,-0.87 1.1,-1.37 1.1,-1.26 1.1,-1.25 1.1,-1.08 1.1,-0.86 1.09,-0.85 1.1,-0.64 1.1,-0.75 1.1,-0.74 1.1,-0.72 1.1,0.76 1.1,0.77 1.09,-0.7 1.1,-0.71 1.1,0.35 1.1,0.99 1.1,0.95 1.1,0.9 1.09,1.09 1.1,1.19 1.1,1.13 1.1,1.09 1.1,1.11 1.1,1.1 1.1,0.99 1.09,0.77 1.1,0.84 1.1,1.41 1.1,1.09 1.1,0.88 1.1,0.85 1.09,0.83 1.1,0.8 1.1,0.79 1.1,0.26 1.1,0.28 1.1,0.32 1.1,0.33 1.09,0.31 1.1,0.24 1.1,0.2 1.1,0.2 1.1,0.2 1.1,0.22 1.09,0.22 1.1,0.24 1.1,0.25 1.1,0.23 1.1,-0.26 1.1,-0.71 1.1,-0.07 1.09,-0.01 1.1,-0.01 1.1,-0.02 1.1,-0.01 1.1,-0.01 1.1,-0.01 1.09,0.07 1.1,0.13 1.1,0.13 1.1,0.12 1.1,0.13 1.1,0.14 1.1,0.14 1.09,0.11 1.1,0.11 1.1,0.1 1.1,0.08 1.1,0.09 1.1,0.09 1.09,0.04 1.1,0.04 1.1,0.04 1.1,0.05 1.1,0.03 1.1,0.04 1.1,0.04 1.09,0.08 1.1,0.03 1.1,-0.09 1.1,-0.12 1.1,-0.36 1.1,-0.2 1.09,0.32 1.1,0.56 1.1,0.31 1.1,0.3 1.1,0.31 1.1,0.31 1.1,0.31 1.09,0.29 1.1,0.29 1.1,0.28 1.1,0.29 1.1,0.19 1.1,0.19 1.09,0.19 1.1,0.2 1.1,0.17 1.1,-0.4 1.1,0.06 1.1,0.22 1.1,-0.31 1.09,-0.34 1.1,0.56 1.1,0.73 1.1,0.1 1.1,0.11 1.1,0.1 1.09,0.1 1.1,0.1 1.1,0.1 1.1,0.1 1.1,0.1 1.1,0.1 1.1,0.09 1.09,0.1 1.1,0.09 1.1,0.09 1.1,0.09 1.1,0.09 1.1,0.08 1.09,0.09 1.1,0.09 1.1,0.09 1.1,0.08 1.1,0.09 1.1,0.08 1.1,0.08 1.09,0.09 1.1,0.07 1.1,0.08 1.1,0.08 1.1,0.08 1.1,0.08 1.09,0.07 1.1,0.08 1.1,0.08 1.1,0.07 1.1,0.07 1.1,0.08 1.1,0.07 1.09,0.07 1.1,0.07 1.1,0.07 1.1,0.07 1.1,0.06 1.1,0.07 1.09,0.07 1.1,0.07 1.1,0.07 1.1,0.06 1.1,0.06 1.1,0.07 1.1,0.06 1.09,0.06 1.1,0.06 1.1,0.07 1.1,0.06 1.1,0.06 1.1,0.06 1.09,0.06 1.1,0.06 1.1,0.06 1.1,0.05 1.1,0.06 0,8.12 -1.1,0 -1.1,0 -1.1,-0.01 -1.1,0 -1.09,0 -1.1,0 -1.1,-0.01 -1.1,0 -1.1,0 -1.1,-0.01 -1.09,0 -1.1,0 -1.1,-0.01 -1.1,0 -1.1,0 -1.1,0 -1.1,0 -1.09,-0.01 -1.1,0 -1.1,0 -1.1,0 -1.1,-0.01 -1.1,0 -1.09,0 -1.1,0 -1.1,-0.01 -1.1,0 -1.1,0 -1.1,0 -1.1,0 -1.09,0 -1.1,0 -1.1,-0.01 -1.1,0 -1.1,0 -1.1,0 -1.09,0 -1.1,0 -1.1,0 -1.1,0 -1.1,0 -1.1,0 -1.1,0 -1.09,0 -1.1,-0.01 -1.1,0 -1.1,0 -1.1,0 -1.1,0 -1.09,0 -1.1,0 -1.1,0 -1.1,0.01 -1.1,0 -1.1,0 -1.1,0 -1.09,0 -1.1,0 -1.1,0 -1.1,0 -1.1,0.46 -1.1,0.3 -1.09,-0.61 -1.1,-0.57 -1.1,-0.05 -1.1,-0.22 -1.1,-0.67 -1.1,-0.1 -1.1,-0.09 -1.09,-0.08 -1.1,-0.09 -1.1,-0.08 -1.1,0.44 -1.1,0.43 -1.1,0.44 -1.09,0.45 -1.1,0.46 -1.1,0.45 -1.1,0.45 -1.1,0.45 -1.1,0.45 -1.1,0.69 -1.09,0.46 -1.1,-0.05 -1.1,-0.23 -1.1,0.02 -1.1,0.05 -1.1,0.17 -1.09,0.21 -1.1,0.16 -1.1,0.16 -1.1,0.16 -1.1,0.16 -1.1,0.16 -1.1,0.16 -1.09,0.16 -1.1,0.11 -1.1,0.12 -1.1,0.11 -1.1,0.11 -1.1,0.11 -1.09,0.12 -1.1,0.15 -1.1,0.18 -1.1,0.2 -1.1,0.2 -1.1,0.2 -1.1,0.2 -1.09,0.14 -1.1,0.07 -1.1,0.06 -1.1,0.06 -1.1,0.03 -1.1,0.04 -1.09,0.04 -1.1,0 -1.1,-0.58 -1.1,-0.16 -1.1,0.24 -1.1,0.21 -1.1,0.23 -1.09,0.24 -1.1,0.25 -1.1,0.26 -1.1,0.27 -1.1,0.27 -1.1,0.25 -1.09,0.21 -1.1,0.18 -1.1,0.2 -1.1,0.23 -1.1,0.26 -1.1,1 -1.1,0.98 -1.09,0.97 -1.1,0.93 -1.1,0.91 -1.1,1.09 -1.1,1.46 -1.1,0.98 -1.09,0.9 -1.1,1.1 -1.1,1.18 -1.1,1.19 -1.1,1.17 -1.1,1.22 -1.1,1.26 -1.09,1.27 -1.1,1.18 -1.1,1.22 -1.1,1.24 -1.1,0.61 -1.1,-0.43 -1.09,-0.41 -1.1,1.03 -1.1,1.04 -1.1,-1.74 -1.1,-1.73 -1.1,-1.72 -1.1,-1.82 -1.09,-2.15 -1.1,-2.14 -1.1,-2.34 -1.1,-2.5 -1.1,-2.5 -1.1,-2.62 -1.09,-2.12 -1.1,-1.08 -1.1,-0.51 -1.1,-0.91 -1.1,-0.3 -1.1,-0.14 -1.1,-0.15 -1.09,-0.19 -1.1,-0.12 -1.1,-0.43 -1.1,0.13 -1.1,0.35 -1.1,-0.33 -1.09,-0.28 -1.1,-0.25 -1.1,-0.31 -1.1,-0.17 -1.1,0.68 -1.1,1.39 -1.1,0.09 -1.09,0.15 -1.1,-1.01 -1.1,-0.77 -1.1,0.7 -1.1,0.6 -1.1,0.55 -1.09,0.6 -1.1,0.83 -1.1,0.44 -1.1,1.6 -1.1,0.94 -1.1,0.8 -1.1,-0.01 -1.09,-0.25 -1.1,-0.98 -1.1,-2.83 -1.1,-1.53 -1.1,-0.86 -1.1,-0.89 -1.09,-0.87 -1.1,-0.88 -1.1,-0.85 -1.1,-0.79 -1.1,-0.75 -1.1,0.55 -1.1,0.6 -1.09,0.66 -1.1,0.7 -1.1,0.78 -1.1,0.85 -1.1,0.83 -1.1,0.81 -1.09,0.83 -1.1,0.93 -1.1,1.1 -1.1,0.75 -1.1,-2.75 -1.1,-2.99 -1.1,-3.56 -1.09,-3.56 -1.1,-2.6 -1.1,-2.44 -1.1,-2.43 -1.1,-2.46 -1.1,-2.44 -1.09,-2.67 -1.1,-5.73 -1.1,-4.49 -1.1,-0.38 -1.1,4.37 -1.1,4.25 -1.1,1 -1.09,1.04 -1.1,0.2 -1.1,-9.96 -1.1,-0.34 -1.1,1.73 -1.1,-1.77 -1.09,1.11 -1.1,-1.06 -1.1,-1.65 -1.1,2.98 -1.1,0.91 -1.1,-0.42 -1.1,-0.43 -1.09,-0.31 -1.1,-0.29 -1.1,-0.21 -1.1,-0.24 -1.1,0.9 -1.1,0.7 -1.09,0.61 -1.1,-9.61 -1.1,-13.43 -1.1,1.59 -1.1,4.22 -1.1,15.65 -1.1,14.46 -1.09,-9.05 -1.1,-11.39 -1.1,-9.97 -1.1,-9.49 -1.1,-7.41 -1.1,-12.24 -1.09,-21.51 -1.1,-13.16 -1.1,-6.59 -1.1,-22.07 -1.1,-20.33 -1.1,24.78 -1.1,41.48 -1.09,28.31 -1.1,31.22 -1.1,29.93 -1.1,25.93 -1.1,11.3 -1.1,-5.59 -1.09,-5.84 -1.1,-6.3 -1.1,-6.71 -1.1,-7.15 -1.1,-0.79 -1.1,0.12 -1.1,4.23 -1.09,0.03 -1.1,-1.63 -1.1,-1.19 -1.1,-2.02 -1.1,-0.15 -1.1,-0.74 -1.09,0.66 -1.1,0.93 -1.1,0.96 -1.1,-1 0,-15.86 z" />
-          <path
-             inkscape:connector-curvature="0"
-             id="path11652"
-             style="fill:none;stroke:#ff0000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:4.5, 7.5;stroke-dashoffset:0;stroke-opacity:0.50199998"
-             d="m 59.04,264.29 1.1,2.41 1.1,1.07 1.1,0.88 1.09,0.77 1.1,0.96 1.1,0.81 1.1,0.28 1.1,0.16 1.1,-0.4 1.09,-1.12 1.1,-1.5 1.1,-0.04 1.1,-8.68 1.1,-9.09 1.1,-9.52 1.1,-9.92 1.09,-10.39 1.1,-10.62 1.1,-14.99 1.1,-15.59 1.1,-15.62 1.1,-15.51 1.09,-14.96 1.1,-24.44 1.1,-8.34 1.1,6.52 1.1,6.89 1.1,7.14 1.1,7.63 1.09,6.69 1.1,4 1.1,4.5 1.1,4.88 1.1,5.21 1.1,5.24 1.09,4.58 1.1,1.37 1.1,1.06 1.1,1.05 1.1,1.22 1.1,1.15 1.1,0.96 1.09,1.01 1.1,0.88 1.1,0.97 1.1,2.1 1.1,2.06 1.1,2.1 1.09,2.1 1.1,2.21 1.1,2.18 1.1,2.16 1.1,2.08 1.1,1.75 1.1,1.55 1.09,1.48 1.1,1.55 1.1,1.54 1.1,0.65 1.1,4.25 1.1,0.63 1.09,0.87 1.1,1.21 1.1,1.18 1.1,1.14 1.1,0.85 1.1,2.76 1.1,2.76 1.09,2.73 1.1,2.75 1.1,2.75 1.1,2.75 1.1,2.74 1.1,2.74 1.09,2.71 1.1,2.71 1.1,2.7 1.1,2.67 1.1,-0.67 1.1,-0.64 1.1,-0.74 1.09,-0.8 1.1,-0.79 1.1,-0.8 1.1,-0.7 1.1,-0.65 1.1,-0.57 1.09,-0.53 1.1,-0.46 1.1,-0.42 1.1,0.89 1.1,0.93 1.1,0.98 1.1,1.01 1.09,1.01 1.1,1.03 1.1,1.02 1.1,0.99 1.1,0.92 1.1,0.87 1.09,0.76 1.1,0.63 1.1,0.32 1.1,0.26 1.1,0.19 1.1,0.14 1.1,0.07 1.09,0.04 1.1,-0.09 1.1,-0.14 1.1,-0.25 1.1,-0.1 1.1,0.05 1.09,-0.02 1.1,0.34 1.1,0.41 1.1,0.48 1.1,0.56 1.1,0.59 1.1,0.62 1.09,0.65 1.1,0.69 1.1,0.8 1.1,0.72 1.1,0.63 1.1,0.68 1.09,0.38 1.1,0.25 1.1,0.25 1.1,0.4 1.1,1.01 1.1,0.62 1.1,0.66 1.09,0.62 1.1,0.62 1.1,0.63 1.1,0.62 1.1,0.63 1.1,0.64 1.09,0.65 1.1,0.59 1.1,0.48 1.1,0.5 1.1,0.51 1.1,-0.14 1.1,-0.13 1.09,-0.14 1.1,-0.15 1.1,-0.12 1.1,-0.13 1.1,-0.14 1.1,-0.14 1.09,-0.09 1.1,-0.03 1.1,-0.04 1.1,-0.04 1.1,-0.05 1.1,-0.04 1.1,-0.05 1.09,-0.07 1.1,-0.06 1.1,-0.03 1.1,0 1.1,-0.02 1.1,-0.04 1.09,-0.07 1.1,-0.08 1.1,-0.11 1.1,0 1.1,0.02 1.1,0.06 1.1,0.08 1.09,0.05 1.1,-0.01 1.1,-0.03 1.1,-0.04 1.1,-0.02 1.1,-0.02 1.09,-0.01 1.1,0.01 1.1,0.01 1.1,0 1.1,-0.05 1.1,-0.07 1.1,-0.03 1.09,-0.02 1.1,-0.03 1.1,-0.03 1.1,-0.03 1.1,-0.04 1.1,-0.03 1.09,-0.04 1.1,-0.04 1.1,-0.03 1.1,-0.04 1.1,-0.04 1.1,-0.02 1.1,0 1.09,0 1.1,-0.01 1.1,0 1.1,-0.01 1.1,-0.02 1.1,-0.01 1.09,-0.06 1.1,-0.06 1.1,-0.06 1.1,-0.06 1.1,-0.06 1.1,-0.06 1.1,-0.06 1.09,-0.07 1.1,-0.06 1.1,-0.07 1.1,-0.07 1.1,-0.07 1.1,-0.07 1.09,-0.07 1.1,-0.07 1.1,-0.07 1.1,-0.07 1.1,-0.07 1.1,-0.08 1.1,-0.07 1.09,-0.08 1.1,-0.07 1.1,-0.08 1.1,-0.08 1.1,0.14 1.1,0.14 1.09,0.14 1.1,0.14 1.1,0.13 1.1,0.14 1.1,0.14 1.1,0.13 1.1,0.14 1.09,0.13 1.1,0.13 1.1,0.13 1.1,0.06 1.1,0.05 1.1,0.05 1.09,0.05 1.1,0.05 1.1,0.05 1.1,0.05 1.1,0.05 1.1,0.05 1.1,0.04 1.09,0.05 1.1,0.04 1.1,0.05 1.1,0.04 1.1,0.05 1.1,0.04 1.09,0.05 1.1,0.04 1.1,0.05 1.1,0.04 1.1,0.04 1.1,0.04 1.1,0.05 1.09,0.04 1.1,0.04 1.1,0.04 1.1,0.04 1.1,0.04 1.1,0.04 1.09,0.04 1.1,0.04 1.1,0.03 1.1,0.04 1.1,0.04 1.1,0.04 1.1,0.03 1.09,0.04 1.1,0.04 1.1,0.03 1.1,0.04 1.1,0.03 1.1,0.04 1.09,0.03 1.1,0.04 1.1,0.03 1.1,0.04 1.1,0.03 1.1,0.03 1.1,0.04 1.09,0.03 1.1,0.03 1.1,0.03 1.1,0.04 1.1,0.03 1.1,0.03 1.09,0.03 1.1,0.03 1.1,0.03 1.1,0.03 1.1,0.03" />
-          <path
-             inkscape:connector-curvature="0"
-             id="path11654"
-             style="fill:#0000ff;fill-opacity:0.50199998;fill-rule:nonzero;stroke:none"
-             d="m 59.04,265.92 1.1,-6.85 1.1,-8.19 1.1,17.41 1.09,-0.84 1.1,2.67 1.1,-14.85 1.1,13.13 1.1,-18.6 1.1,9.4 1.09,8.2 1.1,-11.51 1.1,1.74 1.1,4.24 1.1,-4.68 1.1,0.25 1.1,4.41 1.09,-10.12 1.1,-4.06 1.1,-8.74 1.1,-8.37 1.1,-24.89 1.1,12.77 1.09,-40.73 1.1,-70.29 1.1,-36.8 1.1,8.99 1.1,20.3 1.1,10.77 1.1,-12.8 1.09,-26.64 1.1,-26.97 1.1,-10.66 1.1,0.85 1.1,10.56 1.1,9.12 1.09,5.89 1.1,10.71 1.1,6.18 1.1,10.11 1.1,8.12 1.1,8.49 1.1,6.83 1.09,-24.75 1.1,31.16 1.1,15.97 1.1,-13.9 1.1,-8.15 1.1,-1.22 1.09,-1.38 1.1,3.58 1.1,7.27 1.1,5.61 1.1,1.39 1.1,-20.59 1.1,8.26 1.09,4.71 1.1,-12.48 1.1,30.51 1.1,8.58 1.1,1.09 1.1,15.39 1.09,-22.6 1.1,8.67 1.1,10.74 1.1,-20.04 1.1,-10 1.1,-7.02 1.1,-14.44 1.09,2.66 1.1,11.92 1.1,27 1.1,-4 1.1,9.04 1.1,6.25 1.09,0.17 1.1,-8.01 1.1,-22.77 1.1,-26.51 1.1,13.29 1.1,-25.32 1.1,27.63 1.09,9.42 1.1,35.82 1.1,-14.37 1.1,1.96 1.1,2.42 1.1,2.25 1.09,2.83 1.1,3.5 1.1,4.33 1.1,2.66 1.1,1.81 1.1,0.46 1.1,5.25 1.09,0.73 1.1,2.35 1.1,0.18 1.1,1.47 1.1,0.76 1.1,1.85 1.09,1.31 1.1,0.74 1.1,2.52 1.1,2.39 1.1,1.14 1.1,-2.74 1.1,2.2 1.09,2.19 1.1,2.47 1.1,1.08 1.1,0.95 1.1,-0.29 1.1,0.89 1.09,0.22 1.1,0.06 1.1,0.08 1.1,1.12 1.1,0.89 1.1,1.76 1.1,1.75 1.09,1.71 1.1,1.7 1.1,1.7 1.1,1.7 1.1,1.69 1.1,1.7 1.09,0.59 1.1,0.6 1.1,0.61 1.1,0.56 1.1,-0.14 1.1,-0.14 1.1,-0.16 1.09,-0.17 1.1,-0.17 1.1,-0.18 1.1,-0.17 1.1,-0.17 1.1,1.12 1.09,1.14 1.1,1.13 1.1,1.12 1.1,0.91 1.1,0.91 1.1,0.9 1.1,0.89 1.09,0.89 1.1,0.89 1.1,0.88 1.1,0.89 1.1,0.7 1.1,0.7 1.09,0.71 1.1,0.7 1.1,0.61 1.1,0.61 1.1,0.6 1.1,0.59 1.1,0.6 1.09,0.59 1.1,0.6 1.1,0.59 1.1,0.48 1.1,0.49 1.1,0.48 1.09,0.49 1.1,0.43 1.1,0.44 1.1,0.43 1.1,0.43 1.1,0.42 1.1,0.43 1.09,0.42 1.1,0.43 1.1,0.35 1.1,0.36 1.1,0.35 1.1,0.36 1.09,0.33 1.1,0.33 1.1,0.32 1.1,0.32 1.1,0.32 1.1,0.32 1.1,0.32 1.09,0.32 1.1,0.27 1.1,0.27 1.1,0.27 1.1,0.27 1.1,0.26 1.09,0.25 1.1,0.26 1.1,0.25 1.1,0.24 1.1,0.25 1.1,0.25 1.1,0.25 1.09,0.21 1.1,0.22 1.1,0.21 1.1,0.22 1.1,0.2 1.1,0.21 1.09,0.2 1.1,0.2 1.1,0.19 1.1,0.2 1.1,0.2 1.1,0.2 1.1,0.17 1.09,0.18 1.1,0.17 1.1,0.18 1.1,0.16 1.1,0.17 1.1,0.16 1.09,0.17 1.1,0.16 1.1,0.16 1.1,0.16 1.1,0.16 1.1,0.15 1.1,0.14 1.09,0.15 1.1,0.14 1.1,0.14 1.1,0.14 1.1,0.13 1.1,0.14 1.09,0.13 1.1,0.14 1.1,0.13 1.1,0.14 1.1,0.12 1.1,0.12 1.1,0.12 1.09,0.12 1.1,0.12 1.1,0.12 1.1,0.11 1.1,0.12 1.1,0.11 1.09,0.11 1.1,0.12 1.1,0.11 1.1,0.1 1.1,0.11 1.1,0.1 1.1,0.1 1.09,0.1 1.1,0.1 1.1,0.1 1.1,0.1 1.1,0.1 1.1,0.09 1.09,0.1 1.1,0.1 1.1,0.09 1.1,0.09 1.1,0.08 1.1,0.09 1.1,0.09 1.09,0.09 1.1,0.08 1.1,0.09 1.1,0.08 1.1,0.08 1.1,0.09 1.09,0.08 1.1,0.08 1.1,0.08 1.1,0.07 1.1,0.08 1.1,0.08 1.1,0.07 1.09,0.08 1.1,0.07 1.1,0.07 1.1,0.08 1.1,0.07 1.1,0.07 1.09,0.07 1.1,0.07 1.1,0.07 1.1,0.07 1.1,0.06 1.1,0.07 1.1,0.06 1.09,0.07 1.1,0.06 1.1,0.07 1.1,0.06 1.1,0.07 1.1,0.06 1.09,0.06 1.1,0.06 1.1,0.06 1.1,0.06 1.1,0.06 0,3.74 -1.1,-0.03 -1.1,-0.03 -1.1,-0.03 -1.1,-0.02 -1.09,-0.03 -1.1,-0.03 -1.1,-0.03 -1.1,-0.03 -1.1,-0.03 -1.1,-0.03 -1.09,-0.03 -1.1,-0.02 -1.1,-0.03 -1.1,-0.03 -1.1,-0.04 -1.1,-0.03 -1.1,-0.03 -1.09,-0.03 -1.1,-0.03 -1.1,-0.03 -1.1,-0.03 -1.1,-0.03 -1.1,-0.03 -1.09,-0.04 -1.1,-0.03 -1.1,-0.03 -1.1,-0.03 -1.1,-0.04 -1.1,-0.03 -1.1,-0.04 -1.09,-0.03 -1.1,-0.04 -1.1,-0.03 -1.1,-0.03 -1.1,-0.04 -1.1,-0.03 -1.09,-0.03 -1.1,-0.04 -1.1,-0.04 -1.1,-0.04 -1.1,-0.03 -1.1,-0.04 -1.1,-0.04 -1.09,-0.04 -1.1,-0.03 -1.1,-0.04 -1.1,-0.03 -1.1,-0.04 -1.1,-0.04 -1.09,-0.04 -1.1,-0.04 -1.1,-0.04 -1.1,-0.04 -1.1,-0.05 -1.1,-0.04 -1.1,-0.04 -1.09,-0.04 -1.1,-0.03 -1.1,-0.04 -1.1,-0.04 -1.1,-0.05 -1.1,-0.04 -1.09,-0.05 -1.1,-0.04 -1.1,-0.05 -1.1,-0.05 -1.1,-0.04 -1.1,-0.04 -1.1,-0.05 -1.09,-0.04 -1.1,-0.04 -1.1,-0.05 -1.1,-0.04 -1.1,-0.05 -1.1,-0.05 -1.09,-0.05 -1.1,-0.06 -1.1,-0.05 -1.1,-0.05 -1.1,-0.04 -1.1,-0.05 -1.1,-0.05 -1.09,-0.05 -1.1,-0.04 -1.1,-0.06 -1.1,-0.05 -1.1,-0.06 -1.1,-0.05 -1.09,-0.06 -1.1,-0.07 -1.1,-0.05 -1.1,-0.05 -1.1,-0.05 -1.1,-0.05 -1.1,-0.05 -1.09,-0.06 -1.1,-0.05 -1.1,-0.06 -1.1,-0.07 -1.1,-0.07 -1.1,-0.06 -1.09,-0.08 -1.1,-0.05 -1.1,-0.06 -1.1,-0.05 -1.1,-0.06 -1.1,-0.06 -1.1,-0.06 -1.09,-0.06 -1.1,-0.06 -1.1,-0.08 -1.1,-0.08 -1.1,-0.08 -1.1,-0.09 -1.09,-0.06 -1.1,-0.06 -1.1,-0.06 -1.1,-0.06 -1.1,-0.06 -1.1,-0.07 -1.1,-0.07 -1.09,-0.07 -1.1,-0.09 -1.1,-0.1 -1.1,-0.1 -1.1,-0.11 -1.1,-0.06 -1.09,-0.07 -1.1,-0.07 -1.1,-0.06 -1.1,-0.07 -1.1,-0.07 -1.1,-0.08 -1.1,-0.08 -1.09,-0.12 -1.1,-0.13 -1.1,-0.13 -1.1,-0.13 -1.1,-0.08 -1.1,-0.07 -1.09,-0.07 -1.1,-0.08 -1.1,-0.07 -1.1,-0.08 -1.1,-0.09 -1.1,-0.09 -1.1,-0.18 -1.09,-0.19 -1.1,-0.18 -1.1,-0.2 -1.1,-0.09 -1.1,-0.08 -1.1,-0.09 -1.09,-0.09 -1.1,-0.09 -1.1,-0.1 -1.1,-0.11 -1.1,-0.11 -1.1,-0.32 -1.1,-0.34 -1.09,-0.33 -1.1,-0.36 -1.1,-1.24 -1.1,-1.24 -1.1,-1.24 -1.1,-1.24 -1.09,-1.25 -1.1,-1.25 -1.1,-1.28 -1.1,-1.28 -1.1,-1.98 -1.1,-2.02 -1.1,-2.02 -1.09,-2.04 -1.1,-1.35 -1.1,-1.34 -1.1,-1.35 -1.1,-1.34 -1.1,-1.36 -1.09,-1.35 -1.1,-1.4 -1.1,-1.41 -1.1,-0.54 -1.1,-0.33 -1.1,0.79 -1.1,0.74 -1.09,0.41 -1.1,-0.25 -1.1,0.92 -1.1,-0.32 -1.1,-0.44 -1.1,-1.82 -1.09,-0.59 -1.1,-0.61 -1.1,4.34 -1.1,0.45 -1.1,-0.79 -1.1,-1.04 -1.1,0.47 -1.09,-0.1 -1.1,-0.65 -1.1,0.45 -1.1,-0.27 -1.1,1.05 -1.1,0.35 -1.09,1.95 -1.1,-2.56 -1.1,2.23 -1.1,0.87 -1.1,-0.18 -1.1,-2.36 -1.1,-1.52 -1.09,-0.85 -1.1,-0.28 -1.1,-0.45 -1.1,-1.03 -1.1,-11.26 -1.1,19.74 -1.09,5.52 -1.1,15.69 -1.1,-16.86 -1.1,10.64 -1.1,-16.36 -1.1,-15.08 -1.1,-2.77 -1.09,-3.87 -1.1,0.81 -1.1,4.48 -1.1,-4.3 -1.1,15.43 -1.1,3.37 -1.09,-2.3 -1.1,-13.14 -1.1,-7.78 -1.1,-8.22 -1.1,-15.68 -1.1,17.6 -1.1,1.09 -1.09,-28.85 -1.1,16.54 -1.1,6.29 -1.1,6.22 -1.1,22.74 -1.1,-10.53 -1.09,3.19 -1.1,-4.44 -1.1,-22.05 -1.1,-6.55 -1.1,1.94 -1.1,-6.12 -1.1,-3.97 -1.09,1.23 -1.1,7.11 -1.1,-13.19 -1.1,-22.75 -1.1,6.29 -1.1,14.06 -1.09,-9.67 -1.1,10.6 -1.1,9.03 -1.1,8.39 -1.1,6.06 -1.1,6.25 -1.1,2.46 -1.09,8.29 -1.1,7.33 -1.1,1.96 -1.1,-14.05 -1.1,-11.5 -1.1,-19.95 -1.09,-21.55 -1.1,-1.97 -1.1,25.28 -1.1,30.71 -1.1,21.21 -1.1,-11.56 -1.1,16.51 -1.09,4.67 -1.1,49.29 -1.1,2.85 -1.1,0.36 -1.1,-8.41 -1.1,-1.72 -1.09,-3.33 -1.1,0.63 -1.1,-0.39 -1.1,-1.82 -1.1,-0.52 -1.1,1.23 -1.1,4.74 -1.09,-3.94 -1.1,2.1 -1.1,-3.8 -1.1,2.93 -1.1,0.16 -1.1,-1.94 -1.09,15.59 -1.1,-7.49 -1.1,1.25 -1.1,0.89 0,-16.88 z" />
-          <path
-             inkscape:connector-curvature="0"
-             id="path11656"
-             style="fill:none;stroke:#0000ff;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:4.5, 7.5;stroke-dashoffset:0;stroke-opacity:0.50199998"
-             d="m 59.04,274.36 1.1,-3.87 1.1,-4.72 1.1,12.45 1.09,-8.22 1.1,2.31 1.1,-7.51 1.1,5.11 1.1,-7.41 1.1,3.65 1.09,6.07 1.1,-8.12 1.1,0.26 1.1,2.38 1.1,-1.44 1.1,0.33 1.1,1.89 1.09,-3.4 1.1,-1.17 1.1,-0.17 1.1,-4.36 1.1,-13.87 1.1,-18.26 1.09,-22.7 1.1,-43.4 1.1,-12.62 1.1,-6.11 1.1,-5.2 1.1,-7.26 1.1,-5.41 1.09,-2.55 1.1,-3.51 1.1,0.42 1.1,7.45 1.1,4.3 1.1,0.9 1.09,-1.21 1.1,4.13 1.1,-0.03 1.1,2.02 1.1,-0.14 1.1,-0.27 1.1,-1.88 1.09,-7.54 1.1,8.55 1.1,4.84 1.1,4.42 1.1,2.52 1.1,-4.16 1.09,-1.31 1.1,3.78 1.1,6.69 1.1,1.84 1.1,3.97 1.1,0.73 1.1,6.35 1.09,0.76 1.1,-0.97 1.1,3.88 1.1,1.18 1.1,-2.6 1.1,-0.57 1.09,3.12 1.1,3.79 1.1,-3.43 1.1,-2.18 1.1,-0.89 1.1,0.38 1.1,-0.65 1.09,2.48 1.1,4.27 1.1,5.79 1.1,0.15 1.1,2.28 1.1,2.72 1.09,2.02 1.1,-2.62 1.1,-3.84 1.1,-5.08 1.1,1.33 1.1,-4.24 1.1,5.98 1.09,1.94 1.1,8.04 1.1,-1.55 1.1,1.49 1.1,1.44 1.1,1.27 1.09,1.83 1.1,2.52 1.1,3.34 1.1,1.42 1.1,0.47 1.1,-0.89 1.1,3.91 1.09,-0.61 1.1,1 1.1,-0.44 1.1,0.87 1.1,0.16 1.1,1.25 1.09,0.7 1.1,0.14 1.1,1.78 1.1,1.59 1.1,0.35 1.1,-3.54 1.1,1.4 1.09,1.39 1.1,2.15 1.1,0.75 1.1,0.64 1.1,-0.61 1.1,0.58 1.09,-0.1 1.1,-0.34 1.1,-0.35 1.1,0.72 1.1,0.72 1.1,1.58 1.1,1.58 1.09,1.53 1.1,1.53 1.1,1.52 1.1,1.52 1.1,1.52 1.1,1.52 1.09,1.31 1.1,1.32 1.1,1.31 1.1,1.27 1.1,0.57 1.1,0.57 1.1,0.54 1.09,0.54 1.1,0.54 1.1,0.53 1.1,0.54 1.1,0.53 1.1,0.74 1.09,0.73 1.1,0.74 1.1,0.72 1.1,0.51 1.1,0.51 1.1,0.5 1.1,0.49 1.09,0.49 1.1,0.49 1.1,0.48 1.1,0.49 1.1,0.45 1.1,0.44 1.09,0.45 1.1,0.44 1.1,0.35 1.1,0.35 1.1,0.34 1.1,0.33 1.1,0.34 1.09,0.33 1.1,0.34 1.1,0.33 1.1,0.31 1.1,0.3 1.1,0.31 1.09,0.3 1.1,0.26 1.1,0.26 1.1,0.25 1.1,0.25 1.1,0.24 1.1,0.25 1.09,0.25 1.1,0.24 1.1,0.23 1.1,0.23 1.1,0.23 1.1,0.22 1.09,0.2 1.1,0.2 1.1,0.19 1.1,0.19 1.1,0.19 1.1,0.19 1.1,0.19 1.09,0.19 1.1,0.18 1.1,0.18 1.1,0.18 1.1,0.17 1.1,0.16 1.09,0.16 1.1,0.15 1.1,0.16 1.1,0.15 1.1,0.15 1.1,0.15 1.1,0.16 1.09,0.14 1.1,0.14 1.1,0.14 1.1,0.14 1.1,0.13 1.1,0.13 1.09,0.13 1.1,0.13 1.1,0.12 1.1,0.13 1.1,0.12 1.1,0.13 1.1,0.11 1.09,0.12 1.1,0.12 1.1,0.12 1.1,0.1 1.1,0.11 1.1,0.11 1.09,0.1 1.1,0.11 1.1,0.1 1.1,0.11 1.1,0.1 1.1,0.1 1.1,0.1 1.09,0.1 1.1,0.1 1.1,0.09 1.1,0.09 1.1,0.09 1.1,0.09 1.09,0.09 1.1,0.09 1.1,0.09 1.1,0.09 1.1,0.08 1.1,0.08 1.1,0.09 1.09,0.08 1.1,0.08 1.1,0.08 1.1,0.08 1.1,0.08 1.1,0.07 1.09,0.08 1.1,0.07 1.1,0.08 1.1,0.07 1.1,0.08 1.1,0.07 1.1,0.07 1.09,0.07 1.1,0.07 1.1,0.07 1.1,0.07 1.1,0.06 1.1,0.07 1.09,0.07 1.1,0.06 1.1,0.07 1.1,0.06 1.1,0.06 1.1,0.07 1.1,0.06 1.09,0.06 1.1,0.06 1.1,0.06 1.1,0.06 1.1,0.05 1.1,0.06 1.09,0.06 1.1,0.06 1.1,0.05 1.1,0.06 1.1,0.06 1.1,0.05 1.1,0.05 1.09,0.06 1.1,0.05 1.1,0.05 1.1,0.05 1.1,0.05 1.1,0.06 1.09,0.05 1.1,0.05 1.1,0.05 1.1,0.05 1.1,0.04 1.1,0.05 1.1,0.05 1.09,0.05 1.1,0.04 1.1,0.05 1.1,0.05 1.1,0.04 1.1,0.05 1.09,0.04 1.1,0.05 1.1,0.04 1.1,0.04 1.1,0.05" />
-          <path
-             inkscape:connector-curvature="0"
-             id="path11658"
-             style="fill:#000000;fill-opacity:0.30199998;fill-rule:nonzero;stroke:none"
-             d="m 59.04,264.81 1.1,0.48 1.1,0.96 1.1,-0.98 1.09,-2.71 1.1,0.12 1.1,2.4 1.1,-0.57 1.1,-0.96 1.1,-0.11 1.09,-0.4 1.1,-0.46 1.1,0.28 1.1,-0.88 1.1,-5.35 1.1,-7.71 1.1,-8.08 1.09,-13.64 1.1,-17.14 1.1,-19.26 1.1,-20.83 1.1,-18.31 1.1,-16.19 1.09,-9.51 1.1,-1.88 1.1,6.84 1.1,-2.05 1.1,3.1 1.1,0.4 1.1,-5.25 1.09,-15.92 1.1,-6.12 1.1,-2.57 1.1,-1 1.1,-5.8 1.1,-11.92 1.09,3.88 1.1,-11.08 1.1,-6.31 1.1,-1.11 1.1,3.69 1.1,7.33 1.1,11.37 1.09,1.45 1.1,-3.86 1.1,-4.37 1.1,-3.46 1.1,-2.75 1.1,-0.3 1.09,-1.54 1.1,1.13 1.1,0.14 1.1,-0.44 1.1,-0.36 1.1,-0.22 1.1,-0.21 1.09,-0.14 1.1,0.82 1.1,1.99 1.1,3.06 1.1,2.67 1.1,1.02 1.09,0.62 1.1,0.92 1.1,1.39 1.1,1.89 1.1,2.68 1.1,-2.22 1.1,-0.76 1.09,8.28 1.1,1.8 1.1,1.61 1.1,2.27 1.1,1.98 1.1,-6.01 1.09,-4.23 1.1,2.56 1.1,3.69 1.1,4.34 1.1,4.85 1.1,5.34 1.1,4.8 1.09,1.29 1.1,-3.14 1.1,-6.34 1.1,-7.79 1.1,-5.17 1.1,-1.9 1.09,-1.01 1.1,-1.17 1.1,-0.96 1.1,0.15 1.1,2.54 1.1,5.9 1.1,9.35 1.09,10.56 1.1,10.55 1.1,2.58 1.1,-3.07 1.1,-5.53 1.1,-9.16 1.09,-8.2 1.1,-6.83 1.1,-5.5 1.1,-3.51 1.1,0.92 1.1,2.07 1.1,1.45 1.09,2.03 1.1,3.58 1.1,6.75 1.1,7 1.1,6.24 1.1,5.27 1.09,3.41 1.1,2.39 1.1,1.18 1.1,0.14 1.1,0.34 1.1,0.49 1.1,0.28 1.09,1.61 1.1,2.12 1.1,0.61 1.1,0.87 1.1,1.12 1.1,1.06 1.09,0.19 1.1,-0.28 1.1,0.41 1.1,2.95 1.1,0.63 1.1,1.66 1.1,-1.75 1.09,-1.81 1.1,-1.35 1.1,-0.44 1.1,0.05 1.1,0.63 1.1,1.19 1.09,0.78 1.1,-2.1 1.1,0.73 1.1,1.8 1.1,-0.03 1.1,-3.67 1.1,-0.56 1.09,1.87 1.1,1.47 1.1,1.04 1.1,0.56 1.1,0.23 1.1,0.18 1.09,0.67 1.1,0.83 1.1,0.7 1.1,0.53 1.1,0.08 1.1,-0.15 1.1,-0.67 1.09,-0.75 1.1,1.94 1.1,5.41 1.1,2.63 1.1,-0.15 1.1,0.09 1.09,0.28 1.1,0.51 1.1,0.27 1.1,-0.16 1.1,-0.23 1.1,0.85 1.1,1.7 1.09,1.84 1.1,1.84 1.1,1.84 1.1,1.36 1.1,0.67 1.1,1.13 1.09,1.13 1.1,1.14 1.1,-0.74 1.1,-0.2 1.1,0.36 1.1,1.24 1.1,1.69 1.09,1.7 1.1,1.69 1.1,1.69 1.1,1.69 1.1,1.69 1.1,1.69 1.09,1.7 1.1,1.92 1.1,1.75 1.1,1.67 1.1,1.34 1.1,1.36 1.1,1.37 1.09,1.37 1.1,1.36 1.1,1.37 1.1,1.37 1.1,1.36 1.1,1.37 1.09,1.2 1.1,0.56 1.1,-0.77 1.1,-0.8 1.1,-0.79 1.1,0.26 1.1,1.05 1.09,1.05 1.1,1.04 1.1,1.05 1.1,1.05 1.1,1.04 1.1,0.61 1.09,0.71 1.1,0.96 1.1,0.94 1.1,0.95 1.1,0.95 1.1,0.96 1.1,0.95 1.09,0.95 1.1,0.95 1.1,0.96 1.1,0.95 1.1,0.72 1.1,0.7 1.09,0.66 1.1,0.65 1.1,0.67 1.1,0.66 1.1,0.66 1.1,0.67 1.1,0.66 1.09,0.67 1.1,0.66 1.1,0.66 1.1,0.52 1.1,0.51 1.1,0.47 1.09,0.47 1.1,0.47 1.1,0.48 1.1,0.47 1.1,0.48 1.1,0.47 1.1,0.48 1.09,0.47 1.1,0.48 1.1,0.38 1.1,0.37 1.1,0.35 1.1,0.35 1.09,0.36 1.1,0.35 1.1,0.36 1.1,0.35 1.1,0.36 1.1,0.36 1.1,0.35 1.09,0.36 1.1,0.29 1.1,0.28 1.1,0.28 1.1,0.27 1.1,0.27 1.09,0.28 1.1,0.27 1.1,0.28 1.1,0.28 1.1,0.27 1.1,0.28 1.1,0.27 1.09,0.23 1.1,0.23 1.1,0.21 1.1,0.22 1.1,0.22 1.1,0.22 1.09,0.22 1.1,0.22 1.1,0.22 1.1,0.22 1.1,0.22 1.1,0.22 1.1,0.19 1.09,0.18 1.1,0.17 1.1,0.18 1.1,0.18 1.1,0.18 1.1,0.18 1.09,0.18 1.1,0.18 1.1,0.17 1.1,0.18 1.1,0.18 0,9.75 -1.1,-0.04 -1.1,-0.04 -1.1,-0.04 -1.1,-0.04 -1.09,-0.04 -1.1,-0.03 -1.1,-0.04 -1.1,-0.04 -1.1,-0.05 -1.1,-0.05 -1.09,-0.06 -1.1,-0.06 -1.1,-0.05 -1.1,-0.04 -1.1,-0.04 -1.1,-0.04 -1.1,-0.04 -1.09,-0.04 -1.1,-0.04 -1.1,-0.05 -1.1,-0.04 -1.1,-0.06 -1.1,-0.07 -1.09,-0.07 -1.1,-0.05 -1.1,-0.04 -1.1,-0.05 -1.1,-0.04 -1.1,-0.04 -1.1,-0.05 -1.09,-0.04 -1.1,-0.04 -1.1,-0.05 -1.1,-0.07 -1.1,-0.08 -1.1,-0.09 -1.09,-0.04 -1.1,-0.05 -1.1,-0.04 -1.1,-0.05 -1.1,-0.04 -1.1,-0.05 -1.1,-0.04 -1.09,-0.05 -1.1,-0.05 -1.1,-0.07 -1.1,-0.1 -1.1,-0.1 -1.1,-0.05 -1.09,-0.04 -1.1,-0.05 -1.1,-0.04 -1.1,-0.05 -1.1,-0.04 -1.1,-0.05 -1.1,-0.04 -1.09,-0.06 -1.1,-0.08 -1.1,-0.12 -1.1,-0.13 -1.1,-0.04 -1.1,-0.04 -1.09,-0.04 -1.1,-0.05 -1.1,-0.04 -1.1,-0.04 -1.1,-0.04 -1.1,-0.04 -1.1,-0.06 -1.09,-0.09 -1.1,-0.14 -1.1,-0.15 -1.1,0 -1.1,0.01 -1.1,0 -1.09,0 -1.1,0 -1.1,0.01 -1.1,0 -1.1,0 -1.1,-0.02 -1.1,-0.08 -1.09,0.18 -1.1,0.26 -1.1,0.55 -1.1,0.54 -1.1,0.55 -1.1,0.55 -1.09,0.54 -1.1,0.55 -1.1,-0.24 -1.1,-1.29 -1.1,-1.31 -1.1,-1.42 -1.1,-0.14 -1.09,0.51 -1.1,0.35 -1.1,0.36 -1.1,0.35 -1.1,0.35 -1.1,0.35 -1.09,0.35 -1.1,0.36 -1.1,0.35 -1.1,0.31 -1.1,0.5 -1.1,0.55 -1.1,0.37 -1.09,0.61 -1.1,0.6 -1.1,0.61 -1.1,0.6 -1.1,0.61 -1.1,0.61 -1.09,0.6 -1.1,0.61 -1.1,-0.07 -1.1,-1.16 -1.1,-1.7 -1.1,-2.24 -1.1,-1.02 -1.09,-1.02 -1.1,-1.02 -1.1,-1.49 -1.1,-0.79 -1.1,-0.32 -1.1,-0.31 -1.09,-0.32 -1.1,-0.18 -1.1,-0.26 -1.1,-0.6 -1.1,-0.67 -1.1,-1.1 -1.1,-1.33 -1.09,-1.11 -1.1,-0.93 -1.1,-0.67 -1.1,3.56 -1.1,6.95 -1.1,2.82 -1.09,-0.29 -1.1,-0.36 -1.1,-0.13 -1.1,-0.44 -1.1,-1.34 -1.1,-1.49 -1.1,-1.63 -1.09,-1.47 -1.1,-0.98 -1.1,-1.03 -1.1,-1.35 -1.1,-1.85 -1.1,-2.27 -1.09,-2.66 -1.1,-5.55 -1.1,-7.78 -1.1,-0.55 -1.1,2.38 -1.1,0.66 -1.1,-3.56 -1.09,-1.6 -1.1,-1.42 -1.1,-0.86 -1.1,-0.28 -1.1,-0.27 -1.1,-0.69 -1.09,-0.75 -1.1,-1.02 -1.1,-1.28 -1.1,-2.8 -1.1,0.65 -1.1,-0.25 -1.1,-0.69 -1.09,-1.18 -1.1,-2.03 -1.1,-2.1 -1.1,-1.85 -1.1,-1.58 -1.1,-0.15 -1.09,-0.64 -1.1,-0.68 -1.1,-0.87 -1.1,-0.73 -1.1,-0.52 -1.1,-0.78 -1.1,-0.27 -1.09,-0.73 -1.1,-1.18 -1.1,-1.07 -1.1,-0.13 -1.1,0.59 -1.1,-0.87 -1.09,-0.77 -1.1,-1.06 -1.1,-0.55 -1.1,-1.31 -1.1,-4.5 -1.1,-5.41 -1.1,-4.88 -1.09,-4.32 -1.1,-4.31 -1.1,-1.14 -1.1,0.95 -1.1,5.83 -1.1,12 -1.09,10.75 -1.1,8.86 -1.1,4.25 -1.1,0.77 -1.1,-0.99 -1.1,-1.27 -1.1,-1.89 -1.09,-2.98 -1.1,-4.8 -1.1,-10.07 -1.1,-14.11 -1.1,-12.31 -1.1,-8.67 -1.09,-4.11 -1.1,0.14 -1.1,2.44 -1.1,4.47 -1.1,3.35 -1.1,0.71 -1.1,-1.66 -1.09,-9.5 -1.1,-11.16 -1.1,-0.84 -1.1,1.78 -1.1,2.45 -1.1,2.24 -1.09,9.49 -1.1,0.45 -1.1,-3.09 -1.1,1.37 -1.1,2.16 -1.1,2.66 -1.1,3.13 -1.09,3.43 -1.1,3.03 -1.1,1.37 -1.1,1 -1.1,2.05 -1.1,1.15 -1.09,0.22 -1.1,0.31 -1.1,0.32 -1.1,0.45 -1.1,0.54 -1.1,-0.05 -1.1,-1.03 -1.09,-7.89 -1.1,-8.04 -1.1,-5.59 -1.1,-4.87 -1.1,-5.1 -1.1,-4.37 -1.09,1.01 -1.1,10 -1.1,0.95 -1.1,-6.66 -1.1,-13.81 -1.1,-20.52 -1.1,-19.68 -1.09,11.15 -1.1,2.59 -1.1,11.66 -1.1,17.34 -1.1,16.93 -1.1,13.88 -1.09,5.05 -1.1,19.86 -1.1,27.95 -1.1,33.83 -1.1,32.86 -1.1,42.33 -1.1,26.58 -0.44,3.88 -1.73,0 -0.02,-0.14 -1.1,-11.94 -1.1,-17.21 -1.1,-16.96 -1.1,-15.65 -1.09,-12.54 -1.1,-6.06 -1.1,-4.45 -1.1,-0.54 -1.1,3.01 -1.1,-2.05 -1.1,-1.89 -1.09,-0.03 -1.1,0.57 -1.1,-1.02 -1.1,-0.88 -1.1,2.1 -1.1,1.39 -1.09,0.47 -1.1,0.98 -1.1,-0.38 -1.1,-5.79 0,-6.18 z" />
-          <path
-             inkscape:connector-curvature="0"
-             id="path11660"
-             style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:4.5, 7.5;stroke-dashoffset:0;stroke-opacity:0.30199998"
-             d="m 59.04,267.9 1.1,3.13 1.1,0.67 1.1,-0.97 1.09,-1.6 1.1,-0.63 1.1,0.15 1.1,0.15 1.1,0.04 1.1,-0.34 1.09,-0.19 1.1,0.72 1.1,1.16 1.1,-1.95 1.1,-2.4 1.1,-1.63 1.1,-1.01 1.09,-0.55 1.1,-0.75 1.1,-1.15 1.1,-1.81 1.1,-3.18 1.1,-5.15 1.09,-9.57 1.1,-14.23 1.1,-17.74 1.1,-17.46 1.1,-15.37 1.1,-13.77 1.1,-12.56 1.09,-10.48 1.1,-10 1.1,-9.75 1.1,-9.17 1.1,-8.73 1.1,-7.25 1.09,-3.64 1.1,4.3 1.1,7.1 1.1,6.35 1.1,5.18 1.1,3.19 1.1,0.69 1.09,0.22 1.1,0.25 1.1,0.37 1.1,0.7 1.1,1.42 1.1,3.87 1.09,3.17 1.1,1.08 1.1,0.1 1.1,-0.49 1.1,-0.41 1.1,-0.26 1.1,-0.27 1.09,-0.17 1.1,-0.17 1.1,-0.03 1.1,1.03 1.1,0.65 1.1,-1.01 1.09,-1.4 1.1,-1.11 1.1,-0.63 1.1,-0.13 1.1,0.65 1.1,0.44 1.1,-0.61 1.09,-0.6 1.1,-0.22 1.1,-0.43 1.1,0.25 1.1,1.41 1.1,2.57 1.09,2.64 1.1,2.11 1.1,1.49 1.1,0.49 1.1,0.19 1.1,1.45 1.1,2.33 1.09,2.7 1.1,2.77 1.1,2.99 1.1,3.16 1.1,2.45 1.1,1.45 1.09,0.98 1.1,0.36 1.1,0.15 1.1,0.58 1.1,0.88 1.1,0.82 1.1,0.25 1.09,-0.09 1.1,-0.73 1.1,-1.62 1.1,-2.01 1.1,-2.2 1.1,-2.42 1.09,-1.95 1.1,-0.97 1.1,-0.04 1.1,0.49 1.1,1.12 1.1,1.3 1.1,1.26 1.09,1.4 1.1,2.22 1.1,3.08 1.1,3.57 1.1,3.65 1.1,3.23 1.09,2.07 1.1,1.33 1.1,0.98 1.1,0.33 1.1,0.53 1.1,0.68 1.1,0.48 1.09,1.13 1.1,1.13 1.1,1.1 1.1,1.36 1.1,1.61 1.1,1.54 1.09,0.69 1.1,0.21 1.1,0.33 1.1,1.14 1.1,1.72 1.1,1.47 1.1,-0.36 1.09,-0.54 1.1,-0.33 1.1,-0.08 1.1,0.16 1.1,0.75 1.1,1.31 1.09,1.18 1.1,0.74 1.1,0.03 1.1,-0.29 1.1,0.26 1.1,2.05 1.1,2.5 1.09,2.27 1.1,1.87 1.1,1.44 1.1,0.95 1.1,0.63 1.1,0.58 1.09,1.07 1.1,1.24 1.1,1.09 1.1,0.94 1.1,0.25 1.1,0 1.1,-0.16 1.09,-0.23 1.1,-0.44 1.1,-0.77 1.1,-0.46 1.1,0.26 1.1,0.5 1.09,0.7 1.1,0.92 1.1,0.68 1.1,0.26 1.1,0.18 1.1,0.56 1.1,0.94 1.09,1.08 1.1,1.07 1.1,1.08 1.1,1.08 1.1,1.08 1.1,1.07 1.09,1.08 1.1,1.08 1.1,0.75 1.1,0.75 1.1,0.76 1.1,0.65 1.1,0.55 1.09,0.54 1.1,0.54 1.1,0.55 1.1,0.54 1.1,0.54 1.1,0.55 1.09,0.54 1.1,0.78 1.1,0.59 1.1,0.59 1.1,0.51 1.1,0.51 1.1,0.51 1.09,0.5 1.1,0.51 1.1,0.51 1.1,0.51 1.1,0.5 1.1,0.51 1.09,0.35 1.1,0.34 1.1,0.33 1.1,0.26 1.1,0.25 1.1,0.25 1.1,0.25 1.09,0.25 1.1,0.25 1.1,0.25 1.1,0.25 1.1,0.25 1.1,0.17 1.09,0.27 1.1,0.52 1.1,0.47 1.1,0.48 1.1,0.47 1.1,0.48 1.1,0.47 1.09,0.48 1.1,0.48 1.1,0.47 1.1,0.48 1.1,0.43 1.1,0.42 1.09,0.38 1.1,0.35 1.1,0.35 1.1,0.36 1.1,0.35 1.1,0.35 1.1,0.35 1.09,0.36 1.1,0.35 1.1,0.35 1.1,0.33 1.1,0.31 1.1,0.28 1.09,0.26 1.1,0.26 1.1,0.26 1.1,0.26 1.1,0.26 1.1,0.26 1.1,0.26 1.09,0.26 1.1,0.26 1.1,0.24 1.1,0.23 1.1,0.22 1.1,0.2 1.09,0.2 1.1,0.2 1.1,0.2 1.1,0.2 1.1,0.2 1.1,0.2 1.1,0.2 1.09,0.2 1.1,0.19 1.1,0.18 1.1,0.17 1.1,0.16 1.1,0.16 1.09,0.16 1.1,0.16 1.1,0.16 1.1,0.16 1.1,0.16 1.1,0.16 1.1,0.16 1.09,0.15 1.1,0.15 1.1,0.14 1.1,0.13 1.1,0.13 1.1,0.13 1.09,0.13 1.1,0.13 1.1,0.13 1.1,0.13 1.1,0.13 1.1,0.13 1.1,0.13 1.09,0.12 1.1,0.11 1.1,0.11 1.1,0.11 1.1,0.11 1.1,0.11 1.09,0.11 1.1,0.11 1.1,0.11 1.1,0.11 1.1,0.11" />
-          <path
-             inkscape:connector-curvature="0"
-             id="path11662"
-             style="fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-             d="m 72.22,271.28 12.08,0 1.1,-180.94 13.18,-16.9 13.19,5.15 13.18,0.92 13.18,1.39 13.18,3.16 13.18,6.53 13.18,5.48 13.19,-1.04 13.18,-4.55 13.18,-3.16 13.18,1.67 13.18,5.19 13.18,2.85 13.18,3.95 13.19,11.03 13.18,4.9" />
-          <path
-             inkscape:connector-curvature="0"
-             id="path11664"
-             style="fill:none;stroke:#ff0000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
-             d="m 72.22,271.28 12.08,0 1.1,-197.84 13.18,70.55 13.19,46.77 13.18,15.82 13.18,25.75 13.18,9.4 13.18,2.37 13.18,2.07 13.19,6.75 13.18,-3.1 13.18,6.36 13.18,6 13.18,-1.16 13.18,-1.09 13.18,1.08 13.19,2.23 13.18,-1.72" />
-        </g>
-      </g>
-    </g>
+       transform="matrix(1.9432625,0,0,1.9432625,-1464.3248,-701.80689)" />
     <image
        sodipodi:absref="C:\Users\dougl\Documents\work\cvAndApplications\posters\Circle\Application\FutureCarbon.png"
        xlink:href="Circle\Application\FutureCarbon.png"
@@ -4126,10 +3711,10 @@
        width="757.23541" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:5.69999981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:17.09999943, 17.09999943;stroke-dashoffset:0;stroke-opacity:1"
-       d="m 2050.342,1547.2288 c 0,0 30.3734,-628.15227 -211.8626,-851.62857 -190.8807,-176.09815 -383.3949,-259.00134 -748.7189,-249.60696 -288.30279,7.41377 -892.36733,330.7654 -892.36733,330.7654"
+       d="m 1858.5322,1084.6287 c 0,0 14.5877,-34.5661 -28.8997,-227.96434 C 1565.2506,378.62064 894.72019,337.03334 572.95356,385.0798"
        id="path4986"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cssc" />
+       sodipodi:nodetypes="ccc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -4144,12 +3729,12 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:47.52119827px;line-height:100%;font-family:Candara;-inkscape-font-specification:'Candara Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
-       x="1317.9899"
+       x="1315.9899"
        y="910.86145"
        id="text24695-0-2-1-6-6-4-8-2-8-5-72-1-6"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
-         x="1317.9899"
+         x="1315.9899"
          y="910.86145"
          style="font-size:56.25px;fill:#000000;fill-opacity:1"
          id="tspan6838-4-4">Application</tspan></text>
@@ -4182,7 +3767,9 @@
          id="flowPara3976" /><flowPara
          id="flowPara3978"># Introduction</flowPara><flowPara
          id="flowPara3980" /><flowPara
-         id="flowPara3982">- Show example re-paramterixation of already incorporated process and inclusing of new proreces.## Old-school model development- Focussed on incorporating sub-model rather than parameterization- Model tuning to get right results with wrong process-representation- No test for model degradation- Unknown &quot;uncertainty&quot; in model results- Hard to understand drivers of change for e.g. future predictions- Due to a lack of comprehensive benchmarking system## New approuch model development- Call from community for more comprehensive model evaluation (e.g CEHs JULES, cLamb, iLamb)- Recent advances in remote sensing and communications means there is a lot more data- Develop a benchmark system to:    - Find model weaknesses    - Assess model development    - Justify model application- Data-driven model parameterization# Circle## Initial Model- LPX (prentice et al. 2011) is a coupled fire-dynamic global vegetetaion model- Developed at a global level- As the last around of model development was to incorporate a fire model assessed against burnt area and fire carbon flux observations globally.## Benchmarking- The benchmarking system (right) was used to identifty specific weaknesses of the model, in specific locations.- Despite an overall good performance in fire, weakness in other aspects of the model suggestes fire performance could be for &quot;the wrong reasons&quot;- Fire is poorly simulated in Tropical Savanna and dry woodland areas, particularly for Australia.- Extra data (e.g. satalite post-fire vegetation recovery time) and simple model comparisons (e.g. GLM results for fire controls) were used to evaluate &lt;&lt;&gt;&gt; leading to weaknesses in individual processes).## Model evaluation- statistics used to quantify and compare across processes- identified two areas of key weakness for simulting fire regimes in Australia:        1. Fire performs &quot;worse than mean&quot; (although still &quot;better than random&quot;    1. Balance of &quot;controls&quot; on fire - e.g. fire ignitions (from Lightning Source) dominant, resultingin an MM score &quot;worse than random&quot;    1. Rapid forest-grassland boundries corrispons to fire boundries means vegetation cover is &quot;as good as random&quot;, suggesting too much tree mortality to fire    1. Model expreiments show extremely slow post-fire recovery of woody vegetation compared to observations.## Data Analysis- Analysis of observational data used to re-parameterize different processes contributing to error in controls on fire:    - Lightning scheme - ignitions (shown)    - root profiles - fuel loads    - fuel decompositing - fuel loads    - fuel drying time - moisture- Also used to develope vegetqation fire traits for woody vegetation surival   - Evolving Bark thickness for proection   - Post-disturbance resprouting for recovery ## Model development- Extra Benchmarking imformation used again to assess new processes (e.g. Model improvment in model revovery time) (in bit above title?)- Recovery time split between RS and NR ecosystems and compared to model experiments for simulated RS and NR vegetation cover- Re-analysing controls on fire shows better balance between fuel and moisture vs ignitions- Scalability of metric scores means we can demonstrate and %% impovment in simulated fire- Woody fire adpations imporve simulated vegetation by ...## Application - For the application of impact of changing climate on carbon stocks, used ... (check submitted paper)# Benchmarking System## Datasets- ## Metrics- ## Null models- Title: Score interpretation-  ## Application- Quantify how well a model performs across a comprehensive range of important processes- Allows identification of model weaknesses and processes that require improvement- Quantifies the differences between model version and impact of new parameterizations- Allows model inter-comparison-adopted an explicit iterative approach to model development in the Land Processes and eXchanges (LPX: \citealp{Prentice2011}) dynamic global vegetation model (DGVM), in which benchmarking against observations is used to identify areas for new data-driven parameterizations and then subsequently used to evaluate whether the implementation of these new parameterizations produces an overall improvement in model performance.-contrasts with the general tendency to focus evaluation on new components, for example the evaluation of fire treatments within DGVMs using only observations of burnt area and/or fire carbon fluxes  \citep[see e.g.][]{Li2012,Pfeiffer2013}. One reason for this partial approach to evaluation is the lack of a comprehensive benchmarking system \citep{Luo2012}.- Existing attempts to develop benchmarks for the evaluation of DGVMs and land-surface surface models have focused on a limited number of processes, generally related to energy and carbon fluxes \citep[e.g.][]{Randerson2009,blyth2010evaluating,Beer2010,cadule2010benchmarking,blyth2011comprehensive}. Furthermore, they make use of a limited number of metrics which are difficult to compare across processes and do not yield results that are easily interpreted in terms of the causes of model errors. As part of this thesis (Chapter 2), I have developed a comprehensive benchmarking system which allows evaluation of spatial and temporal patterns of multiple aspects of the simulated vegetation, hydrology, fire regimes and ecosystem fluxes as well as allowing the impact of specific types of bias to be taken into account. This benchmarking system serves several purposes: (1) it quantifies how well a model performs across a comprehensive range of important processes; (2) it allows the identification of model weaknesses through comparison of the performance with respect to different benchmarks and thus facilitates the identification of processes that require improvement; (3) it quantifies the differences between model versions, which allows assessment of the overall impact of new parameterizations. Application of this benchmarking system to LPX identified Australia as a region that was poorly simulated compared to other parts of the world. One reason for this was the sharp, fire-controlled boundaries between grassland and forest. Through benchmarking, I identified that the sharp boundaries between regions experiencing no fire and those experiencing fire resulted from an unrealistic sensitivity to lightning ignitions. This led to the re-examination of lightning parameterization (Chapter 4). The sharp grassland/forest boundaries resulted because of high mortality rates for woody plants in areas with fire. This led to a re-examination of the realism of the PFT-specific treatment of bark thickness in the model and the subsequent inclusion of an adaptive parameterization of bark thickness as well as fire recovery through resprouting in the model (Chapter 4).The implementation of individual data-driven parameterizations can degrade model performance, particularly when the original parameterization was tuned to produce a reasonable simulation of an emergent property of the model.  For example, in the original version of LPX, the parameterization of lighting distribution on wet and dry days was tuned to produce a good simulation of burnt area \citep{Prentice2011}. The implementation of a new treatment based on analyses of the actual occurrence of lightning on days with/without rain resulted in a significant increase in the amount of fire and led to a 24\% degradation in the simulated annual average burnt area in Australia. However, benchmarking showed that the new parameterization resulted in a 7-8\% improvement in the seasonal pattern of fire and a more realistic timing of the peak fire season by between 15-22 days. The fact that the benchmarking system was specifically set up to measure different aspects of the fire regime meant that it was possible to distinguish between the bias in total fire and the simulation of a more realistic temporal pattern of fire, and thus to isolate the causes of the overall bias as resulting from poor simulation of burnt area rather than ignitions. Once new parameterizations effecting fuel loads and moisture were implemented, the bias in total burnt area was reduced, resulting in a 19\% overall improvement in model performance.The model development described in this thesis was driven by extensive data analysis, and can be seen as part of a wider movement towards data-driven parameterization of a wide range of fundamental vegetation processes \citep[see e.g.][]{Brovkin2012,smith2012climate,Wang2012b,Wang2013a,Verheijen2013,Prentice2014,Wang2014}. The initial development of DGVMs and fire-enabled DGVMs occurred when access to large-scale or multi-year data sets was limited. Many of the early models were developed using studies from specific regions: MC-FIRE \citep{Lenihan1998} for example was initially developed using data from studies in South Dakota, while GLOBFIRM \citep{Thonicke2001} was parameterized using data from 31 sites from Portugal, California and northern Australia. However, the increasing availability of remotely-sensed data sets or GIS-based data products provide a fantastic opportunity for data-driven model development. The parameterization of lighting ignitions in this thesis provides an example, since it was based on an analysis of remotely-sensed lightning observations \citep[LIS;][]{Christian1999,Christian1999a} , together with extensive ground-based observations of lightning \citep[NDLN;][]{Cummins2009} and daily precipitation data \citep[CPC;][]{Higgins1996,Higgins2000a} at a continental scale over the USA. The collation of site-based or field data in databases provides another source of information for data-driven model development. In this thesis, I made use of the TRY database of plant traits \citep{Kattge2011}, for example, to obtain data on bark thickness for individual species. However, data syntheses of this sort are relatively new and existing databases do not cover all areas of interest for model development. In this thesis, I present an analysis of a new database of fire-response traits (Chapter 3). This work was a contribution to the Australian Centre for Ecological Analysis and Synthesis (ACEAS) working group on `Using plant functional traits to predict ecosystem vulnerability to changing fire regimes' (\url{www.aceas.org.au/index.php?option=com_content&amp;view=article&amp;id=114&amp;Itemid=115}), part of the aim of which is to synthesise data about fire-related plant traits. This effort could provide a rich source of information that could be used in future model development. There are many other areas where synthesis of site-based data could potentially be useful for model development. One example would be the synthesis of sited-based data on fuel loads, which could be used to characterize the relationship between fuel limitation and fire --- something that fire-enabled DGVMs handle very differently (see Table 1.1). Similarly, data on wind profiles in different vegetation types could help improve the scaling of wind speed data to take account of the presence of vegetation in models.  One novel aspect of the model development undertaken in this thesis is the inclusion of within-PFT variability in bark thickness in LPX (Chapter 4).  In many DGVMs the basic vegetation unit is a PFT, with PFT-specific values for individual parameters and simulated vegetation represented by an average individual plant per PFT within a given grid cell. However, there is considerable variability in the characteristics of the individual plant species that are grouped together, for simplicity, within any PFT. This variability underpins species selection in response to changing environmental conditions. Bark thickness is a classic example of this: thicker-barked species are more likely to survive a fire and thus there is selective pressure toward these species in fire prone regions such that the average bark thickness within a population increases with fire frequency \citep[Fig.~\ref{Intro_f7}][]{Lawes2011a}. Here, I have adopted the method for incorporating within-PFT trait variability described by \citet{Verheijen2013} and applied it to bark thickness (Fig. 4.5). Bark thickness within each PFT is initially represented by a simple data-derived distribution. Fire preferentially kills the thinner barked individuals within this distribution. The post-fire distribution is calculated based on the average bark thickness of surviving and re-establishing individuals.  This scheme allows representation of the full range of bark thickness found within each PFT, and allows the PFT-averaged bark thickness to adapt to changes in fire regime, but does not increase model complexity excessively and avoids the need to add additional computationally expensive PFTs in order to describe the range of trait variability better. Within-PFT variability exists in other simulated traits (e.g. the fraction of deep roots: Fig 4.3) and field observations suggest that these characteristics can also be adaptive \citep[e.g. the increase in average rooting depth along aridity gradients][]{Schenk2002a,Schenk2002,Schenk2005}. Adaptive parameterization of such traits could provide substantial improvements to the simulation of vegetation responses to climate change. However, the design of such a parameterization requires an understanding of the adaptive benefit conferred by changes in the trait, as well as the existence of site-based data syntheses in order to develop well-founded parameterizations.Another novel aspect of this thesis is the incorporation of resprouting PFTs in order to improve the post-fire response of woody vegetation (Chapter 4). The initial suite of PFTs in DGVMs was chosen to allow the representation of climate and environmental controls on vegetation distribution and carbon cycling. Additional PFTs have been added as new processes were incorporated in the DGVM framework. For example, the inclusion of wetlands in LPJ in order to improve the simulation of the terrestrial carbon and methane cycles necessitated the creation of two new PFTs, specifically mosses and flood tolerant grasses \citep[LPJ-WhyMe:][]{Wania2007,Wania2010}. Similarly, crop PFTs were incorporated into LPJ in order to simulate human land use \citep[LPJ-ml:][]{Bondeau2007} and a shrub PFT was included in CLM-DGVM to improve the simulation of arid/semi-arid shrublands \citep{Zeng2008}. Despite the fact that many vegetation types are maintained by regular fire \citep[e.g. savannas:][]{Cochrane1999,beckage2009vegetation,Lehmann2011} and that plants in fire-prone ecosystems display adaptations to survive or recover quickly after fire \citep{Clarke2013}, there has been no consideration of the need to include fire-related PFTs in a DGVM framework until now. Resprouting, the ability to regenerate from meristems in wood, bark or underground organs, is typical of fire-adapted vegetation. This behavior has a significant implication for the carbon cycle. Post-fire recovery rates in the current generation of DGVMs and land-surface models are slow because plants have to regenerate from seed. The ability to resprout means that ecosystem recovery takes place much faster (Fig. 4.7). I used analyses of site-based abundance data on resprouting (Chapter 3) to identify which PFTs included both resprouters and non-resprouters. This led to the definition of for new PFTs: resprouting tropical broadleaf evergreen trees, resprouting tropical broadleaf deciduous trees, resprouting temperate broadleaf evergreen trees, resprouting temperate broadleaf deciduous trees. Further data analyses allowed me to derive a cost for resprouting in terms of a reduction in reproductive success and establishment from seeds (Chapter 4). This treatment leads to a situation in which resprouting is favoured in fire-prone areas but resprouting trees are less successful after other forms of disturbance. Thus, the relative abundance of resprouting trees and non-resprouting trees is responsive to changes in fire regimes. The inclusion of resprouting PFTs and adaptive bark thickness in LPX produces a 33\% improvement in the simulated vegetation distribution across Australia (Chapter 4).The reduced re-seeding rate in resproutiung pfts compared to their non-resprouting counterparts represents an initial attempt to model a resprouting trade-off - regeneration via resprouting is at the expensive of new seedling establishment. Another important consideration, which we have not attempted to model, is the cost in carbon for building and maintaining resprouting and thick bark adaptations.  Thicker bark requires greater carbon investment and resprouters have a higher allocation to roots than shoots \citep[see e.g.][]{knox2005effects} and non-structural carbohydrate stores in order to “fund” resprouting  \citep{Clarke2013}. This carbon must be diverted from other plant structures, which is likely to cause decrease juvenile growth rates and increase the time for plants to reach sexual maturity \citep{bell1999underground,lamont2003seed,Lawes2011a,Clarke2013} as well as decreasing reproductive success. Including these costs in a modelling framework would improve the representation of competition between fire adaptive (thick barked/resprouting) and non-fire adapted (thin barked/non-resprouting) PFTs. However, as of yet, there have been very few attempts to quantify these costs in a way that would allow them to be modelled.The overarching goal of this thesis was to produce a model that provides a good representation of fire across Australia in order to be able to use it for future prediction. LPX-Mv1 incorporates improvements to the simulation of ignitions, fuel loads, fuel drying rates, fire resistance, and fire recovery rates (Chapter 4). The simulated distribution of vegetation and fire is significantly improved compared to the original version of LPX. I have applied this model to examine changes in fire regimes over the 21\textsuperscript{st} century in response to projections of future climate changes (Chapter 5). Previous studies, based on calculation of some form of Fire Danger Index (FDI), have shown that the risk of fire increases across the whole of Australia in the 21\textsuperscript{st} century \citep{Beer1995,Williams2001,mcgregor2001csiro,Pitman2007}. However, FDIs only take account of the prevalence of climate conditions that favour burning. They do not take account of the potential for CO\subscript{2} fertilization or climate-induced changes in vegetation on fuel production or structure. The LPX-Mv1 simulations show that climate-induced increases in fire risk do not necessarily translate into increases in biomass burning. The simulations imply that fire will decrease in northern Australia and increase in the interior and southeastern parts of the continent. The reduction of fire in northern Australia occurs because of increased fuel moisture and decreases in wind speed during the fire season. The increase of fire in southeastern Australia occurs because of an increase in fuel dryness in a region where fires are currently moisture-limited. The increase in fire in the interior of the continent reflects increases in fuel load in an area that is currently fuel-limited. Some of these changes reflect changes in vegetation productivity as a result of CO\subscript{2} fertilization. Thus, despite an increase in aridity, grass productivity is enhanced in the interior and this leads to greater fuel production and reduction of the area that is fuel limited. CO\subscript{2} fertilization is also responsible for the expansion of woody resprouting PFTs into relatively dry environments, which affects fuel load, structure and moisture conditions. However, the simulated expansion of woody vegetation is only possible because of the inclusion of resprouting PFTs in the model. In the absence of these fire-adapted trees, increased productivity would lead to increased fire and the replacement of trees by grasses. The maintenance of a significant tree cover, and indeed expansion of tree cover into many fire-prone regions, combined with the rapid recovery of biomass after fire due to resprouting, results in a 10\% increase in carbon sequestration by the biosphere over the 21\textsuperscript{st} century despite an increase in the overall amount of fire at a continental scale. This is a novel result which runs counter to inferences that might be made about the carbon budget of Australia based on changing fire danger indices or indeed DGVMs that lack realistic treatments of vegetation adaptations to fire. </flowPara><flowPara
+         id="flowPara3982">- Show example re-paramterixation of already incorporated process and inclusing of new proreces.## Old-school model development- Focussed on incorporating sub-model rather than parameterization- Model tuning to get right results with wrong process-representation- No test for model degradation- Unknown &quot;uncertainty&quot; in model results- Hard to understand drivers of change for e.g. future predictions- Due to a lack of comprehensive benchmarking system## New approuch model development- Call from community for more comprehensive model evaluation (e.g CEHs JULES, cLamb, iLamb)- Recent advances in remote sensing and communications means there is a lot more data- Develop a benchmark system to:    - Find model weaknesses    - Assess model development    - Justify model application- Data-driven model parameterization# Circle</flowPara><flowPara
+         id="flowPara8481"></flowPara><flowPara
+         id="flowPara8483">## Model evaluation- statistics used to quantify and compare across processes- identified two areas of key weakness for simulting fire regimes in Australia:        1. Fire performs &quot;worse than mean&quot; (although still &quot;better than random&quot;    1. Balance of &quot;controls&quot; on fire - e.g. fire ignitions (from Lightning Source) dominant, resultingin an MM score &quot;worse than random&quot;    1. Rapid forest-grassland boundries corrispons to fire boundries means vegetation cover is &quot;as good as random&quot;, suggesting too much tree mortality to fire    1. Model expreiments show extremely slow post-fire recovery of woody vegetation compared to observations.## Data Analysis- Analysis of observational data used to re-parameterize different processes contributing to error in controls on fire:    - Lightning scheme - ignitions (shown)    - root profiles - fuel loads    - fuel decompositing - fuel loads    - fuel drying time - moisture- Also used to develope vegetqation fire traits for woody vegetation surival   - Evolving Bark thickness for proection   - Post-disturbance resprouting for recovery ## Model development- Extra Benchmarking imformation used again to assess new processes (e.g. Model improvment in model revovery time) (in bit above title?)- Recovery time split between RS and NR ecosystems and compared to model experiments for simulated RS and NR vegetation cover- Re-analysing controls on fire shows better balance between fuel and moisture vs ignitions- Scalability of metric scores means we can demonstrate and %% impovment in simulated fire- Woody fire adpations imporve simulated vegetation by ...## Application - For the application of impact of changing climate on carbon stocks, used ... (check submitted paper)# Benchmarking System## Datasets- ## Metrics- ## Null models- Title: -  ## Application- Quantify how well a model performs across a comprehensive range of important processes- Allows identification of model weaknesses and processes that require improvement- Quantifies the differences between model version and impact of new parameterizations- Allows model inter-comparison-adopted an explicit iterative approach to model development in the Land Processes and eXchanges (LPX: \citealp{Prentice2011}) dynamic global vegetation model (DGVM), in which benchmarking against observations is used to identify areas for new data-driven parameterizations and then subsequently used to evaluate whether the implementation of these new parameterizations produces an overall improvement in model performance.-contrasts with the general tendency to focus evaluation on new components, for example the evaluation of fire treatments within DGVMs using only observations of burnt area and/or fire carbon fluxes  \citep[see e.g.][]{Li2012,Pfeiffer2013}. One reason for this partial approach to evaluation is the lack of a comprehensive benchmarking system \citep{Luo2012}.- Existing attempts to develop benchmarks for the evaluation of DGVMs and land-surface surface models have focused on a limited number of processes, generally related to energy and carbon fluxes \citep[e.g.][]{Randerson2009,blyth2010evaluating,Beer2010,cadule2010benchmarking,blyth2011comprehensive}. Furthermore, they make use of a limited number of metrics which are difficult to compare across processes and do not yield results that are easily interpreted in terms of the causes of model errors. As part of this thesis (Chapter 2), I have developed a comprehensive benchmarking system which allows evaluation of spatial and temporal patterns of multiple aspects of the simulated vegetation, hydrology, fire regimes and ecosystem fluxes as well as allowing the impact of specific types of bias to be taken into account. This benchmarking system serves several purposes: (1) it quantifies how well a model performs across a comprehensive range of important processes; (2) it allows the identification of model weaknesses through comparison of the performance with respect to different benchmarks and thus facilitates the identification of processes that require improvement; (3) it quantifies the differences between model versions, which allows assessment of the overall impact of new parameterizations. Application of this benchmarking system to LPX identified Australia as a region that was poorly simulated compared to other parts of the world. One reason for this was the sharp, fire-controlled boundaries between grassland and forest. Through benchmarking, I identified that the sharp boundaries between regions experiencing no fire and those experiencing fire resulted from an unrealistic sensitivity to lightning ignitions. This led to the re-examination of lightning parameterization (Chapter 4). The sharp grassland/forest boundaries resulted because of high mortality rates for woody plants in areas with fire. This led to a re-examination of the realism of the PFT-specific treatment of bark thickness in the model and the subsequent inclusion of an adaptive parameterization of bark thickness as well as fire recovery through resprouting in the model (Chapter 4).The implementation of individual data-driven parameterizations can degrade model performance, particularly when the original parameterization was tuned to produce a reasonable simulation of an emergent property of the model.  For example, in the original version of LPX, the parameterization of lighting distribution on wet and dry days was tuned to produce a good simulation of burnt area \citep{Prentice2011}. The implementation of a new treatment based on analyses of the actual occurrence of lightning on days with/without rain resulted in a significant increase in the amount of fire and led to a 24\% degradation in the simulated annual average burnt area in Australia. However, benchmarking showed that the new parameterization resulted in a 7-8\% improvement in the seasonal pattern of fire and a more realistic timing of the peak fire season by between 15-22 days. The fact that the benchmarking system was specifically set up to measure different aspects of the fire regime meant that it was possible to distinguish between the bias in total fire and the simulation of a more realistic temporal pattern of fire, and thus to isolate the causes of the overall bias as resulting from poor simulation of burnt area rather than ignitions. Once new parameterizations effecting fuel loads and moisture were implemented, the bias in total burnt area was reduced, resulting in a 19\% overall improvement in model performance.The model development described in this thesis was driven by extensive data analysis, and can be seen as part of a wider movement towards data-driven parameterization of a wide range of fundamental vegetation processes \citep[see e.g.][]{Brovkin2012,smith2012climate,Wang2012b,Wang2013a,Verheijen2013,Prentice2014,Wang2014}. The initial development of DGVMs and fire-enabled DGVMs occurred when access to large-scale or multi-year data sets was limited. Many of the early models were developed using studies from specific regions: MC-FIRE \citep{Lenihan1998} for example was initially developed using data from studies in South Dakota, while GLOBFIRM \citep{Thonicke2001} was parameterized using data from 31 sites from Portugal, California and northern Australia. However, the increasing availability of remotely-sensed data sets or GIS-based data products provide a fantastic opportunity for data-driven model development. The parameterization of lighting ignitions in this thesis provides an example, since it was based on an analysis of remotely-sensed lightning observations \citep[LIS;][]{Christian1999,Christian1999a} , together with extensive ground-based observations of lightning \citep[NDLN;][]{Cummins2009} and daily precipitation data \citep[CPC;][]{Higgins1996,Higgins2000a} at a continental scale over the USA. The collation of site-based or field data in databases provides another source of information for data-driven model development. In this thesis, I made use of the TRY database of plant traits \citep{Kattge2011}, for example, to obtain data on bark thickness for individual species. However, data syntheses of this sort are relatively new and existing databases do not cover all areas of interest for model development. In this thesis, I present an analysis of a new database of fire-response traits (Chapter 3). This work was a contribution to the Australian Centre for Ecological Analysis and Synthesis (ACEAS) working group on `Using plant functional traits to predict ecosystem vulnerability to changing fire regimes' (\url{www.aceas.org.au/index.php?option=com_content&amp;view=article&amp;id=114&amp;Itemid=115}), part of the aim of which is to synthesise data about fire-related plant traits. This effort could provide a rich source of information that could be used in future model development. There are many other areas where synthesis of site-based data could potentially be useful for model development. One example would be the synthesis of sited-based data on fuel loads, which could be used to characterize the relationship between fuel limitation and fire --- something that fire-enabled DGVMs handle very differently (see Table 1.1). Similarly, data on wind profiles in different vegetation types could help improve the scaling of wind speed data to take account of the presence of vegetation in models.  One novel aspect of the model development undertaken in this thesis is the inclusion of within-PFT variability in bark thickness in LPX (Chapter 4).  In many DGVMs the basic vegetation unit is a PFT, with PFT-specific values for individual parameters and simulated vegetation represented by an average individual plant per PFT within a given grid cell. However, there is considerable variability in the characteristics of the individual plant species that are grouped together, for simplicity, within any PFT. This variability underpins species selection in response to changing environmental conditions. Bark thickness is a classic example of this: thicker-barked species are more likely to survive a fire and thus there is selective pressure toward these species in fire prone regions such that the average bark thickness within a population increases with fire frequency \citep[Fig.~\ref{Intro_f7}][]{Lawes2011a}. Here, I have adopted the method for incorporating within-PFT trait variability described by \citet{Verheijen2013} and applied it to bark thickness (Fig. 4.5). Bark thickness within each PFT is initially represented by a simple data-derived distribution. Fire preferentially kills the thinner barked individuals within this distribution. The post-fire distribution is calculated based on the average bark thickness of surviving and re-establishing individuals.  This scheme allows representation of the full range of bark thickness found within each PFT, and allows the PFT-averaged bark thickness to adapt to changes in fire regime, but does not increase model complexity excessively and avoids the need to add additional computationally expensive PFTs in order to describe the range of trait variability better. Within-PFT variability exists in other simulated traits (e.g. the fraction of deep roots: Fig 4.3) and field observations suggest that these characteristics can also be adaptive \citep[e.g. the increase in average rooting depth along aridity gradients][]{Schenk2002a,Schenk2002,Schenk2005}. Adaptive parameterization of such traits could provide substantial improvements to the simulation of vegetation responses to climate change. However, the design of such a parameterization requires an understanding of the adaptive benefit conferred by changes in the trait, as well as the existence of site-based data syntheses in order to develop well-founded parameterizations.Another novel aspect of this thesis is the incorporation of resprouting PFTs in order to improve the post-fire response of woody vegetation (Chapter 4). The initial suite of PFTs in DGVMs was chosen to allow the representation of climate and environmental controls on vegetation distribution and carbon cycling. Additional PFTs have been added as new processes were incorporated in the DGVM framework. For example, the inclusion of wetlands in LPJ in order to improve the simulation of the terrestrial carbon and methane cycles necessitated the creation of two new PFTs, specifically mosses and flood tolerant grasses \citep[LPJ-WhyMe:][]{Wania2007,Wania2010}. Similarly, crop PFTs were incorporated into LPJ in order to simulate human land use \citep[LPJ-ml:][]{Bondeau2007} and a shrub PFT was included in CLM-DGVM to improve the simulation of arid/semi-arid shrublands \citep{Zeng2008}. Despite the fact that many vegetation types are maintained by regular fire \citep[e.g. savannas:][]{Cochrane1999,beckage2009vegetation,Lehmann2011} and that plants in fire-prone ecosystems display adaptations to survive or recover quickly after fire \citep{Clarke2013}, there has been no consideration of the need to include fire-related PFTs in a DGVM framework until now. Resprouting, the ability to regenerate from meristems in wood, bark or underground organs, is typical of fire-adapted vegetation. This behavior has a significant implication for the carbon cycle. Post-fire recovery rates in the current generation of DGVMs and land-surface models are slow because plants have to regenerate from seed. The ability to resprout means that ecosystem recovery takes place much faster (Fig. 4.7). I used analyses of site-based abundance data on resprouting (Chapter 3) to identify which PFTs included both resprouters and non-resprouters. This led to the definition of for new PFTs: resprouting tropical broadleaf evergreen trees, resprouting tropical broadleaf deciduous trees, resprouting temperate broadleaf evergreen trees, resprouting temperate broadleaf deciduous trees. Further data analyses allowed me to derive a cost for resprouting in terms of a reduction in reproductive success and establishment from seeds (Chapter 4). This treatment leads to a situation in which resprouting is favoured in fire-prone areas but resprouting trees are less successful after other forms of disturbance. Thus, the relative abundance of resprouting trees and non-resprouting trees is responsive to changes in fire regimes. The inclusion of resprouting PFTs and adaptive bark thickness in LPX produces a 33\% improvement in the simulated vegetation distribution across Australia (Chapter 4).The reduced re-seeding rate in resproutiung pfts compared to their non-resprouting counterparts represents an initial attempt to model a resprouting trade-off - regeneration via resprouting is at the expensive of new seedling establishment. Another important consideration, which we have not attempted to model, is the cost in carbon for building and maintaining resprouting and thick bark adaptations.  Thicker bark requires greater carbon investment and resprouters have a higher allocation to roots than shoots \citep[see e.g.][]{knox2005effects} and non-structural carbohydrate stores in order to “fund” resprouting  \citep{Clarke2013}. This carbon must be diverted from other plant structures, which is likely to cause decrease juvenile growth rates and increase the time for plants to reach sexual maturity \citep{bell1999underground,lamont2003seed,Lawes2011a,Clarke2013} as well as decreasing reproductive success. Including these costs in a modelling framework would improve the representation of competition between fire adaptive (thick barked/resprouting) and non-fire adapted (thin barked/non-resprouting) PFTs. However, as of yet, there have been very few attempts to quantify these costs in a way that would allow them to be modelled.The overarching goal of this thesis was to produce a model that provides a good representation of fire across Australia in order to be able to use it for future prediction. LPX-Mv1 incorporates improvements to the simulation of ignitions, fuel loads, fuel drying rates, fire resistance, and fire recovery rates (Chapter 4). The simulated distribution of vegetation and fire is significantly improved compared to the original version of LPX. I have applied this model to examine changes in fire regimes over the 21\textsuperscript{st} century in response to projections of future climate changes (Chapter 5). Previous studies, based on calculation of some form of Fire Danger Index (FDI), have shown that the risk of fire increases across the whole of Australia in the 21\textsuperscript{st} century \citep{Beer1995,Williams2001,mcgregor2001csiro,Pitman2007}. However, FDIs only take account of the prevalence of climate conditions that favour burning. They do not take account of the potential for CO\subscript{2} fertilization or climate-induced changes in vegetation on fuel production or structure. The LPX-Mv1 simulations show that climate-induced increases in fire risk do not necessarily translate into increases in biomass burning. The simulations imply that fire will decrease in northern Australia and increase in the interior and southeastern parts of the continent. The reduction of fire in northern Australia occurs because of increased fuel moisture and decreases in wind speed during the fire season. The increase of fire in southeastern Australia occurs because of an increase in fuel dryness in a region where fires are currently moisture-limited. The increase in fire in the interior of the continent reflects increases in fuel load in an area that is currently fuel-limited. Some of these changes reflect changes in vegetation productivity as a result of CO\subscript{2} fertilization. Thus, despite an increase in aridity, grass productivity is enhanced in the interior and this leads to greater fuel production and reduction of the area that is fuel limited. CO\subscript{2} fertilization is also responsible for the expansion of woody resprouting PFTs into relatively dry environments, which affects fuel load, structure and moisture conditions. However, the simulated expansion of woody vegetation is only possible because of the inclusion of resprouting PFTs in the model. In the absence of these fire-adapted trees, increased productivity would lead to increased fire and the replacement of trees by grasses. The maintenance of a significant tree cover, and indeed expansion of tree cover into many fire-prone regions, combined with the rapid recovery of biomass after fire due to resprouting, results in a 10\% increase in carbon sequestration by the biosphere over the 21\textsuperscript{st} century despite an increase in the overall amount of fire at a continental scale. This is a novel result which runs counter to inferences that might be made about the carbon budget of Australia based on changing fire danger indices or indeed DGVMs that lack realistic treatments of vegetation adaptations to fire. </flowPara><flowPara
          id="flowPara3984" /><flowPara
          id="flowPara3986" /><flowPara
          id="flowPara3988" /><flowPara
@@ -4621,11 +4208,163 @@
                y="2180.825" /></flowRegion><flowPara
              id="flowPara7833"></flowPara></flowRoot>      </g>
     </g>
+    <image
+       sodipodi:absref="C:\Users\dougl\Documents\work\cvAndApplications\posters\Circle\Start\LPXGlob.png"
+       xlink:href="Circle\Start\LPXGlob.png"
+       width="725.625"
+       height="235.3125"
+       preserveAspectRatio="none"
+       id="image8703"
+       x="1378.9692"
+       y="162.24319" />
+    <image
+       sodipodi:absref="C:\Users\dougl\Documents\work\cvAndApplications\posters\Circle\Start\LimFIre.png"
+       xlink:href="Circle\Start\LimFIre.png"
+       width="347.11099"
+       height="328.60992"
+       preserveAspectRatio="none"
+       id="image8740"
+       x="2292.3162"
+       y="2181.7439" />
+    <image
+       sodipodi:absref="C:\Users\dougl\Documents\work\cvAndApplications\posters\Circle\Start\LimKey.png"
+       xlink:href="Circle\Start\LimKey.png"
+       width="243.45396"
+       height="157.43356"
+       preserveAspectRatio="none"
+       id="image8751"
+       x="2545.8015"
+       y="2098.9827" />
+    <image
+       sodipodi:absref="C:\Users\dougl\Documents\work\cvAndApplications\posters\Circle\Re-evalu\Rec.png"
+       xlink:href="Circle\Re-evalu\Rec.png"
+       width="404.60483"
+       height="337.17068"
+       preserveAspectRatio="none"
+       id="image8762"
+       x="1962.4081"
+       y="1663.3716" />
+    <image
+       sodipodi:absref="C:\Users\dougl\Documents\work\cvAndApplications\posters\Circle\Re-evalu\LPXMv1Rec.png"
+       xlink:href="Circle\Re-evalu\LPXMv1Rec.png"
+       width="460.21762"
+       height="383.51471"
+       preserveAspectRatio="none"
+       id="image8773"
+       x="501.27768"
+       y="1717.4493" />
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer6"
-     inkscape:label="Table" />
+     inkscape:label="Table">
+    <text
+       sodipodi:linespacing="100%"
+       id="text56514-8-7-8-1-2-5-5-0-5"
+       y="180.5352"
+       x="611.70508"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.66075897px;line-height:100%;font-family:Candara;-inkscape-font-specification:Candara;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="180.5352"
+         x="611.70508"
+         sodipodi:role="line"
+         style="fill:#241c1c"
+         id="tspan8604">                                                LPX (Prentice et al. 2011) </tspan><tspan
+         y="218.19595"
+         x="611.70508"
+         sodipodi:role="line"
+         style="fill:#241c1c"
+         id="tspan8706">                                   is a coupled fire-dynamic global </tspan><tspan
+         y="255.85672"
+         x="611.70508"
+         sodipodi:role="line"
+         style="fill:#241c1c"
+         id="tspan8608">                         vegetetaion model. The last round of </tspan><tspan
+         y="293.51749"
+         x="611.70508"
+         sodipodi:role="line"
+         style="fill:#241c1c"
+         id="tspan8610">                 model development was to incorporate the </tspan><tspan
+         y="331.17822"
+         x="611.70508"
+         sodipodi:role="line"
+         style="fill:#241c1c"
+         id="tspan8714">         fire model, and was assessed against burnt area </tspan><tspan
+         y="368.83899"
+         x="611.70508"
+         sodipodi:role="line"
+         style="fill:#241c1c"
+         id="tspan8612">   and fire carbon flux observations globally.</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text56514-8-7-8-1-2-5-5-0-5-1"
+       y="582.99249"
+       x="1581.9325"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.66075897px;line-height:100%;font-family:Candara;-inkscape-font-specification:Candara;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="582.99249"
+         x="1581.9325"
+         sodipodi:role="line"
+         style="fill:#241c1c"
+         id="tspan8612-1">The benchmarking system (right) was used to identifty </tspan><tspan
+         y="620.65326"
+         x="1581.9325"
+         sodipodi:role="line"
+         style="fill:#241c1c"
+         id="tspan8720">        specific weaknesses of the model.</tspan><tspan
+         y="658.31403"
+         x="1581.9325"
+         sodipodi:role="line"
+         style="fill:#241c1c"
+         id="tspan8722">             Despite an overall good performance in fire, weakness in </tspan><tspan
+         y="695.97479"
+         x="1581.9325"
+         sodipodi:role="line"
+         style="fill:#241c1c"
+         id="tspan8724">                 other aspects of the model suggestes fire performance </tspan><tspan
+         y="733.6355"
+         x="1581.9325"
+         sodipodi:role="line"
+         style="fill:#241c1c"
+         id="tspan8726">                     could be for &quot;the wrong reasons&quot;.</tspan><tspan
+         y="771.29626"
+         x="1581.9325"
+         sodipodi:role="line"
+         style="fill:#241c1c"
+         id="tspan8728">                         Fire is poorly simulated in Tropical Savanna and dry </tspan><tspan
+         y="808.95703"
+         x="1581.9325"
+         sodipodi:role="line"
+         style="fill:#241c1c"
+         id="tspan8730">                            woodland areas, particularly for Australia.- Extra data (e.g. satalite post-fire vegetation recovery time) and simple model comparisons (e.g. GLM results for fire controls) were used to evaluate &lt;&lt;&gt;&gt; leading to weaknesses in individual processes).</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text56514-8-7-8-1-2-5-5-0-5-7"
+       y="1878.9685"
+       x="1442.8331"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.66075897px;line-height:100%;font-family:Candara;-inkscape-font-specification:Candara;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="1878.9685"
+         x="1442.8331"
+         sodipodi:role="line"
+         style="fill:#241c1c"
+         id="tspan8604-3">                                                LPX (Prentice et al. 2011) is a coupled fire-dynamic global </tspan><tspan
+         y="1916.6293"
+         x="1442.8331"
+         sodipodi:role="line"
+         style="fill:#241c1c"
+         id="tspan8608-0">                                 vegetetaion model. The last around of model development was to </tspan><tspan
+         y="1954.29"
+         x="1442.8331"
+         sodipodi:role="line"
+         style="fill:#241c1c"
+         id="tspan8610-6">                          incorporate the fire model, and was assessed against burnt area and fire carbon flux </tspan><tspan
+         y="1991.9508"
+         x="1442.8331"
+         sodipodi:role="line"
+         style="fill:#241c1c"
+         id="tspan8612-12">               observations globally.</tspan></text>
+  </g>
   <g
      inkscape:label="Header Text Images"
      inkscape:groupmode="layer"
@@ -4668,12 +4407,12 @@
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:47.52119827px;line-height:100%;font-family:Candara;-inkscape-font-specification:'Candara Bold';text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        x="1345.3052"
-       y="-1784.4973"
+       y="-1804.4973"
        id="text24695-0-2-1-6-6-4-8-2-8-5-72"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          x="1345.3052"
-         y="-1784.4973"
+         y="-1804.4973"
          style="font-size:56.25px;fill:#000000;fill-opacity:1"
          id="tspan6838">Initial Model</tspan></text>
   </g>
