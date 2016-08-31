@@ -1,13 +1,15 @@
-\documentclass{article}
+\documentclass[landscape]{article}
 \usepackage{pgfgantt}
 
 \begin{document}
 
 \begin{figure}[ftbp]
-\begin{center}
-
-\begin{ganttchart}[y unit title=0.4cm,
-y unit chart=0.5cm,
+\flushleft
+%\begin{center}
+\hspace*{-15em}\raisebox{0em}{
+\begin{ganttchart}[
+y unit title=0.4cm,
+y unit chart=1.0cm,
 vgrid,hgrid, 
 title label anchor/.style={below=-1.6ex},
 title left shift=.05,
@@ -20,24 +22,31 @@ bar height=0.7,
 group right shift=0,
 group top shift=.6,
 group height=.3,
-group peaks={}{}{.2}]{24}
+group peaks={}{}{.2}]{39}
 %labels
-\gantttitle{Week}{24} \\
-\gantttitle{Monday}{4} 
-\gantttitle{Tuesday}{4} 
-\gantttitle{Wednesday}{4} 
-\gantttitle{Thursday}{4} 
-\gantttitle{Friday}{4} 
-\gantttitle{Saturday}{4} \\
+\gantttitle{2016/2017}{39} \\
+\gantttitle{Aug}{3} 
+\gantttitle{Sep}{3} 
+\gantttitle{Oct}{3} 
+\gantttitle{Nov}{3} 
+\gantttitle{Dec}{3} 
+\gantttitle{Jan}{3} 
+\gantttitle{Feb}{3} 
+\gantttitle{Mar}{3} 
+\gantttitle{Apr}{3} 
+\gantttitle{May}{3} 
+\gantttitle{Jun}{3} 
+\gantttitle{Jul}{3} 
+\gantttitle{Aug}{3} \\
 %tasks
 \ganttbar{first task}{1}{2} \\
 \ganttbar{task 2}{3}{8} \\
 \ganttbar{task 3}{9}{10} \\
 \ganttbar{task 4}{11}{15} \\
-\ganttbar[progress=33]{task 5}{20}{22} \\
+\ganttbar[progress=33]{task 5}{20}{36} \\
 \ganttbar{task 6}{18}{19} \\
 \ganttbar{task 7}{16}{18} \\
-\ganttbar[progress=0]{task 8}{21}{24}
+\ganttbar[progress=0]{task 8}{21}{52}
 
 %relations 
 \ganttlink{elem0}{elem1} 
@@ -50,8 +59,8 @@ group peaks={}{}{.2}]{24}
 \ganttlink{elem3}{elem6} 
 \ganttlink{elem5}{elem7} 
 \end{ganttchart}
-\end{center}
-\caption{Gantt Chart}
+}
+%\end{center}
 \end{figure}
 
 \end{document}
