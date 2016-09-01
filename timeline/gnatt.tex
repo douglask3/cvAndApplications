@@ -1,12 +1,14 @@
 \documentclass[landscape]{article}
 \usepackage{pgfgantt}
 
+\usepackage[a3paper]{geometry}
+
 \begin{document}
 
 \begin{figure}[ftbp]
 \flushleft
 %\begin{center}
-\hspace*{-15em}\raisebox{0em}{
+\hspace*{-17em}\raisebox{0em}{
 \begin{ganttchart}[
 y unit title=0.4cm,
 y unit chart=1.0cm,
@@ -15,30 +17,74 @@ title label anchor/.style={below=-1.6ex},
 title left shift=.05,
 title right shift=-.05,
 title height=1,
-bar/.style={fill=gray!50},
+bar/.style={fill=green},
+bar incomplete/.append style={fill=red},
+group incomplete/.append style={draw=black,fill=none}
 incomplete/.style={fill=white},
 progress label text={},
 bar height=0.7,
 group right shift=0,
 group top shift=.6,
 group height=.3,
-group peaks={}{}{.2}]{39}
+group peaks={}{}{.2}]{52}
 %labels
-\gantttitle{2016/2017}{39} \\
-\gantttitle{Aug}{3} 
-\gantttitle{Sep}{3} 
-\gantttitle{Oct}{3} 
-\gantttitle{Nov}{3} 
-\gantttitle{Dec}{3} 
-\gantttitle{Jan}{3} 
-\gantttitle{Feb}{3} 
-\gantttitle{Mar}{3} 
-\gantttitle{Apr}{3} 
-\gantttitle{May}{3} 
-\gantttitle{Jun}{3} 
-\gantttitle{Jul}{3} 
-\gantttitle{Aug}{3} \\
+\gantttitle{2016/2017}{52} \\
+\gantttitle{Sep}{4.345} 
+\gantttitle{Oct}{4.345} 
+\gantttitle{Nov}{4.345} 
+\gantttitle{Dec}{4.345} 
+\gantttitle{Jan}{4.345} 
+\gantttitle{Feb}{4.345} 
+\gantttitle{Mar}{4.345} 
+\gantttitle{Apr}{4.345} 
+\gantttitle{May}{4.345} 
+\gantttitle{Jun}{4.345} 
+\gantttitle{Jul}{4.345}  
+\gantttitle{Aug}{4.345}
+\gantttitle{Sep}{4.345} \\
 %tasks
+
+%%%%%%%%%%%%%%%%%%%%%%%
+%% UKESMv1           %%
+%%%%%%%%%%%%%%%%%%%%%%%
+ \ganttgroup[
+    name=Obj1.1
+  ]{\textbf{1.1 UKESMv1 development support}}{1}{15} \\
+  
+\ganttbar[
+    progress=75,
+    name=Obj1.1a
+  ]{\textbf{Obj1.1a} Veg1/Veg1 coupled respiration}{1}{8} \\
+  \ganttbar[
+    progress=67,
+    name=Obj1.1b
+  ]{\textbf{Obj1.1b} Broadleaf PFT redistribution and growth}{1}{3} \\
+
+%%%%%%%%%%%%%%%%%%%%%%%
+%% UKESMv2           %%
+%%%%%%%%%%%%%%%%%%%%%%%
+ \ganttgroup[
+    name=Obj1.2
+  ]{\textbf{1.2 UKESMv2 development}}{20}{52} \\
+
+\ganttgroup[
+    progress=57,
+    name=Obj2
+  ]{\textbf{Obj2. UKESM Land Surface Assessment}}{17}{52} \\
+  
+\ganttbar[
+    progress=75,
+    name=O2n1
+  ]{\textbf{Obj2.1} Identify processes/datasets}{5}{26} \\
+  \ganttbar[
+    progress=67,
+    name=O2n2
+  ]{\textbf{Obj2.2} Obtain metrics/identify "benchmarks"}{5}{26} \\
+  \ganttbar[
+    progress=50,
+    name=O2n3
+  ]{\textbf{Obj2.3} Implement}{20}{52} \\
+
 \ganttbar{first task}{1}{2} \\
 \ganttbar{task 2}{3}{8} \\
 \ganttbar{task 3}{9}{10} \\
@@ -49,15 +95,9 @@ group peaks={}{}{.2}]{39}
 \ganttbar[progress=0]{task 8}{21}{52}
 
 %relations 
-\ganttlink{elem0}{elem1} 
-\ganttlink{elem0}{elem3} 
-\ganttlink{elem1}{elem2} 
-\ganttlink{elem3}{elem4} 
-\ganttlink{elem1}{elem5} 
-\ganttlink{elem3}{elem5} 
-\ganttlink{elem2}{elem6} 
-\ganttlink{elem3}{elem6} 
-\ganttlink{elem5}{elem7} 
+\ganttlink{Obj1.1}{Obj2} 
+\ganttlink{O2n1}{O2n3} 
+\ganttlink{O2n2}{O2n3} 
 \end{ganttchart}
 }
 %\end{center}
