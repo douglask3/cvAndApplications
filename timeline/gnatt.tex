@@ -1,7 +1,7 @@
 \documentclass[landscape]{article}
 \usepackage{pgfgantt}
 
-\usepackage[a3paper]{geometry}
+\usepackage[a2paper]{geometry}
 
 \begin{document}
 
@@ -29,20 +29,42 @@ group height=.3,
 group peaks={}{}{.2}]{52}
 %labels
 \gantttitle{2016/2017}{52} \\
-\gantttitle{Sep}{4.345} 
-\gantttitle{Oct}{4.345} 
-\gantttitle{Nov}{4.345} 
-\gantttitle{Dec}{4.345} 
-\gantttitle{Jan}{4.345} 
-\gantttitle{Feb}{4.345} 
-\gantttitle{Mar}{4.345} 
-\gantttitle{Apr}{4.345} 
-\gantttitle{May}{4.345} 
-\gantttitle{Jun}{4.345} 
-\gantttitle{Jul}{4.345}  
-\gantttitle{Aug}{4.345}
-\gantttitle{Sep}{4.345} \\
-%tasks
+\gantttitle{Sep}{4.} 
+\gantttitle{Oct}{4.} 
+\gantttitle{Nov}{4.} 
+\gantttitle{Dec}{4.} 
+\gantttitle{Jan}{4.} 
+\gantttitle{Feb}{4.} 
+\gantttitle{Mar}{4.} 
+\gantttitle{Apr}{4.} 
+\gantttitle{May}{4.} 
+\gantttitle{Jun}{4.} 
+\gantttitle{Jul}{4.}  
+\gantttitle{Aug}{4.}
+\gantttitle{Sep}{4.} \\
+
+
+%%%%%%%%%%%%%%%%%%%%%%%
+%% Holidays          %%
+%%%%%%%%%%%%%%%%%%%%%%%
+\ganttbar[name=holiday-2015-top,bar/.style={fill=none, draw=none}]{}{1}{1}
+\ganttbar[name=holiday-2015-bottom,bar/.style={fill=none, draw=none}]{}{1}{1}
+\begin{scope}
+\draw [opacity=0.2,line width=12] (holiday-2015-top) -- ($(holiday-2015-bottom)+(0,-451pt)$);
+\end{scope}
+
+\ganttbar[name=holiday-2015-top,bar/.style={fill=none, draw=none}]{}{14}{14}
+\ganttbar[name=holiday-2015-bottom,bar/.style={fill=none, draw=none}]{}{14}{14}
+\begin{scope}
+\draw [opacity=0.2,line width=32] (holiday-2015-top) -- ($(holiday-2015-bottom)+(0,-451pt)$);
+\end{scope}
+
+\ganttbar[name=holiday-2015-top,bar/.style={fill=none, draw=none}]{}{7}{7}
+\ganttbar[name=holiday-2015-bottom,bar/.style={fill=none, draw=none}]{}{7}{7}
+\begin{scope}
+\draw [opacity=0.2,line width=3] (holiday-2015-top) -- ($(holiday-2015-bottom)+(0,-451pt)$);
+\end{scope}
+
 
 %%%%%%%%%%%%%%%%%%%%%%%
 %% UKESMv1           %%
@@ -52,11 +74,11 @@ group peaks={}{}{.2}]{52}
   ]{\textbf{1.1 UKESMv1 development support}}{1}{15} \\
   
 \ganttbar[
-    progress=75,
+    progress=50,
     name=Obj1.1a
   ]{\textbf{Obj1.1a} Veg1/Veg1 coupled respiration}{1}{8} \\
   \ganttbar[
-    progress=67,
+    progress=0,
     name=Obj1.1b
   ]{\textbf{Obj1.1b} Broadleaf PFT redistribution and growth}{1}{3} \\
 
@@ -68,36 +90,184 @@ group peaks={}{}{.2}]{52}
   ]{\textbf{1.2 UKESMv2 development}}{20}{52} \\
 
 \ganttgroup[
-    progress=57,
+    progress=0,
     name=Obj2
   ]{\textbf{Obj2. UKESM Land Surface Assessment}}{17}{52} \\
   
 \ganttbar[
-    progress=75,
-    name=O2n1
-  ]{\textbf{Obj2.1} Identify processes/datasets}{5}{26} \\
+    progress=10,
+    name=Obj2a
+  ]{\textbf{Obj2a} Identify processes/datasets}{5}{26} \\
   \ganttbar[
-    progress=67,
-    name=O2n2
-  ]{\textbf{Obj2.2} Obtain metrics/identify "benchmarks"}{5}{26} \\
+    progress=0,
+    name=Obj2b
+  ]{\textbf{Obj2b} Obtain metrics/identify "benchmarks"}{5}{26} \\
   \ganttbar[
-    progress=50,
-    name=O2n3
-  ]{\textbf{Obj2.3} Implement}{20}{52} \\
+    progress=0,
+    name=Obj2c
+  ]{\textbf{Obj2c} Implement}{20}{52} \\
 
-\ganttbar{first task}{1}{2} \\
-\ganttbar{task 2}{3}{8} \\
-\ganttbar{task 3}{9}{10} \\
-\ganttbar{task 4}{11}{15} \\
-\ganttbar[progress=33]{task 5}{20}{36} \\
-\ganttbar{task 6}{18}{19} \\
-\ganttbar{task 7}{16}{18} \\
-\ganttbar[progress=0]{task 8}{21}{52}
+
+\ganttgroup[
+    progress=0,
+    name=Obj3
+  ]{\textbf{Obj3. Fire in UKESM}}{1}{52} \\
+
+\ganttgroup[
+    progress=0,
+    name=Obj3.1
+  ]{\textbf{Obj3.1 LimFIRE}}{1}{40} \\
+
+  \ganttbar[
+    progress=75,
+    name=Obj3.1a
+  ]{\textbf{Obj3.1a}Complete burnt area model construction}{1}{8} \\
+  \ganttbar[
+    progress=60,
+    name=Obj3.1b
+  ]{\textbf{Obj3.1b} Model Application results}{1}{9} \\
+  \ganttbar[
+    progress=20,
+    name=Obj3.1c
+  ]{\textbf{Obj3.1c} Write up draft paper}{9}{11} \\
+  \ganttbar[
+    progress=0,
+    name=Obj3.1d
+  ]{\textbf{Obj3.1d} AGU presentation}{12}{13} \\
+  \ganttbar[
+    progress=0,
+    name=Obj3.1e
+  ]{\textbf{Obj3.1e} Finalise paper and submit}{16}{20} \\
+  \ganttbar[
+    progress=0,
+    name=Obj3.1f
+  ]{\textbf{Obj3.1f} Incorporate of regime aspects}{21}{33} \\
+  \ganttbar[
+    progress=0,
+    name=Obj3.1g
+  ]{\textbf{Obj3.1g} Land use assessment}{33}{40} \\
+
+\ganttgroup[
+    progress=0,
+    name=Obj3.2
+  ]{\textbf{Obj3.2 JULES}}{17}{52} \\
+
+  \ganttbar[
+    progress=10,
+    name=Obj3.2a
+  ]{\textbf{Obj3.2a}Reparameterise INFERNO}{17}{33} \\
+  \ganttbar[
+    progress=0,
+    name=Obj3.2b
+  ]{\textbf{Obj3.2b} Incorporate agricultural supression}{17}{33} \\
+  \ganttbar[
+    progress=0,
+    name=Obj3.2c
+  ]{\textbf{Obj3.2c} Paramerise Intesnity and Residence time}{34}{40} \\
+  \ganttbar[
+    progress=0,
+    name=Obj3.2d
+  ]{\textbf{Obj3.2d} UKESM coupling}{41}{52} \\
+
+\ganttgroup[
+    progress=0,
+    name=Obj4
+  ]{\textbf{Obj4 UKESM applications}}{17}{52} \\
+
+  \ganttbar[
+    progress=10,
+    name=Obj4.2a
+  ]{\textbf{Obj4.2a}Reparameterise INFERNO}{5}{26} \\
+  \ganttbar[
+    progress=0,
+    name=Obj4.2b
+  ]{\textbf{Obj4.2b} Incorporate agricultural supression}{5}{26} \\
+  \ganttbar[
+    progress=0,
+    name=Obj4.2c
+  ]{\textbf{Obj4.2c} Paramerise Intesnity and Residence time}{20}{52} \\
+  \ganttbar[
+    progress=0,
+    name=Obj4.2d
+  ]{\textbf{Obj4.1d} UKESM coupling}{20}{52} \\
+
+\ganttgroup[
+    progress=0,
+    name=Obj5
+  ]{\textbf{Obj5  Other Colaborations}}{17}{52} \\
+
+\ganttgroup[
+    progress=0,
+    name=Obj5.1
+  ]{\textbf{Obj5.1  Phendulum}}{17}{52} \\
+
+  \ganttbar[
+    progress=10,
+    name=Obj5.1a
+  ]{\textbf{Obj5.1a}Reparameterise INFERNO}{5}{26} \\
+  \ganttbar[
+    progress=0,
+    name=Obj5.1b
+  ]{\textbf{Obj5.1b} Incorporate agricultural supression}{5}{26} \\
+
+\ganttgroup[
+    progress=0,
+    name=Obj5.2
+  ]{\textbf{Obj5.2  ET Australia Hydrology}}{17}{52} \\
+
+  \ganttbar[
+    progress=10,
+    name=Obj5.1a
+  ]{\textbf{Obj5.1a}Reparameterise INFERNO}{5}{26} \\
+  \ganttbar[
+    progress=0,
+    name=Obj5.2b
+  ]{\textbf{Obj5.2b} Incorporate agricultural supression}{5}{26} \\
+
+
+\ganttgroup[
+    progress=0,
+    name=Obj5.3
+  ]{\textbf{Obj5.3 Aus fire regimes}}{17}{52} \\
+
+  \ganttbar[
+    progress=10,
+    name=Obj5.3a
+  ]{\textbf{Obj3.2a}Reparameterise INFERNO}{5}{26} \\
+  \ganttbar[
+    progress=0,
+    name=Obj5.3b
+  ]{\textbf{Obj3.2b} Incorporate agricultural supression}{5}{26} \\
+ 
+\ganttgroup[
+    progress=0,
+    name=Obj5.4
+  ]{\textbf{Obj5.4 fireMIP}}{17}{52} \\
+
+  \ganttbar[
+    progress=10,
+    name=Obj5.4a
+  ]{\textbf{Obj5.4a} Inital Benchmarking}{5}{26} \\
+  \ganttbar[
+    progress=0,
+    name=Obj5.4b
+  ]{\textbf{Obj5.4b} Final Benchmarking}{5}{26} \\
+%\ganttbar{first task}{1}{2} \\
+%\ganttbar{task 2}{3}{8} \\
+%\ganttbar{task 3}{9}{10} \\
+%\ganttbar{task 4}{11}{15} \\
+%\ganttbar[progress=33]{task 5}{20}{36} \\
+%\ganttbar{task 6}{18}{19} \\
+%\ganttbar{task 7}{16}{18} \\
+%\ganttbar[progress=0]{task 8}{21}{52}
 
 %relations 
 \ganttlink{Obj1.1}{Obj2} 
-\ganttlink{O2n1}{O2n3} 
-\ganttlink{O2n2}{O2n3} 
+\ganttlink{Obj3.1a}{Obj3.2a} 
+\ganttlink{Obj3.1a}{Obj3.2b} 
+\ganttlink{Obj3.1f}{Obj3.2c} 
+\ganttlink{Obj3.2c}{Obj3.2d} 
+%\ganttlink{O2n2}{O2n3} 
 \end{ganttchart}
 }
 %\end{center}
