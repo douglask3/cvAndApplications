@@ -9,6 +9,7 @@
 \begin{figure}[ftbp]
 \flushleft
 %\begin{center}
+\vspace*{-10em}
 \hspace*{-17em}\raisebox{0em}{
 \begin{ganttchart}[
 y unit title=0.4cm,
@@ -84,25 +85,25 @@ group peaks={}{}{.2}]{52}
     name=Obj1.1b
   ]{\textbf{Obj1.1b} Broadleaf PFT redistribution and growth}{2}{3} \\
   \ganttbar[
-    progress=75,
+    progress=10,
     name=Obj1.1c
-  ]{\textbf{Obj1.1c} Surface albedo tuning}{4}{8} \\
+  ]{\textbf{Obj1.1c} Surface albedo tuning}{5}{8} \\
   \ganttbar[
-    progress=75,
+    progress=0,
     name=Obj1.1d
-  ]{\textbf{Obj1.1d} Carbon conservation of CO2 in emission-driven runs}{4}{12} \\
+  ]{\textbf{Obj1.1d} Carbon conservation of CO2 in emission-driven runs}{6}{12} \\
   \ganttbar[
-    progress=75,
+    progress=0,
     name=Obj1.1e
   ]{\textbf{Obj1.1e} Model component carbon uptake}{8}{13} \\
   \ganttbar[
-    progress=75,
+    progress=0,
     name=Obj1.1f
   ]{\textbf{Obj1.1f} Implementing diffuse fraction code}{16}{20} \\
   \ganttbar[
-    progress=75,
+    progress=0,
     name=Obj1.1g
-  ]{\textbf{Obj1.1g} biases in veg fractions which affect the rest of the ESM }{16}{26} \\
+  ]{\textbf{Obj1.1g} Biases in veg fractions which affect the rest of the ESM }{16}{26} \\
 
 
  \ganttgroup[
@@ -158,23 +159,23 @@ group peaks={}{}{.2}]{52}
   \ganttbar[
     progress=60,
     name=Obj3.1b
-  ]{\textbf{Obj3.1b} Model Application results}{1}{9} \\
-    \ganttbar[
-    progress=20,
-    name=Obj3.1c
-  ]{\textbf{Obj3.1c}Plan paper}{7}{10} \\
-  \ganttbar[
-    progress=20,
-    name=Obj3.1d
-  ]{\textbf{Obj3.1d} Write up draft paper}{9}{11} \\
-  \ganttbar[
-    progress=0,
-    name=Obj3.1e
-  ]{\textbf{Obj3.1e} AGU presentation}{12}{13} \\
+  ]{\textbf{Obj3.1b} Model Application results}{1}{12} \\
   \ganttbar[
     progress=0,
     name=Obj3.1f
-  ]{\textbf{Obj3.1f} Finalise paper and submit}{16}{20} \\
+  ]{\textbf{Obj3.1f} AGU presentation}{9}{13} \\
+    \ganttbar[
+    progress=20,
+    name=Obj3.1c
+  ]{\textbf{Obj3.1c}Plan paper}{12}{16} \\
+  \ganttbar[
+    progress=20,
+    name=Obj3.1d
+  ]{\textbf{Obj3.1d} Write up draft paper}{16}{20} \\
+  \ganttbar[
+    progress=0,
+    name=Obj3.1e
+  ]{\textbf{Obj3.1e} Finalise paper and submit}{20}{24} \\
   \ganttbar[
     progress=0,
     name=Obj3.1g
@@ -192,7 +193,7 @@ group peaks={}{}{.2}]{52}
 \ganttgroup[
     progress=0,
     name=Obj3.2
-  ]{\textbf{Obj3.2 JULES}}{17}{52} \\
+  ]{\textbf{Obj3.2 JULES/INFERNO}}{17}{52} \\
 
   \ganttbar[
     progress=0,
@@ -284,7 +285,7 @@ group peaks={}{}{.2}]{52}
   ]{\textbf{Obj5.4 fireMIP}}{1}{29} \\
 
   \ganttbar[
-    progress=50,
+    progress=100,
     name=Obj5.4a
   ]{\textbf{Obj5.4a} Inital Benchmarking}{2}{3} \\
   \ganttbar[
@@ -313,8 +314,9 @@ group peaks={}{}{.2}]{52}
 \ganttlink{Obj2c}{Obj2d}
 
 \ganttlink{Obj3.1c}{Obj3.1d} 
-\ganttlink{Obj3.1b}{Obj3.1e} 
-\ganttlink{Obj3.1d}{Obj3.1f} 
+\ganttlink{Obj3.1b}{Obj3.1f} 
+\ganttlink{Obj3.1b}{Obj3.1c} 
+\ganttlink{Obj3.1d}{Obj3.1e} 
 
 \ganttlink{Obj3.1a}{Obj3.2a} 
 \ganttlink{Obj3.1g}{Obj3.2c}
